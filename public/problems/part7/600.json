@@ -1,0 +1,32 @@
+[
+  {
+    "id": "p7_600_001",
+    "content": "<strong>To: All Staff</strong><br/><strong>From: Management</strong><br/><strong>Date: October 26</strong><br/><strong>Subject: Annual Performance Reviews</strong><br/><br/>This is a reminder that annual performance reviews will be conducted from November 10 to November 21. All employees are required to schedule a 30-minute meeting with their direct supervisor during this period. Please complete the self-evaluation form, which can be downloaded from the company intranet, and submit it to your supervisor at least two days prior to your scheduled meeting. Your review will cover your accomplishments over the past year and goals for the upcoming year. Your active participation is crucial for a productive discussion.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "What is the main purpose of this memo?",
+        "options": {
+          "A": "To announce a new company policy",
+          "B": "To remind employees about upcoming reviews",
+          "C": "To introduce a new supervisor",
+          "D": "To request vacation schedules"
+        },
+        "answer": "B",
+        "explanation": "メモの件名 (Subject) と最初の文で「年次の業績評価 (annual performance reviews) が行われることのリマインダーである」と明確に述べられています。"
+      },
+      {
+        "id": "q2",
+        "problem": "What must employees do before their meeting?",
+        "options": {
+          "A": "Contact the human resources department",
+          "B": "Schedule a meeting with the management",
+          "C": "Complete and submit a self-evaluation form",
+          "D": "Prepare a presentation on their accomplishments"
+        },
+        "answer": "C",
+        "explanation": "メモには「自己評価フォーム (self-evaluation form) に記入し、予定されている会議の少なくとも2日前に上司に提出してください」と記載されています。"
+      }
+    ]
+  }
+]

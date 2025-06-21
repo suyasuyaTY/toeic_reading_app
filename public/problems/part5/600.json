@@ -1,0 +1,20 @@
+[
+  {
+    "id": "p5_600_001",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The marketing team is preparing a new campaign to ___ customer engagement.",
+        "options": {
+          "A": "boost",
+          "B": "boasting",
+          "C": "boosts",
+          "D": "boosted"
+        },
+        "answer": "A",
+        "explanation": "to不定詞の後には動詞の原形が続くため、(A) 'boost' が正解です。'to boost'で「高めるために」という意味になります。"
+      }
+    ]
+  }
+]

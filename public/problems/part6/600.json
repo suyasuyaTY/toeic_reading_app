@@ -1,0 +1,56 @@
+[
+  {
+    "id": "p6_600_001",
+    "content": "To: All Staff\nFrom: Management\nSubject: Office Renovation Notice\n\nThis is to inform you that our main office will undergo renovations to create a more modern and productive workspace. The renovation work will ------- [1] on Monday, July 7th and is expected to last for approximately two weeks.\n\nDuring this period, some areas may be temporarily inaccessible. We apologize for any ------- [2] this may cause. All employees are asked to use the south entrance until the work is complete.\n\nPlease keep your personal belongings secure. The project manager will provide updates ------- [3]. We believe that the new office environment will benefit everyone. ------- [4] We appreciate your cooperation.\n",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "commence",
+          "B": "conclude",
+          "C": "commit",
+          "D": "compete"
+        },
+        "answer": "A",
+        "explanation": "文脈から、改装工事が7月7日に「始まる」という意味が必要です。 (A) 'commence' (開始する) が最も適切です。 (B) 'conclude' (終える), (C) 'commit' (委ねる), (D) 'compete' (競争する) は文脈に合いません。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "convenience",
+          "B": "inconvenience",
+          "C": "appointment",
+          "D": "development"
+        },
+        "answer": "B",
+        "explanation": "'apologize for any ...' (いかなる～についてもお詫びします) という文脈では、工事によって生じる「不便」について謝罪するのが自然です。したがって、(B) 'inconvenience' (不便) が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "regular",
+          "B": "regularly",
+          "C": "regulate",
+          "D": "regulation"
+        },
+        "answer": "B",
+        "explanation": "動詞 'provide' (提供する) を修飾するため、副詞が必要です。 (B) 'regularly' (定期的に) が文法的に正しく、文脈にも合います。「定期的に最新情報を提供します」という意味になります。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "The budget for this project is limited.",
+          "B": "We look forward to the positive changes.",
+          "C": "All staff must attend the safety training.",
+          "D": "The previous manager has just retired."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前の文が「新しいオフィス環境は皆のためになると信じています」と前向きな内容であるため、それに続く文として最も自然なのは、(B)「私たちはこの前向きな変化を楽しみにしています」です。他の選択肢は文脈から外れています。"
+      }
+    ]
+  }
+]
