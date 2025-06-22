@@ -16,5 +16,1787 @@
         "explanation": "to不定詞の後には動詞の原形が続くため、(A) 'boost' が正解です。'to boost'で「高めるために」という意味になります。"
       }
     ]
+  },
+  {
+    "id": "p5_600_002",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "All employees must wear their identification badges ___ all times while in the building.",
+        "options": {
+          "A": "at",
+          "B": "in",
+          "C": "on",
+          "D": "by"
+        },
+        "answer": "A",
+        "explanation": "'at all times' は「常に、いつでも」という意味の定型表現です。したがって、(A) 'at' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_003",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The manager gave a very ___ presentation at the meeting.",
+        "options": {
+          "A": "inform",
+          "B": "information",
+          "C": "informative",
+          "D": "informer"
+        },
+        "answer": "C",
+        "explanation": "名詞 'presentation' を修飾するのは形容詞です。したがって、「有益な」という意味の (C) 'informative' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_004",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Mr. Sato ___ in the sales department for five years before he was promoted.",
+        "options": {
+          "A": "works",
+          "B": "has worked",
+          "C": "had worked",
+          "D": "will work"
+        },
+        "answer": "C",
+        "explanation": "'before he was promoted' (昇進する前) という過去の時点よりもさらに前の継続した行動を表すため、過去完了形の (C) 'had worked' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_005",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "You can pay by credit card, ___ you can pay in cash.",
+        "options": {
+          "A": "or",
+          "B": "but",
+          "C": "so",
+          "D": "for"
+        },
+        "answer": "A",
+        "explanation": "「クレジットカードで支払うか、あるいは現金で支払うか」という選択肢を提示しているため、(A) 'or' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_006",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Please read the instructions ___ before you assemble the furniture.",
+        "options": {
+          "A": "care",
+          "B": "careful",
+          "C": "caring",
+          "D": "carefully"
+        },
+        "answer": "D",
+        "explanation": "動詞 'read' を修飾するのは副詞です。したがって、「注意深く」という意味の (D) 'carefully' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_007",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Each employee is responsible for keeping ___ own workspace clean.",
+        "options": {
+          "A": "its",
+          "B": "our",
+          "C": "their",
+          "D": "your"
+        },
+        "answer": "C",
+        "explanation": "主語の 'Each employee' は単数ですが、性別を特定しない所有格として 'their' が現代の英語では一般的に使われます。したがって (C) 'their' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_008",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The package was delivered ___ the morning.",
+        "options": {
+          "A": "at",
+          "B": "in",
+          "C": "on",
+          "D": "by"
+        },
+        "answer": "B",
+        "explanation": "午前、午後、夕方といった比較的長い時間帯を表す場合は 'in' を使います。'in the morning' は「午前に」という定型表現です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_009",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new software is much faster ___ the old version.",
+        "options": {
+          "A": "as",
+          "B": "than",
+          "C": "then",
+          "D": "like"
+        },
+        "answer": "B",
+        "explanation": "比較級 'faster' があるため、比較対象を示す 'than' が必要です。したがって、(B) 'than' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_010",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "If you have any questions, please do not ___ to contact us.",
+        "options": {
+          "A": "hesitate",
+          "B": "hesitates",
+          "C": "hesitating",
+          "D": "hesitation"
+        },
+        "answer": "A",
+        "explanation": "助動詞 'do not' の後には動詞の原形が続くため、「ためらう」という意味の (A) 'hesitate' が正解です。'do not hesitate to do' は「遠慮なく〜する」という定型表現です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_011",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Our office will be closed ___ the national holiday.",
+        "options": {
+          "A": "for",
+          "B": "at",
+          "C": "of",
+          "D": "to"
+        },
+        "answer": "A",
+        "explanation": "理由や期間を表す前置詞として (A) 'for' が適切です。「祝日のために」という意味になります。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_012",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company is looking for ___ with strong communication skills.",
+        "options": {
+          "A": "apply",
+          "B": "applicant",
+          "C": "applicable",
+          "D": "applicants"
+        },
+        "answer": "D",
+        "explanation": "空所の前には動詞 'looking for' があり、目的語となる名詞が必要です。文脈から「応募者たち」という複数形の名詞が適切なので、(D) 'applicants' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_013",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ the weather was bad, the outdoor event was canceled.",
+        "options": {
+          "A": "Because",
+          "B": "Although",
+          "C": "However",
+          "D": "Therefore"
+        },
+        "answer": "A",
+        "explanation": "「天気が悪かった」という理由で「イベントが中止された」という因果関係を表すため、接続詞 (A) 'Because' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_014",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The report must be submitted ___ Friday afternoon.",
+        "options": {
+          "A": "by",
+          "B": "until",
+          "C": "in",
+          "D": "at"
+        },
+        "answer": "A",
+        "explanation": "「～までに」という期限を表すには前置詞 (A) 'by' を使います。'until' は継続を表すため、ここでは不適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_015",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "All of the computers in the office ___ replaced last month.",
+        "options": {
+          "A": "is",
+          "B": "are",
+          "C": "was",
+          "D": "were"
+        },
+        "answer": "D",
+        "explanation": "主語は 'All of the computers' で複数形です。また、'last month' とあるので過去形にする必要があります。したがって、(D) 'were' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_016",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The success of our project depends ___ everyone's cooperation.",
+        "options": {
+          "A": "at",
+          "B": "with",
+          "C": "on",
+          "D": "for"
+        },
+        "answer": "C",
+        "explanation": "'depend on' は「～に依存する、～次第である」という意味の熟語です。したがって、(C) 'on' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_017",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Customers can get a discount by ___ for our newsletter.",
+        "options": {
+          "A": "register",
+          "B": "registered",
+          "C": "registering",
+          "D": "registration"
+        },
+        "answer": "C",
+        "explanation": "前置詞 'by' の後には動名詞が続くため、(C) 'registering' が正解です。'by -ing' で「～することによって」という意味になります。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_018",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new branch will be located in the ___ of the city.",
+        "options": {
+          "A": "center",
+          "B": "central",
+          "C": "centered",
+          "D": "centrally"
+        },
+        "answer": "A",
+        "explanation": "定冠詞 'the' と前置詞 'of' の間には名詞が入ります。したがって、「中心」という意味の名詞 (A) 'center' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_019",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Ms. Kim is responsible for ___ all international shipments.",
+        "options": {
+          "A": "handle",
+          "B": "handling",
+          "C": "handled",
+          "D": "handles"
+        },
+        "answer": "B",
+        "explanation": "前置詞 'for' の後には動名詞が続くため、(B) 'handling' が正解です。'be responsible for -ing' で「～する責任がある」という意味になります。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_020",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "This printer is ___ to the one we had before.",
+        "options": {
+          "A": "similar",
+          "B": "similarly",
+          "C": "similarity",
+          "D": "similarities"
+        },
+        "answer": "A",
+        "explanation": "be動詞 'is' の後で、名詞 'printer' の状態を説明しているため、形容詞が必要です。'be similar to' で「～に似ている」という意味になるため、(A) 'similar' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_021",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The CEO ___ a speech at the annual conference next week.",
+        "options": {
+          "A": "gives",
+          "B": "gave",
+          "C": "has given",
+          "D": "will give"
+        },
+        "answer": "D",
+        "explanation": "'next week' という未来を表す表現があるため、未来形の (D) 'will give' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_022",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "You need to get ___ from your supervisor before making a purchase.",
+        "options": {
+          "A": "approve",
+          "B": "approval",
+          "C": "approved",
+          "D": "approvingly"
+        },
+        "answer": "B",
+        "explanation": "動詞 'get' の目的語となる名詞が必要です。したがって、「承認」という意味の名詞 (B) 'approval' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_023",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The flight was delayed ___ to heavy snow.",
+        "options": {
+          "A": "because",
+          "B": "due",
+          "C": "since",
+          "D": "as"
+        },
+        "answer": "B",
+        "explanation": "'due to' は「～が原因で」という意味の前置詞句です。後ろに名詞句 'heavy snow' が続いているため、(B) 'due' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_024",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "We have received your resume and will contact you ___ if you are selected for an interview.",
+        "options": {
+          "A": "short",
+          "B": "shorter",
+          "C": "shortly",
+          "D": "shortness"
+        },
+        "answer": "C",
+        "explanation": "動詞 'will contact' を修飾するのは副詞です。したがって、「まもなく、すぐに」という意味の副詞 (C) 'shortly' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_025",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The training program is designed for ___ who have less than one year of experience.",
+        "options": {
+          "A": "that",
+          "B": "these",
+          "C": "this",
+          "D": "those"
+        },
+        "answer": "D",
+        "explanation": "関係代名詞 'who' に先行し、「～な人々」という意味を表すのは 'those' です。したがって、(D) 'those' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_026",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Our new vacuum cleaner is more ___ than the previous model.",
+        "options": {
+          "A": "power",
+          "B": "powerful",
+          "C": "powerfully",
+          "D": "powered"
+        },
+        "answer": "B",
+        "explanation": "比較級 'more' の後には形容詞か副詞が入ります。ここでは be動詞 'is' の補語となる形容詞が必要なため、「強力な」という意味の (B) 'powerful' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_027",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The factory had to shut down ___ for maintenance work.",
+        "options": {
+          "A": "temporary",
+          "B": "temporarily",
+          "C": "temporariness",
+          "D": "temporal"
+        },
+        "answer": "B",
+        "explanation": "動詞句 'shut down' を修飾するのは副詞です。したがって、「一時的に」という意味の副詞 (B) 'temporarily' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_028",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The workshop has been postponed ___ next Tuesday.",
+        "options": {
+          "A": "of",
+          "B": "for",
+          "C": "until",
+          "D": "by"
+        },
+        "answer": "C",
+        "explanation": "「～まで」という継続した状態を表すため、前置詞 (C) 'until' が正解です。'postpone' (延期する) と一緒に使われることが多いです。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_029",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Please make sure your seatbelt is ___ fastened.",
+        "options": {
+          "A": "secure",
+          "B": "secured",
+          "C": "securely",
+          "D": "security"
+        },
+        "answer": "C",
+        "explanation": "過去分詞の形容詞 'fastened' を修飾するのは副詞です。したがって、「しっかりと」という意味の副詞 (C) 'securely' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_030",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ he has a lot of experience, he was not hired for the position.",
+        "options": {
+          "A": "So",
+          "B": "Because",
+          "C": "Although",
+          "D": "Therefore"
+        },
+        "answer": "C",
+        "explanation": "「多くの経験がある」ことと「採用されなかった」ことは逆接の関係にあるため、「～だけれども」という意味の接続詞 (C) 'Although' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_031",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "This coupon is ___ only for one week from the date of issue.",
+        "options": {
+          "A": "valid",
+          "B": "validate",
+          "C": "validly",
+          "D": "validation"
+        },
+        "answer": "A",
+        "explanation": "be動詞 'is' の補語となる形容詞が必要です。したがって、「有効な」という意味の (A) 'valid' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_032",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company decided to ___ its headquarters to a larger building.",
+        "options": {
+          "A": "relocate",
+          "B": "relocates",
+          "C": "relocating",
+          "D": "relocation"
+        },
+        "answer": "A",
+        "explanation": "to不定詞 'to' の後には動詞の原形が続くため、(A) 'relocate' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_033",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "A copy of the ___ will be sent to all attendees after the conference.",
+        "options": {
+          "A": "present",
+          "B": "presentation",
+          "C": "presenter",
+          "D": "presentable"
+        },
+        "answer": "B",
+        "explanation": "定冠詞 'the' と前置詞 'of' の間には名詞が入ります。文脈から「プレゼンテーション」という意味の名詞 (B) 'presentation' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_034",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Employees are required to attend the safety ___ session.",
+        "options": {
+          "A": "train",
+          "B": "trainer",
+          "C": "trained",
+          "D": "training"
+        },
+        "answer": "D",
+        "explanation": "名詞 'session' を修飾する役割を持つ名詞（複合名詞）が必要です。「研修」という意味の (D) 'training' が入り、'training session' で「研修セッション」となります。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_035",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The marketing director is responsible ___ developing new strategies.",
+        "options": {
+          "A": "of",
+          "B": "for",
+          "C": "at",
+          "D": "with"
+        },
+        "answer": "B",
+        "explanation": "'be responsible for' は「～に責任がある」という意味の定型表現です。したがって、(B) 'for' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_036",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new system allows us to process orders more ___.",
+        "options": {
+          "A": "efficient",
+          "B": "efficiency",
+          "C": "efficiently",
+          "D": "efficiencies"
+        },
+        "answer": "C",
+        "explanation": "動詞句 'process orders' を修飾するのは副詞です。したがって、「効率的に」という意味の (C) 'efficiently' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_037",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "We apologize for any ___ this delay may have caused.",
+        "options": {
+          "A": "inconvenience",
+          "B": "inconvenient",
+          "C": "inconveniently",
+          "D": "inconveniencing"
+        },
+        "answer": "A",
+        "explanation": "形容詞 'any' の後には名詞が入ります。したがって、「不便」という意味の名詞 (A) 'inconvenience' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_038",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The budget proposal must be approved ___ the board of directors.",
+        "options": {
+          "A": "with",
+          "B": "from",
+          "C": "by",
+          "D": "of"
+        },
+        "answer": "C",
+        "explanation": "受動態の文で「～によって」行為者を示すには前置詞 (C) 'by' を使います。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_039",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The manager ___ that all weekly reports should be submitted by 5 p.m. on Friday.",
+        "options": {
+          "A": "requested",
+          "B": "requesting",
+          "C": "requests",
+          "D": "request"
+        },
+        "answer": "A",
+        "explanation": "文の主語は 'The manager' であり、動詞が必要です。文脈から過去の出来事であると考えられるため、過去形の (A) 'requested' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_040",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Our goal is to provide ___ customer service.",
+        "options": {
+          "A": "excel",
+          "B": "excellent",
+          "C": "excellently",
+          "D": "excellence"
+        },
+        "answer": "B",
+        "explanation": "名詞 'customer service' を修飾するのは形容詞です。したがって、「優れた」という意味の (B) 'excellent' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_041",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The product will be available ___ purchase next month.",
+        "options": {
+          "A": "for",
+          "B": "to",
+          "C": "with",
+          "D": "at"
+        },
+        "answer": "A",
+        "explanation": "'be available for' は「～のために利用可能である」という意味で使われます。ここでは「購入のために」となるため、(A) 'for' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_042",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ entering the laboratory, all staff must put on a lab coat.",
+        "options": {
+          "A": "After",
+          "B": "When",
+          "C": "While",
+          "D": "Before"
+        },
+        "answer": "D",
+        "explanation": "文脈から「研究室に入る前に」という意味が最も自然です。接続詞 'Before' は後ろに動名詞をとることができます。したがって (D) 'Before' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_043",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Dr. Evans is a ___ respected expert in her field.",
+        "options": {
+          "A": "high",
+          "B": "highly",
+          "C": "height",
+          "D": "higher"
+        },
+        "answer": "B",
+        "explanation": "過去分詞の形容詞 'respected' を修飾するのは副詞です。したがって、「非常に」という意味の (B) 'highly' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_044",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "We offer a wide ___ of products to meet our customers' needs.",
+        "options": {
+          "A": "vary",
+          "B": "various",
+          "C": "variety",
+          "D": "variously"
+        },
+        "answer": "C",
+        "explanation": "不定冠詞 'a' と形容詞 'wide' の後には名詞が入ります。'a wide variety of' で「多種多様な」という意味の定型表現です。したがって、(C) 'variety' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_045",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The conference call ___ at 10:00 AM tomorrow.",
+        "options": {
+          "A": "begins",
+          "B": "began",
+          "C": "has begun",
+          "D": "was beginning"
+        },
+        "answer": "A",
+        "explanation": "確定している未来の予定を表す場合、現在形を使うことがあります。'tomorrow' とありますが、時刻表やスケジュール上の予定は現在形で表現されるため、(A) 'begins' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_046",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Please complete the attached form and return it to ___.",
+        "options": {
+          "A": "we",
+          "B": "our",
+          "C": "ours",
+          "D": "us"
+        },
+        "answer": "D",
+        "explanation": "前置詞 'to' の後には目的格の代名詞が来るため、(D) 'us' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_047",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Sales have increased ___ over the last quarter.",
+        "options": {
+          "A": "consider",
+          "B": "considerate",
+          "C": "consideration",
+          "D": "considerably"
+        },
+        "answer": "D",
+        "explanation": "動詞句 'have increased' を修飾するのは副詞です。したがって、「かなり、大幅に」という意味の (D) 'considerably' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_048",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Mr. Lee was unable to attend the meeting ___ a prior engagement.",
+        "options": {
+          "A": "because",
+          "B": "since",
+          "C": "as a result",
+          "D": "due to"
+        },
+        "answer": "D",
+        "explanation": "空所の後が名詞句 'a prior engagement' (先約) なので、前置詞の働きをする 'due to' (～のために) が正解です。'because' や 'since' は接続詞なので、後ろに節（主語+動詞）が続きます。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_049",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The ___ for the new community center will be held next Saturday.",
+        "options": {
+          "A": "celebrate",
+          "B": "celebrated",
+          "C": "celebration",
+          "D": "celebratory"
+        },
+        "answer": "C",
+        "explanation": "定冠詞 'The' の後には主語となる名詞が必要です。したがって、「祝賀会」という意味の名詞 (C) 'celebration' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_050",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Parking is ___ to hotel guests at no extra charge.",
+        "options": {
+          "A": "available",
+          "B": "afford",
+          "C": "allowed",
+          "D": "additional"
+        },
+        "answer": "A",
+        "explanation": "文脈から「ホテルの宿泊客は追加料金なしで駐車場を利用できます」という意味になるのが最も自然です。'available to' で「～が利用できる」という意味になるため、(A) 'available' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_051",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The technician quickly identified the ___ with the computer.",
+        "options": {
+          "A": "problematic",
+          "B": "problematically",
+          "C": "problem",
+          "D": "problems"
+        },
+        "answer": "C",
+        "explanation": "定冠詞 'the' の後には名詞が必要です。文脈上、単数形の「問題」を指しているため、(C) 'problem' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_052",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Our company has a strict policy ___ lateness.",
+        "options": {
+          "A": "besides",
+          "B": "concerning",
+          "C": "in spite of",
+          "D": "along"
+        },
+        "answer": "B",
+        "explanation": "「～に関して」という意味の前置詞が必要です。'concerning' は 'about' や 'regarding' と同じ意味で使われるため、(B) が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_053",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The museum is ___ located near the train station.",
+        "options": {
+          "A": "convenience",
+          "B": "convenient",
+          "C": "conveniently",
+          "D": "convene"
+        },
+        "answer": "C",
+        "explanation": "動詞 'is located' を修飾するのは副詞です。したがって、「便利に」という意味の (C) 'conveniently' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_054",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "All visitors must sign in ___ the reception desk.",
+        "options": {
+          "A": "at",
+          "B": "on",
+          "C": "in",
+          "D": "to"
+        },
+        "answer": "A",
+        "explanation": "比較的狭い場所、特定の地点を表すには前置詞 'at' を使います。「受付で」は 'at the reception desk' と表現します。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_055",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Ms. Garcia has been a ___ employee of this company for over ten years.",
+        "options": {
+          "A": "depend",
+          "B": "dependable",
+          "C": "dependably",
+          "D": "dependence"
+        },
+        "answer": "B",
+        "explanation": "名詞 'employee' を修飾するのは形容詞です。したがって、「信頼できる」という意味の (B) 'dependable' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_056",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The performance of the new machine is ___ to that of the older model.",
+        "options": {
+          "A": "superior",
+          "B": "superiors",
+          "C": "superiority",
+          "D": "superiorly"
+        },
+        "answer": "A",
+        "explanation": "be動詞 'is' の補語となる形容詞が必要です。'superior to' で「～より優れている」という意味の定型表現です。'than' ではなく 'to' を使う点に注意が必要です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_057",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The meeting was canceled because the manager was ___.",
+        "options": {
+          "A": "absence",
+          "B": "absent",
+          "C": "absently",
+          "D": "absentee"
+        },
+        "answer": "B",
+        "explanation": "be動詞 'was' の補語となる形容詞が必要です。したがって、「欠席して」という意味の (B) 'absent' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_058",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Please refer to the manual for more ___ information.",
+        "options": {
+          "A": "detail",
+          "B": "details",
+          "C": "detailed",
+          "D": "detailing"
+        },
+        "answer": "C",
+        "explanation": "名詞 'information' を修飾するのは形容詞です。したがって、「詳細な」という意味の過去分詞形容詞 (C) 'detailed' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_059",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The research team ___ a new method for data analysis.",
+        "options": {
+          "A": "development",
+          "B": "developing",
+          "C": "develops",
+          "D": "developed"
+        },
+        "answer": "D",
+        "explanation": "主語 'The research team' に続く動詞が必要です。文脈から過去の出来事と考えられるため、過去形の (D) 'developed' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_060",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The seminar is open to all employees, ___ of their department.",
+        "options": {
+          "A": "regardless",
+          "B": "regarding",
+          "C": "regard",
+          "D": "regarded"
+        },
+        "answer": "A",
+        "explanation": "'regardless of' は「～に関係なく」という意味の定型表現（前置詞句）です。したがって、(A) 'regardless' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_061",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Customers who purchase two items will receive a third one ___ of charge.",
+        "options": {
+          "A": "free",
+          "B": "freely",
+          "C": "freedom",
+          "D": "freed"
+        },
+        "answer": "A",
+        "explanation": "'free of charge' は「無料で」という意味の定型表現です。したがって、(A) 'free' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_062",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "It is ___ to wear a helmet in the construction area.",
+        "options": {
+          "A": "necessity",
+          "B": "necessary",
+          "C": "necessarily",
+          "D": "necessitate"
+        },
+        "answer": "B",
+        "explanation": "形式主語 'It' の構文で、be動詞 'is' の補語となる形容詞が必要です。したがって、「必要な」という意味の (B) 'necessary' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_063",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company announced its ___ to build a new factory.",
+        "options": {
+          "A": "intend",
+          "B": "intended",
+          "C": "intention",
+          "D": "intentionally"
+        },
+        "answer": "C",
+        "explanation": "所有格 'its' の後には名詞が入ります。したがって、「意図」という意味の名詞 (C) 'intention' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_064",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The final version of the document is ___ different from the first draft.",
+        "options": {
+          "A": "slight",
+          "B": "slighter",
+          "C": "slightness",
+          "D": "slightly"
+        },
+        "answer": "D",
+        "explanation": "形容詞 'different' を修飾するのは副詞です。したがって、「わずかに」という意味の (D) 'slightly' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_065",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "We need to find a ___ to this problem as soon as possible.",
+        "options": {
+          "A": "solve",
+          "B": "solving",
+          "C": "solvable",
+          "D": "solution"
+        },
+        "answer": "D",
+        "explanation": "不定冠詞 'a' の後には名詞が入ります。したがって、「解決策」という意味の名詞 (D) 'solution' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_066",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ the morning of June 10, all staff should attend the general meeting.",
+        "options": {
+          "A": "At",
+          "B": "In",
+          "C": "On",
+          "D": "By"
+        },
+        "answer": "C",
+        "explanation": "特定の日付や曜日の朝・午後・夜を表す場合は前置詞 'on' を使います。'on the morning of June 10' で「6月10日の朝に」となります。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_067",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new manager is very popular ___ the employees.",
+        "options": {
+          "A": "among",
+          "B": "between",
+          "C": "through",
+          "D": "within"
+        },
+        "answer": "A",
+        "explanation": "「（3者以上の）間で」という意味を表す前置詞は 'among' です。'between' は通常、2者の間で使われます。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_068",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Please make a ___ of this document for your records.",
+        "options": {
+          "A": "copied",
+          "B": "copy",
+          "C": "copies",
+          "D": "copying"
+        },
+        "answer": "B",
+        "explanation": "動詞 'make a' の後には単数形の名詞が来ます。したがって、「写し、コピー」という意味の名詞 (B) 'copy' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_069",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Our office is located ___ walking distance of the subway station.",
+        "options": {
+          "A": "by",
+          "B": "within",
+          "C": "near",
+          "D": "at"
+        },
+        "answer": "B",
+        "explanation": "'within walking distance' は「徒歩圏内に」という意味の定型表現です。したがって、(B) 'within' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_070",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new marketing campaign was very ___.",
+        "options": {
+          "A": "success",
+          "B": "succeed",
+          "C": "successful",
+          "D": "successfully"
+        },
+        "answer": "C",
+        "explanation": "be動詞 'was' の補語となる形容詞が必要です。したがって、「成功した」という意味の (C) 'successful' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_071",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company's profits have grown ___ since last year.",
+        "options": {
+          "A": "significant",
+          "B": "significantly",
+          "C": "significance",
+          "D": "signify"
+        },
+        "answer": "B",
+        "explanation": "動詞句 'have grown' を修飾するのは副詞です。したがって、「著しく」という意味の (B) 'significantly' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_072",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ who wish to participate should sign up by Friday.",
+        "options": {
+          "A": "Anyone",
+          "B": "Someone",
+          "C": "Everyone",
+          "D": "Them"
+        },
+        "answer": "A",
+        "explanation": "関係代名詞 'who' を伴って「～する人は誰でも」という意味を表すのは 'Anyone' です。したがって、(A) が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_073",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The safety inspector will visit the factory ___ this month.",
+        "options": {
+          "A": "sometime",
+          "B": "sometimes",
+          "C": "some time",
+          "D": "some times"
+        },
+        "answer": "A",
+        "explanation": "「（未来の）いつか、ある時」という意味を表す副詞は (A) 'sometime' です。'sometimes' は「時々」、'some time' は「しばらくの時間」という意味です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_074",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ of the two candidates is qualified for the job.",
+        "options": {
+          "A": "Both",
+          "B": "Either",
+          "C": "All",
+          "D": "Each"
+        },
+        "answer": "B",
+        "explanation": "動詞が単数形の 'is' であることと、対象が 'two candidates' (2人の候補者) であることから、「2人のうちのどちらか一方」を意味する (B) 'Either' が正解です。'Both' の場合は動詞が複数形になります。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_075",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The report was well-written and easy ___.",
+        "options": {
+          "A": "to understand",
+          "B": "understanding",
+          "C": "understood",
+          "D": "understands"
+        },
+        "answer": "A",
+        "explanation": "'easy to do' で「～するのが簡単だ」という定型表現になります。したがって、to不定詞の (A) 'to understand' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_076",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The event was a great success, ___ to the hard work of the organizing committee.",
+        "options": {
+          "A": "apart",
+          "B": "except",
+          "C": "due",
+          "D": "thanks"
+        },
+        "answer": "D",
+        "explanation": "'thanks to' は「～のおかげで」という良い結果の原因・理由を表す前置詞句です。文脈に合うため、(D) 'thanks' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_077",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Further details will be provided at a ___ date.",
+        "options": {
+          "A": "late",
+          "B": "later",
+          "C": "lately",
+          "D": "latest"
+        },
+        "answer": "B",
+        "explanation": "名詞 'date' を修飾する形容詞が必要です。「後日の」という意味を表す (B) 'later' が正解です。'at a later date' は「後日」という意味の定型表現です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_078",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company's performance was ___ affected by the economic downturn.",
+        "options": {
+          "A": "adverse",
+          "B": "adversity",
+          "C": "adversely",
+          "D": "adversaries"
+        },
+        "answer": "C",
+        "explanation": "過去分詞 'affected' を修飾するのは副詞です。したがって、「不都合に、逆に」という意味の (C) 'adversely' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_079",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "All expense reports must be accompanied ___ original receipts.",
+        "options": {
+          "A": "by",
+          "B": "with",
+          "C": "to",
+          "D": "in"
+        },
+        "answer": "A",
+        "explanation": "'be accompanied by' は「～が添付されている、～を伴う」という意味の定型表現です。したがって、(A) 'by' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_080",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The sales team ___ its quarterly goal last month.",
+        "options": {
+          "A": "achieve",
+          "B": "achieved",
+          "C": "achieves",
+          "D": "achievement"
+        },
+        "answer": "B",
+        "explanation": "主語 'The sales team' に続く動詞が必要です。'last month' とあるので、過去形の (B) 'achieved' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_081",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "We are looking for a candidate with ___ experience in project management.",
+        "options": {
+          "A": "extend",
+          "B": "extensive",
+          "C": "extensively",
+          "D": "extension"
+        },
+        "answer": "B",
+        "explanation": "名詞 'experience' を修飾するのは形容詞です。したがって、「広範囲にわたる」という意味の (B) 'extensive' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_082",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The information in this e-mail is strictly ___.",
+        "options": {
+          "A": "confide",
+          "B": "confident",
+          "C": "confidential",
+          "D": "confidently"
+        },
+        "answer": "C",
+        "explanation": "be動詞 'is' の補語となる形容詞が必要です。したがって、「機密の」という意味の (C) 'confidential' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_083",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The survey results will be ___ next Friday.",
+        "options": {
+          "A": "announce",
+          "B": "announcing",
+          "C": "announced",
+          "D": "announcement"
+        },
+        "answer": "C",
+        "explanation": "助動詞 'will' と be動詞 'be' の後なので、動詞の過去分詞形が入り受動態になります。したがって、(C) 'announced' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_084",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The factory produces a wide range of electronic ___.",
+        "options": {
+          "A": "component",
+          "B": "components",
+          "C": "componential",
+          "D": "composing"
+        },
+        "answer": "B",
+        "explanation": "形容詞 'electronic' の後には名詞が入ります。'a wide range of' (広範囲の) の後には複数形の名詞が続くのが一般的なので、「部品」を意味する (B) 'components' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_085",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "We need to hire an ___ to help with our increased workload.",
+        "options": {
+          "A": "assist",
+          "B": "assistant",
+          "C": "assistance",
+          "D": "assisted"
+        },
+        "answer": "B",
+        "explanation": "不定冠詞 'an' の後には名詞が入ります。文脈から「アシスタント、助手」という人物を表す名詞 (B) 'assistant' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_086",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Please arrive at the airport at ___ two hours before your flight.",
+        "options": {
+          "A": "last",
+          "B": "least",
+          "C": "less",
+          "D": "lest"
+        },
+        "answer": "B",
+        "explanation": "'at least' は「少なくとも」という意味の定型表現です。したがって、(B) 'least' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_087",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The rent for this apartment is due on the first day of ___ month.",
+        "options": {
+          "A": "all",
+          "B": "every",
+          "C": "some",
+          "D": "any"
+        },
+        "answer": "B",
+        "explanation": "後ろに単数形の名詞 'month' が続いているため、「毎月」という意味を表す (B) 'every' が正解です。'all' の後ろは複数形の名詞が続きます。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_088",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The city is known for ___ beautiful parks and museums.",
+        "options": {
+          "A": "it",
+          "B": "its",
+          "C": "it's",
+          "D": "itself"
+        },
+        "answer": "B",
+        "explanation": "名詞 'beautiful parks and museums' を修飾する所有格の代名詞が必要です。したがって、「その」という意味の (B) 'its' が正解です。'it's' は 'it is' の短縮形です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_089",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The manual provides clear ___ on how to operate the machine.",
+        "options": {
+          "A": "instruct",
+          "B": "instructor",
+          "C": "instructive",
+          "D": "instructions"
+        },
+        "answer": "D",
+        "explanation": "形容詞 'clear' の後には名詞が入ります。文脈から「指示」という意味の複数形の名詞 (D) 'instructions' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_090",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The quality of our products is our highest ___.",
+        "options": {
+          "A": "prior",
+          "B": "prioritize",
+          "C": "priority",
+          "D": "prioritization"
+        },
+        "answer": "C",
+        "explanation": "所有格 'our' と形容詞 'highest' の後には名詞が入ります。したがって、「優先事項」という意味の名詞 (C) 'priority' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_091",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The restaurant is famous ___ its fresh seafood.",
+        "options": {
+          "A": "with",
+          "B": "of",
+          "C": "at",
+          "D": "for"
+        },
+        "answer": "D",
+        "explanation": "'be famous for' は「～で有名である」という意味の定型表現です。したがって、(D) 'for' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_092",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "To avoid additional fees, please pay your bill ___.",
+        "options": {
+          "A": "prompt",
+          "B": "promptly",
+          "C": "promptness",
+          "D": "prompting"
+        },
+        "answer": "B",
+        "explanation": "動詞 'pay' を修飾するのは副詞です。したがって、「迅速に」という意味の (B) 'promptly' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_093",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company offers a ___ benefits package, including health insurance and a retirement plan.",
+        "options": {
+          "A": "comprehend",
+          "B": "comprehension",
+          "C": "comprehensive",
+          "D": "comprehensively"
+        },
+        "answer": "C",
+        "explanation": "名詞 'benefits package' を修飾するのは形容詞です。したがって、「包括的な」という意味の (C) 'comprehensive' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_094",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "This offer is available ___ to members of our loyalty program.",
+        "options": {
+          "A": "exclude",
+          "B": "exclusive",
+          "C": "exclusively",
+          "D": "exclusion"
+        },
+        "answer": "C",
+        "explanation": "前置詞句 'to members' を修飾する副詞が必要です。'available exclusively to' で「～だけに利用可能です」という意味になるため、(C) 'exclusively' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_095",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The IT department will perform system ___ this weekend.",
+        "options": {
+          "A": "maintain",
+          "B": "maintains",
+          "C": "maintained",
+          "D": "maintenance"
+        },
+        "answer": "D",
+        "explanation": "名詞 'system' の後ろに置かれ、複合名詞 'system maintenance' (システムの保守) を作る名詞が必要です。したがって、(D) 'maintenance' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_096",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The manager is not in the office right now, ___ would you like to leave a message?",
+        "options": {
+          "A": "so",
+          "B": "but",
+          "C": "or",
+          "D": "for"
+        },
+        "answer": "A",
+        "explanation": "「マネージャーは今オフィスにいません」という理由から、「なのでメッセージを残しますか？」という結果・提案に繋がっているため、接続詞 (A) 'so' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_097",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The product launch has been delayed, but a new date will be announced ___.",
+        "options": {
+          "A": "shortage",
+          "B": "shortly",
+          "C": "shorten",
+          "D": "short"
+        },
+        "answer": "B",
+        "explanation": "動詞句 'will be announced' を修飾するのは副詞です。したがって、「まもなく」という意味の (B) 'shortly' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_098",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The Human Resources department is responsible for ___ new employees.",
+        "options": {
+          "A": "recruit",
+          "B": "recruiting",
+          "C": "recruited",
+          "D": "recruitment"
+        },
+        "answer": "B",
+        "explanation": "前置詞 'for' の後には名詞か動名詞が来ます。ここでは「新しい従業員を募集すること」という行為を表すため、動名詞 (B) 'recruiting' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_099",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Mr. Chen asked his assistant to make travel ___ for his trip to Hong Kong.",
+        "options": {
+          "A": "arrange",
+          "B": "arranging",
+          "C": "arrangement",
+          "D": "arrangements"
+        },
+        "answer": "D",
+        "explanation": "動詞 'make' の目的語となる名詞が必要です。'make arrangements' で「手配をする」という定型表現になり、旅行の手配は多岐にわたることが多いため複数形の (D) 'arrangements' が最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_600_100",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "All of our products undergo ___ testing before they are sold.",
+        "options": {
+          "A": "rigor",
+          "B": "rigorous",
+          "C": "rigorously",
+          "D": "rigorousness"
+        },
+        "answer": "B",
+        "explanation": "名詞 'testing' を修飾するのは形容詞です。したがって、「厳格な」という意味の (B) 'rigorous' が正解です。"
+      }
+    ]
   }
 ]

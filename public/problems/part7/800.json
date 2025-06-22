@@ -1,0 +1,152 @@
+[
+  {
+    "id": "p7_800_001",
+    "content": "<strong>From: Carla Jennings &lt;c.jennings@fairfieldlaw.com&gt;</strong><br/><strong>To: All Legal Assistants</strong><br/><strong>Date: January 3</strong><br/><strong>Subject: Change in Document Filing Procedure</strong><br/><br/>Effective immediately, all client documents must be uploaded to the internal case management system instead of being sent via email. Each file should be named using the case ID followed by a brief description (e.g., 2024-0198_contract_draft.pdf). This change was implemented to improve document tracking and ensure compliance with the updated data security regulations.<br/><br/>If you have any questions regarding the new protocol, please consult the updated documentation in the assistant handbook or attend the optional Q&A session this Friday at 2:00 p.m.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Why was the procedure change introduced?",
+        "options": {
+          "A": "To reduce email server load",
+          "B": "To comply with revised security policies",
+          "C": "To encourage staff to attend training",
+          "D": "To prepare for system maintenance"
+        },
+        "answer": "B",
+        "explanation": "文中に「ensure compliance with the updated data security regulations」とあり、セキュリティ対策のためとわかる。"
+      },
+      {
+        "id": "q2",
+        "problem": "What is a requirement for naming documents?",
+        "options": {
+          "A": "They must include the upload date",
+          "B": "They must use only the client’s initials",
+          "C": "They must follow a specific format with a case ID",
+          "D": "They must be reviewed by a supervisor"
+        },
+        "answer": "C",
+        "explanation": "ファイル命名法について「case ID followed by a brief description」と具体的に書かれている。"
+      }
+    ]
+  },
+  {
+    "id": "p7_800_002",
+    "content": "<strong>Excerpt from a Company Newsletter</strong><br/><br/>As part of our efforts to foster sustainability, Meadowline Industries will begin phasing out the use of single-use plastics in all facilities starting next month. Refillable water stations will be installed on each floor, and employees will receive company-branded reusable bottles. The initiative is aligned with our corporate responsibility goals outlined in last year’s annual report. Departments are encouraged to find additional ways to reduce environmental impact and may submit proposals to the Sustainability Committee by February 15.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "What is the main goal of this initiative?",
+        "options": {
+          "A": "To promote company branding",
+          "B": "To reduce disposable plastic waste",
+          "C": "To cut operational expenses",
+          "D": "To increase employee hydration"
+        },
+        "answer": "B",
+        "explanation": "文中に「phasing out the use of single-use plastics」とあり、使い捨てプラスチックの削減が目的。"
+      },
+      {
+        "id": "q2",
+        "problem": "What are departments encouraged to do?",
+        "options": {
+          "A": "Track the usage of plastic products",
+          "B": "Host environmental training sessions",
+          "C": "Submit their own sustainability ideas",
+          "D": "Replace water stations regularly"
+        },
+        "answer": "C",
+        "explanation": "「submit proposals to the Sustainability Committee」とあり、独自提案を出すことが奨励されている。"
+      }
+    ]
+  },
+  {
+    "id": "p7_800_003",
+    "content": "<strong>From: Tech Support &lt;support@cityconnect.net&gt;</strong><br/><strong>To: Linda Carver &lt;l.carver@granviewrealty.com&gt;</strong><br/><strong>Subject: Resolution to Your Service Ticket #119348</strong><br/><br/>Dear Ms. Carver,<br/><br/>Thank you for reporting the issue with your business internet connection. After a detailed investigation, we identified a hardware fault in your building’s local router, which was replaced yesterday afternoon. A technician also reconfigured the signal parameters to optimize performance.<br/><br/>Please monitor your connection over the next 48 hours. If you continue to experience interruptions, contact us directly using the ticket number above. We apologize for any inconvenience caused.<br/><br/>Sincerely,<br/>Tech Support Team",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "What was the cause of the problem?",
+        "options": {
+          "A": "Incorrect software settings",
+          "B": "An outdated modem",
+          "C": "A faulty local router",
+          "D": "An external line failure"
+        },
+        "answer": "C",
+        "explanation": "「hardware fault in your building’s local router」と問題の原因が明記されている。"
+      },
+      {
+        "id": "q2",
+        "problem": "What should Ms. Carver do if the issue continues?",
+        "options": {
+          "A": "Restart her computer",
+          "B": "Request a technician visit again",
+          "C": "Call a different provider",
+          "D": "Contact support using the ticket number"
+        },
+        "answer": "D",
+        "explanation": "「contact us directly using the ticket number above」と明記されている。"
+      }
+    ]
+  },
+  {
+    "id": "p7_800_004",
+    "content": "<strong>Restaurant Inspection Report</strong><br/><strong>Establishment Name:</strong> Bella Cucina<br/><strong>Inspection Date:</strong> August 18<br/><strong>Inspector:</strong> J. Morales<br/><br/>During the routine inspection, several issues were observed. Most notably, the temperature of the walk-in refrigerator was recorded at 52°F, significantly above the required maximum of 41°F. The manager was advised to dispose of all perishable items stored inside and arrange for immediate repair. Additionally, dry goods were stored on the floor, violating health code regulations. A follow-up inspection is scheduled for August 25 to ensure compliance.<br/><br/>No immediate closure was enforced, but failure to address these issues will result in penalties or suspension of the operating license.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "What problem was found with the refrigerator?",
+        "options": {
+          "A": "It was leaking fluid",
+          "B": "It was making loud noises",
+          "C": "Its temperature was too high",
+          "D": "It had a broken door seal"
+        },
+        "answer": "C",
+        "explanation": "文中に「temperature... 52°F, significantly above... 41°F」とあり、温度が基準以上であった。"
+      },
+      {
+        "id": "q2",
+        "problem": "What consequence may occur if the restaurant fails to fix the issues?",
+        "options": {
+          "A": "It will be closed immediately",
+          "B": "Its license may be suspended",
+          "C": "It will need to pay a fine on the spot",
+          "D": "It must relocate to a new site"
+        },
+        "answer": "B",
+        "explanation": "「failure to address these issues will result in penalties or suspension of the operating license」と記載されている。"
+      }
+    ]
+  },
+  {
+    "id": "p7_800_005",
+    "content": "<strong>To: Conference Speakers</strong><br/><strong>From: Elena Torres &lt;etorres@globeevents.com&gt;</strong><br/><strong>Subject: Speaker Guidelines and Deadlines</strong><br/><br/>Dear Presenters,<br/><br/>Thank you for agreeing to speak at the Global Tech Forum on October 11. Please remember to submit your final presentation slides by September 25. Presentations should be in PDF format and adhere to the 30-minute time limit. A rehearsal session is scheduled on October 9 at 3:00 p.m. in the Pacific Ballroom. Attendance is mandatory unless you’ve made alternative arrangements with the event coordinator.<br/><br/>Additionally, your biography and session description will be included in the official program, so kindly verify the accuracy of your details on the portal by September 18. If you have any questions, don’t hesitate to contact me directly.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "What is one requirement for the presentation slides?",
+        "options": {
+          "A": "They must be submitted in PowerPoint format",
+          "B": "They must include speaker notes",
+          "C": "They must be sent by September 25",
+          "D": "They must contain at least 20 slides"
+        },
+        "answer": "C",
+        "explanation": "「submit your final presentation slides by September 25」と明記されている。"
+      },
+      {
+        "id": "q2",
+        "problem": "What will happen on October 9?",
+        "options": {
+          "A": "A press conference will be held",
+          "B": "Speakers will attend a rehearsal",
+          "C": "The forum will officially begin",
+          "D": "Session times will be assigned"
+        },
+        "answer": "B",
+        "explanation": "「A rehearsal session is scheduled on October 9」とあり、予行演習が行われる。"
+      }
+    ]
+  }
+]

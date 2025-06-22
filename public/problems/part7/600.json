@@ -28,5 +28,125 @@
         "explanation": "メモには「自己評価フォーム (self-evaluation form) に記入し、予定されている会議の少なくとも2日前に上司に提出してください」と記載されています。"
       }
     ]
+  },
+  {
+    "id": "p7_600_002",
+    "content": "<strong>City Gazette – Community News Section</strong><br/><strong>New Library Opening</strong><br/><br/>The new Oakville Public Library branch will officially open its doors on Saturday, November 18, at 10:00 a.m. Located on River Street, the modern facility features a reading lounge, meeting rooms, and digital media labs. A ribbon-cutting ceremony will be held, followed by family-friendly events including a book giveaway, storytelling sessions, and workshops. All are welcome to attend.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "What is being announced in the article?",
+        "options": {
+          "A": "A technology conference",
+          "B": "A neighborhood clean-up event",
+          "C": "A new library branch opening",
+          "D": "A school’s fundraising activity"
+        },
+        "answer": "C",
+        "explanation": "「The new Oakville Public Library branch will officially open...」と書かれており、新しい図書館の開館が主題である。"
+      },
+      {
+        "id": "q2",
+        "problem": "What will happen after the ribbon-cutting ceremony?",
+        "options": {
+          "A": "A press conference will be held",
+          "B": "Volunteers will clean the library",
+          "C": "Visitors can attend various activities",
+          "D": "The mayor will give a speech"
+        },
+        "answer": "C",
+        "explanation": "「family-friendly events including a book giveaway...」とあり、式典後にはイベントが行われることがわかる。"
+      }
+    ]
+  },
+  {
+    "id": "p7_600_003",
+    "content": "<strong>From: Riko Yamamoto &lt;riko.y@brighttravel.jp&gt;</strong><br/><strong>To: Daniel Brown &lt;dbrown@topclients.com&gt;</strong><br/><strong>Subject: Confirmation of Hotel Reservation</strong><br/><strong>Date: May 2</strong><br/><br/>Dear Mr. Brown,<br/><br/>Thank you for choosing Bright Travel. This e-mail is to confirm your hotel reservation at Seaside Resort from June 10 to June 15. Your room is a Deluxe Ocean View Suite with breakfast included. Check-in time is 3:00 p.m., and check-out time is 11:00 a.m. If you have any special requests or need airport transportation, please let us know in advance.<br/><br/>Best regards,<br/>Riko Yamamoto",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "What is the purpose of this email?",
+        "options": {
+          "A": "To cancel a hotel booking",
+          "B": "To confirm a travel itinerary",
+          "C": "To confirm a hotel reservation",
+          "D": "To request flight details"
+        },
+        "answer": "C",
+        "explanation": "件名に「Confirmation of Hotel Reservation」、本文に「confirm your hotel reservation」と明記されています。"
+      },
+      {
+        "id": "q2",
+        "problem": "What is included with the room?",
+        "options": {
+          "A": "Lunch and dinner",
+          "B": "Airport pickup",
+          "C": "Breakfast",
+          "D": "Spa services"
+        },
+        "answer": "C",
+        "explanation": "「with breakfast included」と記載されているため、朝食が含まれています。"
+      }
+    ]
+  },
+  {
+    "id": "p7_600_004",
+    "content": "<strong>NOTICE TO CUSTOMERS</strong><br/><br/>Due to scheduled maintenance, all ATM machines at the Eastview branch will be unavailable from 1:00 a.m. to 5:00 a.m. on Saturday, July 8. Customers are advised to withdraw any necessary cash in advance. Online banking services will not be affected.<br/><br/>We apologize for any inconvenience and appreciate your understanding.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "What is the purpose of this notice?",
+        "options": {
+          "A": "To announce a new ATM service",
+          "B": "To warn about a service interruption",
+          "C": "To promote online banking",
+          "D": "To change banking hours"
+        },
+        "answer": "B",
+        "explanation": "「ATM machines...will be unavailable」とあり、利用停止の通知であることがわかります。"
+      },
+      {
+        "id": "q2",
+        "problem": "Which service will still be available?",
+        "options": {
+          "A": "ATM withdrawals",
+          "B": "Branch counter service",
+          "C": "Online banking",
+          "D": "Mobile check deposit"
+        },
+        "answer": "C",
+        "explanation": "「Online banking services will not be affected」と明記されています。"
+      }
+    ]
+  },
+  {
+    "id": "p7_600_005",
+    "content": "<strong>Advertisement: Weekend Sale at HomeStyle Furniture</strong><br/><br/>Looking for stylish and affordable furniture? Visit HomeStyle Furniture this weekend and enjoy up to 40% off on selected items! The sale includes living room sets, bedroom furniture, and dining tables. This offer is valid from Friday to Sunday only. Don’t miss your chance to redecorate your home for less!<br/><br/>Visit our store at 85 Greenway Road or check out our deals online at www.homestylefurnish.com.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "What is being advertised?",
+        "options": {
+          "A": "A new home appliance line",
+          "B": "An online design course",
+          "C": "A furniture sale",
+          "D": "A house cleaning service"
+        },
+        "answer": "C",
+        "explanation": "「Weekend Sale at HomeStyle Furniture」とあり、家具のセールが主題です。"
+      },
+      {
+        "id": "q2",
+        "problem": "When does the promotion end?",
+        "options": {
+          "A": "On Saturday",
+          "B": "On Friday",
+          "C": "On Sunday",
+          "D": "Next week"
+        },
+        "answer": "C",
+        "explanation": "「This offer is valid from Friday to Sunday only」とあり、日曜までと明記されています。"
+      }
+    ]
   }
 ]

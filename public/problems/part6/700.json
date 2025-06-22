@@ -1,0 +1,2714 @@
+[
+  {
+    "id": "p6_700_001",
+    "content": "To: Marketing Team<br>From: Sarah Jenkins, Project Manager<br>Subject: Update on the 'Nova' Launch Campaign<br><br>Hello team,<br><br>I'm writing to provide an update on the Nova launch campaign. We have successfully completed the initial market research phase. The results are promising and indicate a strong potential market for the product. Our next step is to ------- [1] the creative strategy.<br><br>The design team has submitted preliminary concepts. These concepts are innovative and align well with our brand identity. However, we need to ensure the messaging is consistent across all platforms. Therefore, I will be ------- [2] a mandatory brainstorming session for this Friday at 10 AM.<br><br>Your active participation is crucial. ------- [3]. Please come prepared to share your ideas. I have attached the research summary for your ------- [4]. Let's make this launch our most successful one yet.<br><br>Best regards,<br>Sarah Jenkins",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "finalize",
+          "B": "finalist",
+          "C": "finally",
+          "D": "final"
+        },
+        "answer": "A",
+        "explanation": "文脈上、'to' の後には動詞の原形が必要です。「クリエイティブ戦略を最終決定する」という意味になるため、動詞の (A) 'finalize' (最終決定する) が最も適切です。(B) は名詞 (最終候補者)、(C) は副詞 (ついに)、(D) は形容詞 (最後の) または名詞 (決勝) であり、文法的に不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "canceling",
+          "B": "scheduling",
+          "C": "attending",
+          "D": "postponing"
+        },
+        "answer": "B",
+        "explanation": "文脈から、プロジェクトマネージャーが金曜日の午前10時にブレインストーミングのセッションを「予定している」と理解するのが自然です。したがって、(B) 'scheduling' (スケジュールする、予定を組む) が正解です。(A) 'canceling' (中止する)、(C) 'attending' (出席する)、(D) 'postponing' (延期する) は文脈に合いません。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The previous campaign was not successful.",
+          "B": "Please check your calendars accordingly.",
+          "C": "This meeting will bring together diverse perspectives.",
+          "D": "The budget for this project has been increased."
+        },
+        "answer": "C",
+        "explanation": "空欄の直前でチームの積極的な参加を求めており、直後ではアイデアを共有する準備を求めています。この流れに最も合うのは、様々な視点を集めることが会議の目的であると述べる (C) 「この会議は多様な視点を結集させるでしょう」です。他の選択肢は文脈から外れています。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "review",
+          "B": "reviewer",
+          "C": "reviewed",
+          "D": "reviews"
+        },
+        "answer": "A",
+        "explanation": "'for your ...' (あなたが～するための) という形の後には名詞が入ります。「あなたが目を通すために」という意味にするには、(A) 'review' (検討、レビュー) が適切です。(B) は名詞 (評論家)、(C) は動詞の過去形・過去分詞、(D) は動詞の三単現または名詞の複数形ですが、ここでは「検討」という行為そのものを指す名詞 'review' が最も自然です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_002",
+    "content": "Subject: Your Recent Order #58291<br>From: OptiWear Customer Service<br>To: a.tanaka@email.com<br><br>Dear Mr. Tanaka,<br><br>Thank you for your recent order with OptiWear. We are writing to inform you about the status of your purchase. Your item, the 'Explorer' sunglasses, was scheduled to be shipped today. ------- [1], due to an unexpected logistical issue, there will be a slight delay.<br><br>We anticipate that your order will now be shipped within the next 2-3 business days. We ------- [2] apologize for any inconvenience this may cause. We understand that timely delivery is important.<br><br>As a gesture of our apology, we have ------- [3] a 15% discount coupon to your account for your next purchase. You will receive a confirmation email with a tracking number as soon as your order is on its way. ------- [4].<br><br>Sincerely,<br>The OptiWear Team",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "However",
+          "B": "Therefore",
+          "C": "Moreover",
+          "D": "Otherwise"
+        },
+        "answer": "A",
+        "explanation": "空欄の前では「本日発送予定だった」と述べ、後では「予期せぬ問題で遅延が生じる」と述べています。これは逆接の関係なので、(A) 'However' (しかしながら) が最も適切です。(B) 'Therefore' (したがって)、(C) 'Moreover' (さらに)、(D) 'Otherwise' (さもなければ) は文脈に合いません。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "sincere",
+          "B": "sincerity",
+          "C": "sincerely",
+          "D": "more sincere"
+        },
+        "answer": "C",
+        "explanation": "動詞 'apologize' (謝罪する) を修飾するため、副詞が必要です。(C) 'sincerely' (心から) が文法的に正しく、文脈にも合います。「心からお詫び申し上げます」という意味になります。(A) は形容詞、(B) は名詞です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "applied",
+          "B": "applying",
+          "C": "applies",
+          "D": "application"
+        },
+        "answer": "A",
+        "explanation": "助動詞 'have' の後なので、動詞の過去分詞形が必要です。「あなたのアカウントに15%割引クーポンを適用しました」という意味になるため、(A) 'applied' (適用した) が正解です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "Please confirm your shipping address immediately.",
+          "B": "The item you ordered is currently out of stock.",
+          "C": "We appreciate your patience and understanding.",
+          "D": "You can cancel your order at any time."
+        },
+        "answer": "C",
+        "explanation": "このメールは発送遅延を謝罪する内容です。文末で、顧客の理解を求める表現を入れるのが最も自然です。したがって、(C) 「お客様の忍耐とご理解に感謝いたします」が最も適切です。他の選択肢は文脈に合いません。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_003",
+    "content": "**For Immediate Release**<br><br>**GreenTech Innovations Launches Eco-Friendly Packaging Solution**<br><br>PORTLAND (April 18) – GreenTech Innovations, a leader in sustainable technology, today announced the launch of its new product, 'Composta-Pak'. This innovative packaging is 100% biodegradable and is made from plant-based materials. The company aims to ------- [1] the reliance on single-use plastics in the shipping industry.<br><br>The development of Composta-Pak took over two years of intensive research. 'Our goal was to create a product that is not only environmentally friendly but also ------- [2] and durable enough for commercial use,' said CEO Helen Cho. The material has been rigorously tested to withstand various shipping conditions.<br><br>GreenTech is already in talks with several major e-commerce companies. ------- [3]. The company is confident that this new product will ------- [4] a significant impact on reducing plastic waste. Composta-Pak will be available for commercial orders starting next month.<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "increase",
+          "B": "reduce",
+          "C": "maintain",
+          "D": "promote"
+        },
+        "answer": "B",
+        "explanation": "文脈は、環境に優しい新製品の発表についてです。この製品の目的は、使い捨てプラスチックへの依存を「減らす」ことであると考えるのが自然です。したがって、(B) 'reduce' (減らす) が正解です。(A) 'increase' (増やす)、(C) 'maintain' (維持する)、(D) 'promote' (促進する) は文脈に合いません。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "affordability",
+          "B": "afford",
+          "C": "affordable",
+          "D": "affordably"
+        },
+        "answer": "C",
+        "explanation": "空欄は 'and durable enough' と並列関係にあり、名詞 'product' を修飾する形容詞が必要です。(C) 'affordable' (手頃な価格の) が文法的に正しく、「手頃な価格で、かつ耐久性がある」という文脈にも合います。(A) は名詞、(B) は動詞、(D) は副詞です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "These discussions are expected to conclude shortly.",
+          "B": "The previous products failed to meet expectations.",
+          "C": "The company plans to expand into the Asian market.",
+          "D": "Manufacturing costs have been a major concern."
+        },
+        "answer": "A",
+        "explanation": "空欄の直前で「いくつかの主要なEコマース企業と交渉中である」と述べています。この流れに最も自然に続くのは、その交渉の状況に関する文です。(A) 「これらの話し合いは間もなく結論が出る見込みです」が最も適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "do",
+          "B": "get",
+          "C": "have",
+          "D": "take"
+        },
+        "answer": "C",
+        "explanation": "'have a significant impact on ...' は「～に重大な影響を与える」という意味の定型表現です。したがって、(C) 'have' が正解です。他の動詞ではこの意味になりません。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_004",
+    "content": "**MEMORANDUM**<br><br>To: All Building Tenants<br>From: Building Management<br>Date: November 5<br>Subject: Elevator Maintenance<br><br>Please be advised that the main elevators in the West Tower will be out of service for scheduled maintenance. The work is ------- [1] to begin on Monday, November 12, at 9:00 AM and will continue until Friday, November 16, at 5:00 PM.<br><br>During this period, only the service elevator at the rear of the building will be ------- [2]. We recommend allowing extra time for your commute within the building. We have posted signs to direct you to the service elevator.<br><br>We understand this may be an inconvenience and we have tried to minimize the ------- [3]. This maintenance is essential to ensure the continued safe operation of the elevators. ------- [4]. We appreciate your cooperation and understanding.<br><br>Thank you,<br>Building Management",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "scheduled",
+          "B": "practiced",
+          "C": "decided",
+          "D": "informed"
+        },
+        "answer": "A",
+        "explanation": "'be scheduled to do' は「～する予定である」という意味の定型表現です。メンテナンス作業が月曜日に始まる「予定」であることを伝えているため、(A) 'scheduled' (予定されている) が正解です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "operation",
+          "B": "operational",
+          "C": "operate",
+          "D": "operator"
+        },
+        "answer": "B",
+        "explanation": "be動詞 'will be' の後には、主語である 'the service elevator' の状態を説明する形容詞が必要です。(B) 'operational' (作動可能な、使用可能な) が文法的に正しく、文脈にも合います。(A) は名詞 (操作)、(C) は動詞 (操作する)、(D) は名詞 (操作員) です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "construction",
+          "B": "satisfaction",
+          "C": "disruption",
+          "D": "attraction"
+        },
+        "answer": "C",
+        "explanation": "直前の文で不便について言及しており、その不便、つまり「混乱」や「中断」を最小限に抑えようとした、と続けるのが自然です。したがって、(C) 'disruption' (混乱、中断) が最も適切です。(A) 'construction' (建設)、(B) 'satisfaction' (満足)、(D) 'attraction' (魅力) は文脈に合いません。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "The building will be closed to all visitors.",
+          "B": "The safety of our tenants is our top priority.",
+          "C": "We will be installing new security cameras.",
+          "D": "Please submit your complaints in writing."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前の文で「このメンテナンスはエレベーターの安全な運行を確保するために不可欠です」と述べています。この理由を補強する文として、(B) 「入居者の皆様の安全が我々の最優先事項です」が最も論理的なつながりを持っています。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_005",
+    "content": "**Join Our Team! We're Hiring!**<br><br>Position: Digital Marketing Specialist<br>Company: Innovate Forward Inc.<br>Location: San Francisco, CA<br><br>Innovate Forward Inc. is seeking a ------- [1] motivated and experienced Digital Marketing Specialist to join our dynamic team. The successful candidate will be responsible for developing, implementing, and managing marketing campaigns that promote our company and its products.<br><br>Key Responsibilities:<br>- Plan and execute all digital marketing, including SEO/SEM, email, social media, and display advertising campaigns.<br>- Measure and report on the performance of all digital marketing campaigns.<br>- ------- [2] with the sales team to create marketing materials.<br><br>Qualifications:<br>- A bachelor's degree in Marketing or a ------- [3] field.<br>- At least 3 years of experience in digital marketing.<br>- ------- [4].<br><br>To apply, please send your resume and a cover letter to careers@innovateforward.com.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "high",
+          "B": "highly",
+          "C": "height",
+          "D": "higher"
+        },
+        "answer": "B",
+        "explanation": "形容詞 'motivated' (意欲的な) を修飾するため、副詞が必要です。(B) 'highly' (非常に) が文法的に正しく、文脈にも合います。「非常に意欲的で経験豊富な」という意味になります。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "Collaborate",
+          "B": "Collaboration",
+          "C": "Collaborative",
+          "D": "Collaborator"
+        },
+        "answer": "A",
+        "explanation": "箇条書きのこの項目は、Key Responsibilities (主な職務) の一つであり、動詞の原形で始めるのが一般的です。「営業チームと協力して」という意味になるため、動詞の (A) 'Collaborate' (協力する) が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "relate",
+          "B": "related",
+          "C": "relating",
+          "D": "relation"
+        },
+        "answer": "B",
+        "explanation": "名詞 'field' (分野) を修飾する形容詞が必要です。「関連分野」という意味にするため、(B) 'related' (関連した) が最も適切です。'a related field' は「関連分野」を意味する一般的な表現です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "The company was founded five years ago.",
+          "B": "We offer a competitive salary and benefits.",
+          "C": "Strong analytical skills and data-driven thinking are essential.",
+          "D": "The office is conveniently located near public transportation."
+        },
+        "answer": "C",
+        "explanation": "この空欄は 'Qualifications' (応募資格) のリストの中にあります。したがって、応募者に求められるスキルや資質に関する文が入るのが自然です。(C) 「優れた分析スキルとデータに基づいた思考が不可欠です」が最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_006",
+    "content": "**The Daily Chronicle - Restaurant Review**<br><br>By Marco Chen<br><br>The Olive Branch, a new Mediterranean restaurant downtown, has been generating a lot of buzz. I decided to see for myself if it lives up to the ------- [1]. I was not disappointed. The ambiance is both elegant and welcoming, with soft lighting and tasteful decor.<br><br>The menu offers a wide ------- [2] of traditional dishes. I started with the hummus, which was creamy and flavorful. For the main course, I chose the grilled lamb chops, which were cooked to perfection. The portion sizes were generous, offering great value for money.<br><br>What truly sets The Olive Branch apart, however, is the ------- [3] service. The staff was attentive, knowledgeable, and genuinely friendly. ------- [4]. Overall, The Olive Branch is a fantastic addition to the city's dining scene. I highly recommend it.<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "hype",
+          "B": "cost",
+          "C": "space",
+          "D": "rules"
+        },
+        "answer": "A",
+        "explanation": "直前の文で「多くの話題 (buzz) を呼んでいる」とあり、「その評判が本物かどうか確かめる」という文脈です。'live up to the hype' は「前評判に応える」という意味の定型表現であり、(A) 'hype' (誇大広告、前評判) が最も適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "vary",
+          "B": "various",
+          "C": "variety",
+          "D": "variation"
+        },
+        "answer": "C",
+        "explanation": "'a wide ... of ...' の形で「多種多様な～」という意味を表すには、名詞の (C) 'variety' が必要です。'a wide variety of' は頻出の表現です。(A) は動詞、(B) は形容詞、(D) は名詞ですが 'a wide variation of' は不自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "exceptional",
+          "B": "exception",
+          "C": "except",
+          "D": "exceptionally"
+        },
+        "answer": "A",
+        "explanation": "名詞 'service' を修飾する形容詞が必要です。「卓越したサービス」という意味にするため、(A) 'exceptional' (卓越した、非常に優れた) が最も適切です。(B) は名詞、(C) は前置詞/接続詞、(D) は副詞です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "The restaurant is closed on Mondays.",
+          "B": "My waiter made several excellent recommendations.",
+          "C": "The prices were higher than I had expected.",
+          "D": "Reservations are difficult to get on weekends."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前の文で、スタッフが「気が利いて、知識が豊富で、心からフレンドリーだった」と褒めています。この具体的な例として、(B) 「私のウェイターはいくつかの素晴らしい推薦をしてくれた」が最も自然な流れです。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_007",
+    "content": "**Franklin Library System Maintenance**<br><br>Dear Library Patrons,<br><br>This is to notify you that the Franklin Library's online catalog and digital services will be temporarily unavailable. This is ------- [1] to essential system maintenance. The outage is scheduled to begin at 10:00 PM on Friday, June 28, and is expected to last until 6:00 AM on Saturday, June 29.<br><br>During this time, you will not be able to search the catalog, place holds, or access your online account. Access to our e-books and digital databases will also be ------- [2]. We have chosen these overnight hours to minimize the inconvenience to our users.<br><br>This system upgrade is necessary to improve the performance and ------- [3] of our online services. ------- [4]. All physical library locations will operate during their normal hours. We apologize for any disruption this may cause and thank you for your patience.<br><br>Sincerely,<br>The Franklin Library Staff",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "because",
+          "B": "due",
+          "C": "since",
+          "D": "as"
+        },
+        "answer": "B",
+        "explanation": "空欄の後ろには 'to' を伴う名詞句 'essential system maintenance' が続いています。'due to ...' は「～が原因で、～のために」という意味で、理由を表すことができます。(A) 'because' や (C) 'since'、(D) 'as' は接続詞であり、後ろに節 (主語+動詞) が続く必要があります。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "affected",
+          "B": "effected",
+          "C": "affecting",
+          "D": "effective"
+        },
+        "answer": "A",
+        "explanation": "文脈上、「電子書籍やデータベースへのアクセスも影響を受けます」という意味になるのが自然です。be動詞 'will also be' の後なので、受動態を作る過去分詞 (A) 'affected' (影響を受ける) が正解です。(B) 'effected' は「もたらされた」という意味で不自然。(D) 'effective' は形容詞「効果的な」で文意に合いません。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "secure",
+          "B": "security",
+          "C": "securely",
+          "D": "securities"
+        },
+        "answer": "B",
+        "explanation": "'the performance and ... of our online services' という形になっており、'and' の前後には同じ品詞（名詞）が入ります。「性能と安全性」という意味にするため、名詞の (B) 'security' (安全性) が正解です。(A) は形容詞/動詞、(C) は副詞、(D) は複数形で「有価証券」などの意味になります。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "The old system was prone to frequent crashes.",
+          "B": "We hope you will enjoy the new features.",
+          "C": "The maintenance schedule is subject to change.",
+          "D": "Fines for overdue books will be waived."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前の文で「このアップグレードは性能と安全性を向上させるために必要です」と述べています。このアップグレードの結果、利用者が得られる利益について言及するのが自然な流れです。したがって、(B) 「新しい機能をお楽しみいただけることを願っています」が最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_008",
+    "content": "To: All Employees<br>From: Human Resources<br>Subject: New Employee Wellness Program<br><br>We are ------- [1] to announce the launch of our new Employee Wellness Program, 'Thrive@Work,' starting on July 1st. This program is designed to support the health and well-being of all our employees.<br><br>Thrive@Work includes several components. It offers subsidized gym memberships, confidential counseling services, and monthly wellness workshops. We believe that investing in our employees' health is an ------- [2] part of our success. Participation in the program is completely voluntary.<br><br>An information session will be held next Tuesday at 2 PM in the main conference room. ------- [3]. A detailed brochure outlining all the ------- [4] of the program will be distributed at the session. We strongly encourage everyone to attend and learn more.<br><br>Regards,<br>Human Resources Department",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "pleased",
+          "B": "pleasant",
+          "C": "please",
+          "D": "pleasure"
+        },
+        "answer": "A",
+        "explanation": "'We are ... to announce' の形で、「～することを嬉しく思う」という意味を表します。感情を表す形容詞 (A) 'pleased' が正解です。'be pleased to do' は定型表現です。(B) 'pleasant' は物事が「心地よい」という意味、(C) は動詞、(D) は名詞です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "integral",
+          "B": "integration",
+          "C": "integrate",
+          "D": "integrally"
+        },
+        "answer": "A",
+        "explanation": "名詞 'part' を修飾する形容詞が必要です。「成功に不可欠な部分」という意味にするため、(A) 'integral' (不可欠な) が最も適切です。(B) は名詞 (統合)、(C) は動詞 (統合する)、(D) は副詞 (不可欠に) です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "This program was suggested by our CEO.",
+          "B": "The session will provide a comprehensive overview.",
+          "C": "Attendance at the information session is mandatory.",
+          "D": "There have been some complaints about the old program."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前で説明会の日時を告知し、直後で詳細なパンフレットを配布すると述べています。この流れをつなぐ文として、説明会の内容について言及する (B) 「このセッションでは包括的な概要を説明します」が最も適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "beneficial",
+          "B": "benefits",
+          "C": "beneficiary",
+          "D": "benefited"
+        },
+        "answer": "B",
+        "explanation": "'all the ... of the program' の形で、「プログラムのすべての～」という意味になります。プログラムが提供する「恩恵」や「利点」を指すため、名詞の複数形 (B) 'benefits' が正解です。(A) は形容詞、(C) は名詞 (受益者)、(D) は動詞の過去形・過去分詞です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_009",
+    "content": "From: Alex (Event Coordinator)<br>To: Maria (Catering Manager)<br>Subject: Re: Catering for Tech Conference<br><br>Hi Maria,<br><br>Thanks for the quick response. The proposed menu looks great. I just have a few questions and modifications. First, can we ensure there are ------- [1] vegetarian and gluten-free options available? We have several attendees with dietary ------- [2].<br><br>Second, regarding the schedule, the lunch break is from 12:30 PM to 1:30 PM. We need the buffet to be fully set up by 12:15 PM at the latest. ------- [3].<br><br>Finally, could you please confirm the total cost per person, ------- [4] of all taxes and service charges? Once I have this information, I can get the final approval from my director. <br><br>Thanks,<br>Alex",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "ample",
+          "B": "empty",
+          "C": "minor",
+          "D": "scarce"
+        },
+        "answer": "A",
+        "explanation": "文脈は、特別な食事制限がある出席者のために、ベジタリアンやグルテンフリーの選択肢を確保することについてです。「十分な」選択肢を求めるのが自然なので、(A) 'ample' (豊富な、十分な) が正解です。(B) 'empty' (空の)、(C) 'minor' (小さい)、(D) 'scarce' (乏しい) は反対の意味になります。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "restricts",
+          "B": "restricted",
+          "C": "restrictions",
+          "D": "restricting"
+        },
+        "answer": "C",
+        "explanation": "形容詞 'dietary' (食事の) の後には名詞が必要です。「食事制限」という意味にするため、名詞の複数形 (C) 'restrictions' が最も適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "This will allow for a smooth flow of attendees.",
+          "B": "The morning session will focus on artificial intelligence.",
+          "C": "Please use the main entrance for all deliveries.",
+          "D": "The conference was originally scheduled for last month."
+        },
+        "answer": "A",
+        "explanation": "空欄の直前で、昼食休憩の前にビュッフェの準備を完了させるよう依頼しています。その理由を説明する文が入るのが自然です。(A) 「これにより、出席者のスムーズな流れが可能になります」が、時間厳守を求める理由として最も適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "inclusive",
+          "B": "included",
+          "C": "inclusion",
+          "D": "includes"
+        },
+        "answer": "A",
+        "explanation": "'inclusive of ...' は「～を含んで」という意味の形容詞句です。「すべての税金とサービス料を含んだ」一人当たりの総費用を確認しているため、(A) 'inclusive' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_010",
+    "content": "**Aviso Car Rentals - FAQ**<br><br>Q: What do I need to rent a car?<br>A: You will need a valid driver's license, a credit card in your name, and to be at least 25 years old. ------- [1].<br><br>Q: Can I add another driver?<br>A: Yes, additional drivers can be added for a small daily fee. They must also be present at the time of rental and meet the same age and license ------- [2] as the primary renter.<br><br>Q: What is your fuel policy?<br>A: We have a 'full-to-full' policy. You will receive the car with a full tank of gas and you are expected to ------- [3] it with a full tank. If the car is returned with less than a full tank, a refueling charge will be applied.<br><br>Q: Is it possible to modify my reservation?<br>A: Yes, modifications are ------- [4] to availability. You can change your reservation online or by calling our customer service center.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "Our cars are equipped with the latest GPS technology.",
+          "B": "Some locations may have different age requirements.",
+          "C": "We offer a wide range of vehicles to choose from.",
+          "D": "You can pay with cash when you return the vehicle."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前の文で、レンタカーに必要なものとして年齢が25歳以上であることを挙げています。この条件に関する補足情報や例外を述べるのが自然です。(B) 「一部の営業所では、年齢要件が異なる場合があります」が最も適切な補足情報です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "requires",
+          "B": "required",
+          "C": "requirements",
+          "D": "requiring"
+        },
+        "answer": "C",
+        "explanation": "'age and license ...' となっており、'age' と同じく名詞が入ります。「年齢と免許の要件」という意味にするため、名詞の複数形 (C) 'requirements' が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "return",
+          "B": "repair",
+          "C": "replace",
+          "D": "refuel"
+        },
+        "answer": "A",
+        "explanation": "燃料ポリシーの説明で、「満タンで受け取り、満タンで返却する」という文脈です。したがって、(A) 'return' (返却する) が最も適切です。(D) 'refuel' (給油する) は意味が近そうですが、'refuel it with a full tank' とは言わず、'return it with a full tank' が自然な表現です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "object",
+          "B": "project",
+          "C": "subject",
+          "D": "inject"
+        },
+        "answer": "C",
+        "explanation": "'subject to ...' は「～を条件として、～次第で」という意味の定型表現です。「変更は空き状況によります」という意味なので、(C) 'subject' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_011",
+    "content": "**Invitation to a Seminar on Financial Planning**<br><br>You are cordially invited to attend a seminar on 'Securing Your Financial Future.' This informative session is hosted by Sterling Wealth Management and is designed to provide you with ------- [1] strategies for retirement planning and investment.<br><br>Date: Thursday, May 22<br>Time: 6:30 PM - 8:00 PM<br>Location: The Grand Hotel, Crystal Ballroom<br><br>The seminar will cover a range of topics, including portfolio diversification, risk management, and long-term growth strategies. Our ------- [2] speaker is Ms. Evelyn Reed, a certified financial planner with over 20 years of experience. She is known for her ability to explain complex financial concepts in a clear and accessible way.<br><br>This is a complimentary event, but seating is limited. ------- [3]. Please RSVP by May 15 to reserve your spot. Light refreshments will be ------- [4]. We look forward to seeing you there.<br><br>To register, visit www.sterlingwealth.com/seminar or call 555-0182.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "practice",
+          "B": "practical",
+          "C": "practically",
+          "D": "practitioner"
+        },
+        "answer": "B",
+        "explanation": "名詞 'strategies' (戦略) を修飾する形容詞が必要です。「実践的な戦略」という意味にするため、(B) 'practical' (実践的な) が最も適切です。(A) は名詞(練習)/動詞、(C) は副詞、(D) は名詞(専門家)です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "featured",
+          "B": "featuring",
+          "C": "feature",
+          "D": "features"
+        },
+        "answer": "A",
+        "explanation": "名詞 'speaker' (講演者) を修飾する言葉として、「目玉の」や「注目の」という意味の形容詞が必要です。(A) 'featured' (特集された、目玉の) がこの役割を果たします。'featured speaker' で「特別講演者」を意味します。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Therefore, advance registration is required.",
+          "B": "The hotel offers free valet parking.",
+          "C": "Ms. Reed has published several books on finance.",
+          "D": "The previous seminar was a great success."
+        },
+        "answer": "A",
+        "explanation": "空欄の直前の文で「席には限りがあります」と述べています。その結果としてどうすべきかを述べるのが自然な流れです。したがって、(A) 「そのため、事前の登録が必要です」が最も論理的です。直後の文で登録を促していることからも、この選択肢が正しいことがわかります。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "serve",
+          "B": "served",
+          "C": "serving",
+          "D": "service"
+        },
+        "answer": "B",
+        "explanation": "'Light refreshments will be ...' という文では、軽食が「提供される」という受動態にする必要があります。したがって、be動詞 'be' の後に来る過去分詞の (B) 'served' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_012",
+    "content": "**Workshop Feedback Form**<br><br>Thank you for participating in the 'Effective Communication' workshop. We value your feedback and would ------- [1] it if you could take a few moments to complete this form. Your comments will help us improve our future workshops.<br><br>Overall, how would you rate the workshop?<br>( ) Excellent ( ) Good ( ) Fair ( ) Poor<br><br>How would you rate the workshop ------- [2]?<br>( ) Very engaging ( ) Engaging ( ) Somewhat engaging ( ) Not engaging<br><br>The content of the workshop was relevant to my work. <br>( ) Strongly Agree ( ) Agree ( ) Disagree ( ) Strongly Disagree<br><br>What did you find most ------- [3]?<br>_________________________<br><br>------- [4]. We hope to see you at another one of our professional development events soon.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "appreciate",
+          "B": "appreciative",
+          "C": "appreciation",
+          "D": "appreciated"
+        },
+        "answer": "A",
+        "explanation": "'would ... it if you could ...' の形では、動詞の原形が必要です。「～していただけるとありがたいです」という意味の丁寧な依頼表現で、(A) 'appreciate' (感謝する) が入ります。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "facilitator",
+          "B": "facility",
+          "C": "facilitate",
+          "D": "facilitation"
+        },
+        "answer": "A",
+        "explanation": "フィードバックフォームで評価対象を尋ねています。「ワークショップの進行役」を評価する質問が続くのが自然です。したがって、(A) 'facilitator' (進行役、ファシリテーター) が最も適切です。(B) は施設、(C) は動詞、(D) は名詞(円滑化)です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "benefit",
+          "B": "beneficially",
+          "C": "beneficial",
+          "D": "beneficiary"
+        },
+        "answer": "C",
+        "explanation": "find + O + C (OがCであるとわかる) の構文で、C(補語)には形容詞が入ります。「何が最も有益でしたか？」という意味にするため、形容詞の (C) 'beneficial' (有益な) が正解です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "Please complete all sections of this form.",
+          "B": "The workshop was held at our main office.",
+          "C": "Thank you for your valuable input.",
+          "D": "You must register for the next workshop online."
+        },
+        "answer": "C",
+        "explanation": "この文章はフィードバックフォームの結びの言葉です。フィードバックを求めた後、最後に感謝の言葉を述べるのが最も一般的です。(C) 「貴重なご意見をありがとうございました」が締めくくりとして最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_013",
+    "content": "To: Residents of Maple Creek Apartments<br>From: Management Office<br>Subject: Annual Fire Safety Inspection<br><br>This notice is to inform you that the annual fire safety inspection will take place next week, from June 10 to June 12. The inspections are ------- [1] by law and are essential for ensuring the safety of all residents.<br><br>Our maintenance staff will need to enter each apartment to check smoke detectors and fire extinguishers. The ------- [2] schedule is as follows: Floors 1-3 on Monday, Floors 4-6 on Tuesday, and Floors 7-9 on Wednesday. We will begin at 9 AM each day.<br><br>If you cannot be home, please arrange for a trusted neighbor to provide access or leave a key with the management office. ------- [3]. We will make every effort to complete the inspections ------- [4]. We appreciate your cooperation in this important matter.<br><br>Sincerely,<br>Maple Creek Management",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "required",
+          "B": "requiring",
+          "C": "requires",
+          "D": "requirement"
+        },
+        "answer": "A",
+        "explanation": "文脈は、検査が法律によって「要求されている」という受動態です。areの後に続く過去分詞として(A) 'required' が適切です。「be required by law」で「法によって義務付けられている」という意味になります。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "tentative",
+          "B": "permanent",
+          "C": "finalized",
+          "D": "optional"
+        },
+        "answer": "A",
+        "explanation": "このような通知で示されるスケジュールは、状況によって多少変更される可能性があるため、「仮の」スケジュールであることが多いです。したがって、(A) 'tentative' (仮の、暫定的な) が最も適切です。(B)「恒久的な」、(D)「任意の」は文脈に合いません。(C)は動詞の過去分詞形です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "All pets must be secured during the inspection.",
+          "B": "The inspection last year found no major issues.",
+          "C": "The fire department is located nearby.",
+          "D": "Rent payments are due on the first of the month."
+        },
+        "answer": "A",
+        "explanation": "空欄の直前で、留守の場合の対応について述べています。検査員がアパートに入る際の注意事項を追加するのが自然な流れです。(A)「検査中はすべてのペットを安全な場所に確保しておいてください」は、検査員とペットの安全のための適切な指示です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "expediently",
+          "B": "expedient",
+          "C": "expedite",
+          "D": "expedition"
+        },
+        "answer": "A",
+        "explanation": "動詞 'complete' を修飾するため、副詞が必要です。「迅速に」検査を完了させるよう努力するという意味なので、副詞の (A) 'expediently' (都合よく、迅速に) が適切です。'efficiently' (効率的に) も近い意味ですが、選択肢の中では(A)が最適です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_014",
+    "content": "**Text Message Chain**<br><br>Kenji (10:32 AM): Hi team. I've just reviewed the client feedback on the prototype. It's mostly positive, but they've requested a few ------- [1].<br><br>Sofia (10:33 AM): Good to hear it's mostly positive. What kind of changes are we talking about?<br><br>Kenji (10:35 AM): They want to change the color scheme and adjust the layout of the main dashboard. They feel it's not ------- [2] enough. I've attached their detailed comments.<br><br>David (10:36 AM): Okay, I'll take a look. We should be able to ------- [3] those changes without a major overhaul. We'll need to schedule a quick meeting to discuss the new plan.<br><br>Sofia (10:37 AM): I agree. ------- [4]. Let's aim for this afternoon if everyone is available.<br><br>Kenji (10:38 AM): Sounds good. I'll check everyone's calendars.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "modifications",
+          "B": "moderators",
+          "C": "modernize",
+          "D": "modestly"
+        },
+        "answer": "A",
+        "explanation": "クライアントからのフィードバックで、プロトタイプへの「修正」や「変更」を要求されたという文脈です。したがって、名詞の複数形である (A) 'modifications' (修正) が正解です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "intuition",
+          "B": "intuitive",
+          "C": "intuitively",
+          "D": "intuit"
+        },
+        "answer": "B",
+        "explanation": "be動詞 'is' の後に続き、主語 'it' (the layout) の状態を説明する形容詞が必要です。「十分に直感的ではない」という意味にするため、形容詞の (B) 'intuitive' (直感的な) が適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "reject",
+          "B": "propose",
+          "C": "implement",
+          "D": "debate"
+        },
+        "answer": "C",
+        "explanation": "クライアントから要求された変更を「実行する」あるいは「導入する」という文脈です。(C) 'implement' (実行する、導入する) が最も適切な動詞です。(A)「拒否する」、(B)「提案する」、(D)「議論する」は文脈に合いません。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "The client is very difficult to please.",
+          "B": "Let's not waste any more time.",
+          "C": "The sooner we align on this, the better.",
+          "D": "I am busy for the rest of the day."
+        },
+        "answer": "C",
+        "explanation": "直前の文で、新しい計画について議論するために会議をしようと提案しています。それに対し同意し、会議を急ぐ理由を述べるのが自然です。(C)「これについて早く認識を合わせるほど良い」は、午後に会議をしようという提案を後押しする発言として最適です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_015",
+    "content": "**Advertisement**<br><br>Are you tired of slow Internet speeds? Upgrade to SwiftNet Fiber Optic Internet today! We offer lightning-fast connectivity for all your needs, from streaming high-definition movies to competitive online gaming.<br><br>Our plans are ------- [1] and designed to fit any budget. For a limited time, new customers will receive their first month of service free. There are no hidden fees or long-term contracts. The price you see is the price you pay.<br><br>Switching is easy. A professional ------- [2] will handle the entire installation process at a time that is convenient for you. Most installations are completed in under an hour. ------- [3].<br><br>Don't settle for less. Visit our website or call us to find out more about our ------- [4] offers. Join the thousands of satisfied SwiftNet customers today!<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "flexible",
+          "B": "flexibly",
+          "C": "flexion",
+          "D": "flex"
+        },
+        "answer": "A",
+        "explanation": "be動詞 'are' の後に続き、主語 'Our plans' を説明する形容詞が必要です。「我々のプランは柔軟で」という意味にするため、形容詞の (A) 'flexible' が正解です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "technical",
+          "B": "technician",
+          "C": "technique",
+          "D": "technology"
+        },
+        "answer": "B",
+        "explanation": "設置作業を行う「技術者」を指す名詞が必要です。(B) 'technician' (技術者) が最も適切な単語です。(A) は形容詞、(C) は名詞 (技術)、(D) は名詞 (科学技術) です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "We guarantee 99.9% uptime.",
+          "B": "Our customer service has won multiple awards.",
+          "C": "You'll be Browse at incredible speeds in no time.",
+          "D": "Our company was founded in 2010."
+        },
+        "answer": "C",
+        "explanation": "空欄の直前で、設置が1時間未満で完了すると述べています。その結果として、すぐに高速インターネットが使えるようになる、と続けるのが最も自然な流れです。(C)「あっという間に信じられない速さでブラウジングできます」が最適です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "beatable",
+          "B": "unbeatable",
+          "C": "beating",
+          "D": "beat"
+        },
+        "answer": "B",
+        "explanation": "自社のプランの魅力を強調する文脈です。「どこにも負けないオファー」という意味にするため、(B) 'unbeatable' (打ち負かせない、無敵の) が最も適切です。(A) 'beatable' (打ち負かせる) は反対の意味になります。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_016",
+    "content": "To: m.sato@email.com<br>From: Westbrook City Art Museum<br>Subject: Your Membership Renewal<br><br>Dear Ms. Sato,<br><br>We're writing to remind you that your annual membership with the Westbrook City Art Museum is set to ------- [1] on July 31. We hope you have enjoyed the benefits of your membership this past year, including unlimited free admission and exclusive event invitations.<br><br>Renewing your membership is simple. You can do so online by visiting our website or in person at our front desk. To show our ------- [2], we are offering a 10% discount to all members who renew before July 15. <br><br>Your continued support is ------- [3] to our mission of bringing art and culture to the community. Members like you help us maintain our collections and fund our educational programs. ------- [4].<br><br>We look forward to welcoming you back for another year of wonderful art.<br><br>Sincerely,<br>The Membership Department",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "commence",
+          "B": "validate",
+          "C": "expire",
+          "D": "launch"
+        },
+        "answer": "C",
+        "explanation": "会員資格の有効期限が切れることを知らせる文脈です。「7月31日に有効期限が切れる」という意味にするため、(C) 'expire' (期限が切れる) が最も適切です。(A)「始まる」、(B)「有効にする」、(D)「開始する」は文意に合いません。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "appreciative",
+          "B": "appreciate",
+          "C": "appreciatively",
+          "D": "appreciation"
+        },
+        "answer": "D",
+        "explanation": "所有格 'our' の後には名詞が必要です。「我々の感謝を示すために」という意味にするため、名詞の (D) 'appreciation' (感謝) が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "vital",
+          "B": "trivial",
+          "C": "optional",
+          "D": "negative"
+        },
+        "answer": "A",
+        "explanation": "会員の継続的な支援が美術館の使命にとって「極めて重要である」という文脈です。(A) 'vital' (極めて重要な) が最も適切です。(B)「些細な」、(C)「任意の」、(D)「否定的な」は文脈に合いません。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "The museum is currently undergoing renovations.",
+          "B": "This support allows us to acquire new and exciting works of art.",
+          "C": "Please remember to bring your membership card.",
+          "D": "The renewal fee has increased this year."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前で、会員の支援がコレクションの維持や教育プログラムの資金になっていると述べています。その支援がもたらすさらなる良い点を付け加えるのが自然な流れです。(B)「この支援によって、私たちは新しく魅力的な芸術作品を取得することができます」が最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_017",
+    "content": "To: All Staff<br>From: IT Department<br>Subject: Mandatory Security Software Update<br><br>This is an important announcement regarding a mandatory security software update for all company computers. To protect our network from emerging threats, we will be ------- [1] a new security patch this weekend.<br><br>The update process will begin automatically after 6:00 PM on Friday. Please ensure your computer is left on but that you have logged out of your session. This will allow the update to proceed without ------- [2]. The entire process should be complete by Monday morning.<br><br>------- [3]. If you experience any issues with your computer on Monday, please contact the IT help desk immediately. It is ------- [4] that all computers receive this update to maintain the integrity of our network.<br><br>Thank you for your cooperation.<br>IT Department",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "deploying",
+          "B": "designing",
+          "C": "deleting",
+          "D": "deducting"
+        },
+        "answer": "A",
+        "explanation": "IT部門が新しいセキュリティパッチを「展開する」または「導入する」という文脈です。(A) 'deploying' (展開する) がIT用語として最も適切です。(B)「設計する」、(C)「削除する」、(D)「控除する」は文意に合いません。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "permission",
+          "B": "interruption",
+          "C": "improvement",
+          "D": "assistance"
+        },
+        "answer": "B",
+        "explanation": "アップデートが「中断」なしに進むように、ログアウトしておくことを求めています。したがって、(B) 'interruption' (中断、妨害) が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "You will not be able to access the network from home during the update.",
+          "B": "The old software was not effective against new viruses.",
+          "C": "This update includes several new features you may find useful.",
+          "D": "The IT department will be closed for the weekend."
+        },
+        "answer": "A",
+        "explanation": "空欄の直前で、アップデートが週末に行われることを説明しています。その間の影響について補足するのが自然です。(A)「アップデート中は、自宅からネットワークにアクセスすることはできません」は、従業員への重要な情報提供となります。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "imperative",
+          "B": "suggested",
+          "C": "advised",
+          "D": "needless"
+        },
+        "answer": "A",
+        "explanation": "すべてのコンピュータがこのアップデートを受けることが「必須である」ことを強調しています。(A) 'imperative' (必須の、緊急の) が 'mandatory' と同じく強い義務を表す言葉として最適です。(B)「提案された」、(C)「勧められた」、(D)「不必要な」は文脈に合いません。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_018",
+    "content": "**Article from *Business Forward* Magazine**<br><br>The Rise of Remote Work<br><br>The landscape of the modern workplace has been ------- [1] transformed in recent years. The most significant shift has been the widespread adoption of remote work. Companies across various industries are now offering flexible work arrangements, a trend that was accelerated by recent global events.<br><br>This transition presents both opportunities and challenges. On one hand, it can lead to increased employee satisfaction and access to a wider talent pool. On the other hand, it requires a ------- [2] in management style and a greater emphasis on digital communication tools. Companies must invest in the right technology to ensure seamless ------- [3].<br><br>------- [4]. Experts predict that a hybrid model, combining in-office and remote work, will likely become the standard for many organizations. The key to success will be finding the right balance that works for both the company and its employees.<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "fundamentally",
+          "B": "fundamental",
+          "C": "fundamentals",
+          "D": "funded"
+        },
+        "answer": "A",
+        "explanation": "動詞の過去分詞形 'transformed' を修飾するため、副詞が必要です。「根本的に変革された」という意味にするため、副詞の (A) 'fundamentally' が正解です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "paradigm",
+          "B": "parallel",
+          "C": "parcel",
+          "D": "parent"
+        },
+        "answer": "A",
+        "explanation": "リモートワークへの移行は、マネジメントスタイルにおける「パラダイム」シフト、つまり考え方や枠組みの根本的な変化を必要とします。したがって、(A) 'paradigm' (パラダイム、模範) が最も文脈に合った単語です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "collaborate",
+          "B": "collaborative",
+          "C": "collaboration",
+          "D": "collaborator"
+        },
+        "answer": "C",
+        "explanation": "形容詞 'seamless' (継ぎ目のない、スムーズな) の後には名詞が必要です。「円滑な協業」を確保するという意味なので、名詞の (C) 'collaboration' (協業、協力) が正解です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "Many employees prefer working from the office.",
+          "B": "This shift is not a temporary adjustment but a long-term evolution.",
+          "C": "The cost of office space has decreased in major cities.",
+          "D": "Traditional nine-to-five schedules are becoming obsolete."
+        },
+        "answer": "B",
+        "explanation": "空欄の前でリモートワークへの移行について述べ、後でハイブリッドモデルが標準になるだろうと予測しています。この流れをつなぐには、この変化が一時的なものではないことを強調するのが最も論理的です。(B)「このシフトは一時的な調整ではなく、長期的な進化です」が最適です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_019",
+    "content": "To: David Chen <d.chen@brightstar.com><br>From: Human Resources <hr@omnicorp.com><br>Subject: Your Application for the Senior Analyst Position<br><br>Dear Mr. Chen,<br><br>Thank you for your interest in the Senior Analyst position at OmniCorp. We received a large number of ------- [1] for this role, and the selection process was highly competitive.<br><br>We have reviewed your resume and qualifications ------- [2]. While your background is impressive, we have decided to move forward with other candidates whose experience more closely aligns with the specific requirements of this particular role.<br><br>This decision is no ------- [3] on your potential, and we appreciate you taking the time to apply to our company. ------- [4]. We will keep your resume on file for six months and will contact you if a suitable position becomes available.<br><br>We wish you the best of luck in your job search.<br><br>Sincerely,<br>The OmniCorp HR Team",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "applicants",
+          "B": "applications",
+          "C": "appliances",
+          "D": "applicable"
+        },
+        "answer": "B",
+        "explanation": "文脈は、ポジションへの「応募」について述べています。(B) 'applications' (応募書類、申し込み) が「多数の応募があった」という意味で適切です。(A) 'applicants' (応募者) も考えられますが、'a large number of applications' の方が一般的な表現です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "thorough",
+          "B": "though",
+          "C": "thoroughly",
+          "D": "throughout"
+        },
+        "answer": "C",
+        "explanation": "動詞 'reviewed' を修飾するため、副詞が必要です。「あなたの履歴書と資格を徹底的に検討しました」という意味にするため、副詞の (C) 'thoroughly' (徹底的に) が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "reflect",
+          "B": "reflective",
+          "C": "reflection",
+          "D": "reflector"
+        },
+        "answer": "C",
+        "explanation": "'no ... on' の形で「～を悪く言うものではない」という意味の定型表現を作るには、名詞が必要です。(C) 'reflection' を使い、'no reflection on' で「～の評価を下げるものではない」という意味になります。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4] ",
+        "options": {
+          "A": "We encourage you to apply for other positions in the future.",
+          "B": "The interview process will begin next week.",
+          "C": "We were particularly impressed with your cover letter.",
+          "D": "Please provide us with a list of references."
+        },
+        "answer": "A",
+        "explanation": "このメールは不採用通知です。しかし、応募者への配慮を示し、将来の可能性を残すのが一般的です。空欄の前後で応募への感謝と履歴書の保管について述べているため、(A)「将来、他のポジションに応募されることをお勧めします」が最も適切で、丁寧な不採用通知の流れに合致します。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_020",
+    "content": "**Product Recall Notice**<br><br>IMMEDIATE ATTENTION REQUIRED<br><br>Product: 'Volt-Rite' Model 3 Power Strip<br>Manufacturing Dates: January 2024 - March 2024<br><br>In cooperation with the National Consumer Safety Commission, our company is ------- [1] a voluntary recall of the 'Volt-Rite' Model 3 Power Strip. We have discovered a potential manufacturing ------- [2] that could pose a fire hazard under certain conditions.<br><br>The safety of our customers is our utmost priority. Therefore, we are urging all customers who have purchased this product to immediately stop using it. ------- [3].<br><br>To receive a full refund or a replacement product, please visit our website at www.volt-rite.com/recall and fill out the recall form. You do not need to return the ------- [4] product. Please dispose of it safely.<br><br>We sincerely apologize for any inconvenience this may cause.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "issuing",
+          "B": "ignoring",
+          "C": "accepting",
+          "D": "denying"
+        },
+        "answer": "A",
+        "explanation": "企業が製品リコールを「発表する」または「出す」という文脈です。(A) 'issuing' (発行する、出す) が 'issue a recall' という定型表現として最も適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "defect",
+          "B": "benefit",
+          "C": "feature",
+          "D": "design"
+        },
+        "answer": "A",
+        "explanation": "リコールの原因となる「製造上の欠陥」について述べています。したがって、(A) 'defect' (欠陥、欠点) が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The product has received many positive reviews.",
+          "B": "Please unplug the device from the electrical outlet.",
+          "C": "This product was our best-seller last quarter.",
+          "D": "No other products are affected by this recall."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前で、製品の使用を直ちに中止するよう強く求めています。その具体的な行動として、(B)「コンセントから装置のプラグを抜いてください」という指示が続くのが最も論理的で、安全確保のために重要です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "faulty",
+          "B": "perfect",
+          "C": "repaired",
+          "D": "additional"
+        },
+        "answer": "A",
+        "explanation": "リコール対象の「欠陥のある」製品を返送する必要はない、という文脈です。したがって、(A) 'faulty' (欠陥のある) が最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_021",
+    "content": "**Advertisement**<br><br>Escape to Paradise at the Sunstone Resort! <br><br>Imagine yourself on a white-sand beach, with turquoise waters stretching out before you. At the Sunstone Resort, this dream becomes a reality. Our all-inclusive packages ------- [1] everything you need for the perfect getaway: luxury accommodations, gourmet dining, and a wide array of activities.<br><br>Whether you seek adventure or relaxation, we have something for everyone. Explore coral reefs with our snorkeling gear, or simply unwind by our infinity pool. Our packages are ------- [2] to your preferences, with options for families, couples, and solo travelers.<br><br>For a limited time, book a seven-night stay and receive a complimentary spa treatment. This offer is only ------- [3] for bookings made directly through our website. ------- [4]. Don't miss this opportunity to create unforgettable memories.<br><br>Visit www.sunstoneresort.com to book your escape today. Your paradise awaits.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "consist",
+          "B": "contain",
+          "C": "cover",
+          "D": "compose"
+        },
+        "answer": "C",
+        "explanation": "文脈は、パッケージが休暇に必要なものすべてを「含む」または「カバーする」という意味です。(C) 'cover' (含む、まかなう) が最も適切です。(A) 'consist of'、(B) 'contain' も「含む」という意味ですが、費用やサービス範囲を「カバーする」というニュアンスでは 'cover' がよく使われます。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "customizable",
+          "B": "customarily",
+          "C": "customer",
+          "D": "custom"
+        },
+        "answer": "A",
+        "explanation": "be動詞 'are' の後に続き、主語 'packages' を説明する形容詞が必要です。「あなたの好みに合わせてカスタマイズ可能です」という意味にするため、(A) 'customizable' (カスタマイズ可能な) が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "valid",
+          "B": "virtual",
+          "C": "vacant",
+          "D": "vague"
+        },
+        "answer": "A",
+        "explanation": "オファーが「有効である」ことを示す文脈です。(A) 'valid' (有効な) が最も適切です。「このオファーは～の予約に対してのみ有効です」という意味になります。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "Our resort is located just 20 minutes from the airport.",
+          "B": "We also offer conference facilities for corporate events.",
+          "C": "This promotion cannot be combined with any other discounts.",
+          "D": "Our restaurant has received numerous culinary awards."
+        },
+        "answer": "C",
+        "explanation": "空欄の直前で限定オファーについて述べています。そのオファーに関する条件や制約を付け加えるのが自然な流れです。(C)「このプロモーションは他の割引と併用することはできません」は、オファーの利用規約として最も適切な文です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_022",
+    "content": "To: All Department Heads<br>From: Linda Ray, CEO<br>Subject: Improving Inter-departmental Communication<br><br>Hello everyone,<br><br>It has come to my attention that there have been several instances of miscommunication between departments recently. This has led to project delays and a ------- [1] of duplicated effort. To address this issue, we need to streamline our communication channels.<br><br>Effective communication is essential for our company's success. ------- [2]. I am therefore announcing a new initiative. Starting next month, each department will be required to submit a weekly progress report to a shared online platform. This will ensure that all teams are ------- [3] of what others are working on.<br><br>Furthermore, I encourage you to hold regular cross-departmental meetings. We must foster a culture of collaboration. I am confident that these ------- [4] will lead to greater efficiency and a more cohesive work environment.<br><br>Best regards,<br>Linda Ray",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "degree",
+          "B": "grade",
+          "C": "stage",
+          "D": "scale"
+        },
+        "answer": "A",
+        "explanation": "文脈は、コミュニケーション不足が「ある程度の」重複作業につながった、という意味です。'a degree of ...' は「ある程度の～」という意味の定型表現であり、(A) 'degree' が正解です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "It ensures everyone is aligned and working toward common goals.",
+          "B": "Our sales figures for the last quarter were below expectations.",
+          "C": "The marketing team has launched a new advertising campaign.",
+          "D": "Please remember to submit your expense reports on time."
+        },
+        "answer": "A",
+        "explanation": "空欄の直前で「効果的なコミュニケーションは不可欠だ」と述べています。その理由を説明する文が続くのが自然です。(A)「それは、全員が足並みをそろえ、共通の目標に向かって働くことを確実にするからです」が、その理由として最も適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "aware",
+          "B": "aware of",
+          "C": "awarded",
+          "D": "awarding"
+        },
+        "answer": "B",
+        "explanation": "'be aware of ...' は「～に気づいている、～を知っている」という意味の重要な熟語です。(A) 'aware' だけでは不完全で、前置詞 'of' が必要です。したがって(B)が正解です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "complaints",
+          "B": "problems",
+          "C": "measures",
+          "D": "deductions"
+        },
+        "answer": "C",
+        "explanation": "この文脈での「これら」とは、週次報告や部門間ミーティングといった、コミュニケーション改善のための「措置」や「対策」を指します。したがって、(C) 'measures' (措置、対策) が最も適切な単語です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_023",
+    "content": "**MEMORANDUM**<br><br>To: All Full-time Employees<br>From: Human Resources<br>Subject: Annual Performance Reviews<br><br>This memo serves as a reminder that the annual performance review process will begin on August 1. Performance reviews are a ------- [1] opportunity for you and your manager to discuss your accomplishments, challenges, and career goals.<br><br>Prior to your scheduled meeting, you will be asked to complete a self-assessment form. This form is an important part of the process, as it allows you to reflect on your own performance. Please submit this form to your manager at least two days ------- [2] your review meeting.<br><br>The goal of these reviews is not just to evaluate past performance, but also to set clear objectives for the coming year. ------- [3]. We believe in ------- [4] our employees through continuous feedback and professional development.<br><br>If you have any questions about the process, please contact your HR representative.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "valuable",
+          "B": "valued",
+          "C": "valuing",
+          "D": "valuation"
+        },
+        "answer": "A",
+        "explanation": "名詞 'opportunity' を修飾する形容詞が必要です。「貴重な機会」という意味にするため、(A) 'valuable' が正解です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "ahead",
+          "B": "prior to",
+          "C": "in advance",
+          "D": "beforehand"
+        },
+        "answer": "B",
+        "explanation": "「あなたのレビュー会議の2日前までに」という意味にするには、空欄の後に名詞句 'your review meeting' があるため、前置詞の(B) 'prior to' が必要です。(A) 'ahead of', (C) 'in advance of' も可能ですが、選択肢にはありません。'beforehand' は副詞なので使えません。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Your salary increase will be based on this review.",
+          "B": "This is a two-way conversation, so please come prepared with questions.",
+          "C": "Managers have already received training for this process.",
+          "D": "The self-assessment form can be found on the company intranet."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前で、レビューの目的は過去の評価だけでなく、将来の目標設定でもあると述べています。この「対話」としての性質を強調する文が続くのが自然です。(B)「これは双方向の対話ですので、質問を準備して来てください」が、従業員への心構えとして最も適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "empowering",
+          "B": "empower",
+          "C": "empowered",
+          "D": "empowerment"
+        },
+        "answer": "A",
+        "explanation": "'believe in ...' の後には名詞か動名詞が入ります。「従業員に力を与えること」という行為を指すため、動名詞の (A) 'empowering' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_024",
+    "content": "**Job Posting: Customer Service Representative**<br><br>Company: FinTech Solutions<br>Location: Chicago, IL<br><br>FinTech Solutions is a rapidly growing company at the forefront of the financial technology industry. We are looking for a dedicated and empathetic Customer Service Representative to join our team. In this role, you will be the first point of contact for our clients, ------- [1] them with inquiries and resolving issues.<br><br>The ideal candidate will have excellent communication skills and a ------- [2] for problem-solving. While experience in finance or tech support is a plus, it is not a strict requirement. We provide ------- [3] training to all new hires to ensure they are fully equipped to succeed.<br><br>Key Responsibilities:<br>- Respond to customer queries in a timely and accurate way, via phone, email, or chat.<br>- Identify customer needs and help customers use specific features.<br>- ------- [4].<br><br>We offer a competitive salary, comprehensive benefits, and a supportive work environment. If you are passionate about helping people, we encourage you to apply.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "assisting",
+          "B": "insisting",
+          "C": "resisting",
+          "D": "consisting"
+        },
+        "answer": "A",
+        "explanation": "この役割は、顧客の問い合わせを「手伝い」、問題を解決することです。したがって、(A) 'assisting' (手伝う) が最も適切な動詞です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "knack",
+          "B": "lack",
+          "C": "crack",
+          "D": "stack"
+        },
+        "answer": "A",
+        "explanation": "「問題解決のコツ」や「才能」を持っている人が理想的だという文脈です。(A) 'knack' (コツ、才能) が最も適切です。'a knack for ...' は「～の才能がある」という定型表現です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "extensive",
+          "B": "expendable",
+          "C": "exclusive",
+          "D": "expressive"
+        },
+        "answer": "A",
+        "explanation": "新しい従業員が成功できるよう、「広範囲にわたる」トレーニングを提供するという文脈です。(A) 'extensive' (広範囲の、徹底的な) が最も適切です。(B)「使い捨ての」、(C)「排他的な」、(D)「表現豊かな」は文意に合いません。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "Develop new financial products.",
+          "B": "Analyze and report product malfunctions.",
+          "C": "Manage the company's social media accounts.",
+          "D": "Lead a team of junior representatives."
+        },
+        "answer": "B",
+        "explanation": "空欄は、顧客サービス担当者の主な職務内容のリストです。電話やメールで顧客対応をすること、顧客のニーズを特定することに続く職務として、(B)「製品の不具合を分析し、報告する」が最も関連性が高く、顧客からのフィードバックを次に繋げる重要な役割です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_025",
+    "content": "**Article from City Gazette**<br><br>The downtown revitalization project, which began two years ago, is nearing completion. The project's main goal was to transform the once-neglected waterfront area into a vibrant public space. ------- [1]. The final phase of the project, the opening of the new Maritime Museum, is scheduled for next month.<br><br>The project has faced several ------- [2] along the way, including budget constraints and unexpected construction delays. However, thanks to the diligent work of the city planning committee and the construction crews, these obstacles were overcome.<br><br>Public reaction has been ------- [3] positive. 'I can't believe the transformation,' said local resident Maria Flores. 'This area used to be an eyesore, but now it's a beautiful place for families to gather.' The new park and pedestrian walkways are already popular with locals.<br><br>The city hopes that the renewed waterfront will attract more tourists and ------- [4] the local economy.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "So far, it appears to be a resounding success.",
+          "B": "Many residents opposed the project initially.",
+          "C": "The project went significantly over budget.",
+          "D": "The lead architect recently resigned from the firm."
+        },
+        "answer": "A",
+        "explanation": "空欄の直前でプロジェクトの目標を述べ、直後で最終フェーズについて言及しています。プロジェクト全体の評価を挿入するのが自然です。文脈が肯定的であるため、(A)「今のところ、それは大成功のようです」が最も適切な文です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "setbacks",
+          "B": "benefits",
+          "C": "milestones",
+          "D": "prospects"
+        },
+        "answer": "A",
+        "explanation": "予算の制約や建設の遅れは、プロジェクトにおける「妨げ」や「後退」です。したがって、(A) 'setbacks' (妨げ、後退) が最も適切な名詞です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "overwhelm",
+          "B": "overwhelming",
+          "C": "overwhelmingly",
+          "D": "overwhelmed"
+        },
+        "answer": "C",
+        "explanation": "形容詞 'positive' を修飾するため、副詞が必要です。「圧倒的に肯定的」という意味にするため、(C) 'overwhelmingly' (圧倒的に) が正解です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "decline",
+          "B": "damage",
+          "C": "hinder",
+          "D": "boost"
+        },
+        "answer": "D",
+        "explanation": "再開発されたウォーターフロントが、より多くの観光客を惹きつけ、地元経済を「押し上げる」ことを市が期待しているという文脈です。(D) 'boost' (押し上げる、活性化させる) が最も適切な動詞です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_026",
+    "content": "To: conference.attendees@email.com<br>From: Innovate Conference Organizers<br>Subject: Important: Conference Schedule Update<br><br>Dear Innovate Conference Attendee,<br><br>Please note a change to the conference schedule for this Friday. The keynote address by Dr. Anya Sharma, originally scheduled for 9:00 AM, has been moved. It will now take place at 1:00 PM on the same day. This change is ------- [1] to an unforeseen travel disruption affecting Dr. Sharma.<br><br>All other sessions on Friday will proceed as ------- [2] scheduled. The morning networking session will now be extended until 10:30 AM. We believe this will provide an excellent opportunity for further engagement among attendees.<br><br>We apologize for any ------- [3] this change may cause to your personal schedule. An updated version of the full conference schedule is attached to this email and can also be downloaded from our website. ------- [4].<br><br>We appreciate your understanding and look forward to seeing you at the conference.<br><br>Sincerely,<br>The Innovate Conference Team",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "since",
+          "B": "because",
+          "C": "for",
+          "D": "due"
+        },
+        "answer": "D",
+        "explanation": "空欄の後に名詞句 'an unforeseen travel disruption' が続くため、'due to ...' (～のために) の形が適切です。(D) 'due' が正解です。(A) 'since' と (B) 'because' の後には節(S+V)が続く必要があります。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "original",
+          "B": "originally",
+          "C": "origin",
+          "D": "originate"
+        },
+        "answer": "B",
+        "explanation": "動詞の過去分詞 'scheduled' を修飾するため、副詞が必要です。「当初の予定通り」という意味にするため、(B) 'originally' (当初は) が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "convenience",
+          "B": "inconvenience",
+          "C": "appointment",
+          "D": "development"
+        },
+        "answer": "B",
+        "explanation": "スケジュールの変更によって引き起こされる可能性のある「不便」について謝罪するのが自然な流れです。したがって、(B) 'inconvenience' (不便) が正解です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "Dr. Sharma is a leading expert in her field.",
+          "B": "The conference has sold out all its tickets.",
+          "C": "Please take a moment to review it at your convenience.",
+          "D": "Lunch will be served in the main dining hall."
+        },
+        "answer": "C",
+        "explanation": "空欄の直前で、更新されたスケジュールを添付し、ウェブサイトからもダウンロードできると伝えています。それに続く文として、参加者にそのスケジュールを確認するよう促すのが最も適切です。(C)「ご都合のよい時に、少し時間を取ってご確認ください」が最適な文です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_027",
+    "content": "From: The Greenleaf Cafe<br>To: Valued Customers<br>Subject: Exciting Changes at The Greenleaf Cafe!<br><br>Dear friends,<br><br>We're thrilled to announce some exciting updates! To better serve you, we will be extending our business hours. Starting May 1st, we will be open until 9 PM every night. Additionally, we are ------- [1] a new line of organic pastries and desserts to our menu.<br><br>These changes are a direct response to your ------- [2] feedback. We've listened to your suggestions and are committed to making your experience at our cafe even better. ------- [3].<br><br>To celebrate, we are hosting a customer appreciation event this Saturday. Please join us for free coffee and pastry samples from 2 PM to 5 PM. It's our way of saying thank you for your continued ------- [4].<br><br>We can't wait to share our new offerings with you!<br><br>Warmly,<br>The Greenleaf Cafe Team",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "introducing",
+          "B": "reducing",
+          "C": "withdrawing",
+          "D": "duplicating"
+        },
+        "answer": "A",
+        "explanation": "新しいペストリーやデザートのラインをメニューに「導入する」という文脈です。(A) 'introducing' (導入する) が最も適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "valueless",
+          "B": "invaluable",
+          "C": "evaluating",
+          "D": "devalued"
+        },
+        "answer": "B",
+        "explanation": "顧客からのフィードバックが「非常に貴重」であったことを示しています。(B) 'invaluable' (計り知れないほど貴重な) が正解です。'valuable' (貴重な) よりも意味が強く、感謝の意を強調します。'valueless' (価値のない) は反対の意味です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Our cafe was recently featured in a local magazine.",
+          "B": "We are also excited to debut our newly renovated patio area.",
+          "C": "The price of coffee beans has increased recently.",
+          "D": "Please make sure to clean up your table after use."
+        },
+        "answer": "B",
+        "explanation": "空欄は、カフェのアップデート（営業時間延長、新メニュー）を知らせる文脈の中にあります。さらなる良いニュースを追加するのが自然な流れです。(B)「また、新しく改装されたパティオエリアをお披露目できることにも興奮しています」が、顧客にとって喜ばしい追加情報として最適です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "complaint",
+          "B": "absence",
+          "C": "patronage",
+          "D": "resistance"
+        },
+        "answer": "C",
+        "explanation": "顧客の継続的な「ご愛顧」に感謝の意を表しています。したがって、(C) 'patronage' (愛顧、後援) が最も適切な単語です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_028",
+    "content": "**Website Excerpt: Returns Policy**<br><br>At Omni-Mart, we want you to be completely satisfied with your purchase. If for any reason you are not, we will gladly accept returns of ------- [1] merchandise within 30 days of purchase.<br><br>To be eligible for a return, your item must be unused and in the same condition that you received it. It must also be in the original packaging. A receipt or proof of purchase is ------- [2].<br><br>To initiate a return, please visit our online Returns Center or bring the item to any of our retail locations. Please note that certain items are non-returnable. ------- [3]. These include gift cards, perishable goods, and personal care items.<br><br>Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. Refunds will be processed, and a credit will automatically be ------- [4] to your original method of payment within 5-7 business days.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "unqualified",
+          "B": "unauthorized",
+          "C": "unworn",
+          "D": "unstable"
+        },
+        "answer": "C",
+        "explanation": "返品ポリシーの文脈で、返品可能な商品の状態について述べています。通常、衣料品などの場合は「未着用の」商品が対象となります。(C) 'unworn' (未着用の) が最も適切です。'unused' (未使用の) と同様の意味合いで使われます。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "optional",
+          "B": "forbidden",
+          "C": "recommended",
+          "D": "required"
+        },
+        "answer": "D",
+        "explanation": "返品手続きには、レシートや購入証明が「必要である」というのが一般的です。(D) 'required' (必須の) が最も適切です。(A) 'optional' (任意の) や (C) 'recommended' (推奨される) では意味が弱すぎます。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "You can find a full list of these items on our website.",
+          "B": "We offer free shipping on all orders over $50.",
+          "C": "Our stores are open seven days a week.",
+          "D": "We value your feedback on our products."
+        },
+        "answer": "A",
+        "explanation": "空欄の直前で「特定のアイテムは返品不可です」と述べ、直後でその例を挙げています。この間に、返品不可のアイテムの完全なリストがどこにあるかを案内するのが最も親切で論理的です。(A)「これらのアイテムの完全なリストは、当社のウェブサイトでご確認いただけます」が最適です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "applied",
+          "B": "applying",
+          "C": "applies",
+          "D": "application"
+        },
+        "answer": "A",
+        "explanation": "be動詞 'will automatically be' の後なので、受動態を作る過去分詞が必要です。「クレジットが自動的に適用されます」という意味なので、(A) 'applied' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_029",
+    "content": "To: All Tenants<br>From: Parkview Towers Management<br>Subject: New Recycling Program Launch<br><br>Dear Residents,<br><br>We are excited to announce the launch of our new, comprehensive recycling program, effective Monday, October 1st. This initiative is part of our ongoing commitment to making Parkview Towers a more ------- [1] community.<br><br>New recycling bins for paper, plastic, and glass have been placed in the trash room on each floor. We ask that you ------- [2] rinse out all containers before recycling them. A detailed guide explaining what can and cannot be recycled has been posted next to the bins.<br><br>------- [3]. We will be holding a brief information session in the lobby this Thursday at 7 PM to answer any questions you may have. Your participation is ------- [4] to the success of this program.<br><br>Thank you for helping us make a difference.<br><br>Sincerely,<br>Parkview Towers Management",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "sustain",
+          "B": "sustainability",
+          "C": "sustained",
+          "D": "sustainable"
+        },
+        "answer": "D",
+        "explanation": "名詞 'community' を修飾する形容詞が必要です。「より持続可能なコミュニティ」という意味にするため、(D) 'sustainable' が正解です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "kind",
+          "B": "kindly",
+          "C": "kindness",
+          "D": "kinder"
+        },
+        "answer": "B",
+        "explanation": "動詞 'rinse' を修飾し、丁寧な依頼を表す副詞が必要です。(B) 'kindly' は 'please' と同様に「どうぞ～してください」という意味で使われます。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The old bins will be removed next week.",
+          "B": "We understand that this may require a change in your daily routine.",
+          "C": "The building's energy consumption has decreased this year.",
+          "D": "Please report any maintenance issues promptly."
+        },
+        "answer": "B",
+        "explanation": "空欄の前後で、新しいリサイクルプログラムへの協力を求めています。新しいルールに従うことが住民にとって一手間かかることを理解し、共感を示す文を挿入するのが適切です。(B)「これが皆様の日常の習慣の変更を必要とすることを理解しております」が、住民の協力を促す上で効果的です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "crucial",
+          "B": "optional",
+          "C": "arguable",
+          "D": "minimal"
+        },
+        "answer": "A",
+        "explanation": "住民の参加がプログラムの成功にとって「極めて重要である」という文脈です。(A) 'crucial' (極めて重要な) が最も意味が強く、適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_030",
+    "content": "From: info@prologix.com<br>To: j.miller@email.com<br>Subject: Your ProLogix Software Trial is Ending Soon<br><br>Dear Jessica Miller,<br><br>We hope you've enjoyed your 14-day free trial of ProLogix Premium. Your trial period will end in three days. We wanted to make sure you had the chance to ------- [1] to a full subscription without any interruption to your service.<br><br>ProLogix Premium offers a suite of advanced tools designed to streamline your workflow and boost productivity. By upgrading, you'll retain access to all the features you've been using, plus priority customer support. ------- [2].<br><br>Upgrading is simple. Just click the button below. If you choose not to upgrade, your account will automatically ------- [3] to our basic, free plan. You will lose access to the premium features, but your existing data will be safe.<br><br>We are confident that ProLogix will continue to be a ------- [4] asset to your work. Click below to continue with Premium.<br><br>The ProLogix Team",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "transform",
+          "B": "transition",
+          "C": "transmit",
+          "D": "transact"
+        },
+        "answer": "B",
+        "explanation": "無料トライアルから完全なサブスクリプションへ「移行する」機会があることを伝えています。(B) 'transition' (移行する) が最も適切な動詞です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "Our software is compatible with most operating systems.",
+          "B": "Don't lose the powerful tools that have helped you work smarter.",
+          "C": "We have recently updated our privacy policy.",
+          "D": "The free trial was downloaded by thousands of users."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前で、アップグレードすればプレミアム機能を引き続き使えると述べています。アップグレードを促すために、その機能を失わないように、と念を押すのが効果的です。(B)「より賢く働くのを助けてきた強力なツールを失わないでください」が、ユーザーの行動を促す最も説得力のある文です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "revert",
+          "B": "reverse",
+          "C": "revise",
+          "D": "revoke"
+        },
+        "answer": "A",
+        "explanation": "アップグレードしない場合、アカウントが基本的な無料プランに「戻る」という文脈です。(A) 'revert' (元の状態に戻る) が最も適切です。'revert to ...' で「～に戻る」という意味になります。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "valueless",
+          "B": "valuing",
+          "C": "valuable",
+          "D": "value"
+        },
+        "answer": "C",
+        "explanation": "名詞 'asset' (資産) を修飾する形容詞が必要です。ProLogixが仕事にとって「価値のある」資産であり続けると確信している、という文脈なので、(C) 'valuable' (価値のある) が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_031",
+    "content": "**PRESS RELEASE**<br><br>For Immediate Release<br><br>Springfield, MA – BioCorp Inc., a leading biotechnology firm, announced today that it has ------- [1] a strategic partnership with the European pharmaceutical giant, PharmaGlobal. This collaboration aims to accelerate the development and commercialization of a promising new cancer treatment.<br><br>Under the terms of the ------- [2], BioCorp will receive an upfront payment of $50 million. They are also eligible for further payments based on development and sales milestones. PharmaGlobal will gain exclusive marketing rights for the new drug in Europe.<br><br>“This partnership is a significant ------- [3] for BioCorp and for patients,” said Dr. Elena Vance, CEO of BioCorp. “By combining our innovative research with PharmaGlobal's extensive clinical development and marketing expertise, we can bring this much-needed therapy to patients faster.”<br><br>------- [4]. The two companies will form a joint steering committee to oversee the collaboration.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "entered into",
+          "B": "broken off",
+          "C": "backed out of",
+          "D": "put off"
+        },
+        "answer": "A",
+        "explanation": "企業が戦略的パートナーシップを「締結した」という文脈です。'enter into a partnership' は「パートナーシップを結ぶ」という定型表現なので、(A) 'entered into' が正解です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "argument",
+          "B": "agreement",
+          "C": "appointment",
+          "D": "assessment"
+        },
+        "answer": "B",
+        "explanation": "パートナーシップの「契約」条件について述べています。したがって、(B) 'agreement' (契約、合意) が最も適切な単語です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "milestone",
+          "B": "mistake",
+          "C": "misfortune",
+          "D": "mystery"
+        },
+        "answer": "A",
+        "explanation": "このパートナーシップが、BioCorp社と患者にとって「重要な節目」または「画期的な出来事」であることをCEOが述べています。(A) 'milestone' (画期的な出来事、節目) が最も適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "Clinical trials are expected to begin next year.",
+          "B": "BioCorp's stock price fell after the announcement.",
+          "C": "The drug has shown some serious side effects.",
+          "D": "PharmaGlobal has recently faced financial difficulties."
+        },
+        "answer": "A",
+        "explanation": "空欄の直前で、両社が協力して治療薬を患者に届けると述べており、直後で共同委員会を設立すると述べています。この間に、提携後の具体的な次のステップについて言及するのが自然な流れです。(A)「臨床試験は来年開始される見込みです」が、開発を加速するという文脈に最も合致します。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_032",
+    "content": "**Advertisement**<br><br>Introducing the new Titan-X Blender: The Ultimate Kitchen Appliance<br><br>Are you looking for a blender that can do it all? The Titan-X is more than just a blender; it's a complete food processing system. Its powerful 1500-watt motor can ------- [1] crush ice, grind nuts, and puree vegetables in seconds.<br><br>The Titan-X comes with three ------- [2] jars for different tasks: a large 2-liter pitcher for smoothies and soups, a grinding jar for spices and coffee beans, and a personal-sized cup for drinks on the go. All components are dishwasher-safe, making cleanup incredibly easy.<br><br>But what truly sets the Titan-X apart is its smart-touch interface. ------- [3]. It automatically adjusts the blending speed and time for perfect results every time. This ------- [4] technology takes the guesswork out of food preparation.<br><br>Order yours today and receive a free recipe book. Experience the power and convenience of the Titan-X!",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "effortless",
+          "B": "effortlessly",
+          "C": "effort",
+          "D": "efforts"
+        },
+        "answer": "B",
+        "explanation": "動詞 'crush' を修飾するため、副詞が必要です。「楽々と」氷を砕く、という意味にするため、(B) 'effortlessly' が正解です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "interchangeable",
+          "B": "unchangeable",
+          "C": "charming",
+          "D": "charged"
+        },
+        "answer": "A",
+        "explanation": "異なる用途に使える、複数の「交換可能な」ジャーが付属しているという文脈です。(A) 'interchangeable' (交換可能な) が最も適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The blender is available in three different colors.",
+          "B": "It comes with five pre-programmed settings for common recipes.",
+          "C": "The motor comes with a ten-year warranty.",
+          "D": "It is our most affordable model yet."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前でスマートタッチインターフェースについて紹介し、直後でそれが自動的に速度や時間を調整すると説明しています。そのインターフェースの具体的な機能を説明する文が最適です。(B)「一般的なレシピ用に5つのプログラム済み設定が付属しています」が、スマートな機能の具体例として最も適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "revolutionary",
+          "B": "evolutionary",
+          "C": "voluntary",
+          "D": "temporary"
+        },
+        "answer": "A",
+        "explanation": "このスマートタッチインターフェースのような技術は「画期的な」ものであると宣伝しています。(A) 'revolutionary' (画期的な) が製品の先進性をアピールするのに最も適した形容詞です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_033",
+    "content": "To: All Sales Staff<br>From: Mark Johnson, VP of Sales<br>Subject: Q3 Sales Performance and Q4 Goals<br><br>Team,<br><br>I want to start by ------- [1] all of you on an outstanding third quarter. We exceeded our sales target by 15%, which is a tremendous achievement. This success is a direct result of your hard work and ------- [2].<br><br>Let's maintain this momentum as we move into the fourth quarter. Our primary objective for Q4 will be to expand our market share in the small business sector. We see ------- [3] potential for growth in this area.<br><br>To support this goal, the marketing department will be launching a new campaign targeted specifically at small businesses. ------- [4]. I have attached a detailed breakdown of the Q4 strategy and individual sales targets. Let's work together to finish the year on a high note.<br><br>Great job, everyone.<br><br>Mark Johnson",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "congratulating",
+          "B": "complaining",
+          "C": "consulting",
+          "D": "conflicting"
+        },
+        "answer": "A",
+        "explanation": "第3四半期の素晴らしい業績について、チームを「祝福する」ことから始めたい、という文脈です。'congratulate ... on ...' で「～のことで（人）を祝う」という意味になります。したがって、(A) 'congratulating' が正解です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "dedicate",
+          "B": "dedication",
+          "C": "dedicated",
+          "D": "dedicating"
+        },
+        "answer": "B",
+        "explanation": "'your hard work and ...' という形で、'hard work' と同じく名詞が必要です。「勤勉さと献身」という意味にするため、名詞の (B) 'dedication' (献身) が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "considerate",
+          "B": "considerably",
+          "C": "considered",
+          "D": "considerable"
+        },
+        "answer": "D",
+        "explanation": "名詞 'potential' を修飾する形容詞が必要です。「かなりの可能性がある」という意味にするため、(D) 'considerable' (かなりの、相当な) が最も適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "This campaign will provide you with high-quality leads.",
+          "B": "Last year's campaign was not very successful.",
+          "C": "The marketing budget has been cut for Q4.",
+          "D": "We need to hire more marketing staff."
+        },
+        "answer": "A",
+        "explanation": "空欄の直前で、マーケティング部門が新しいキャンペーンを始めると述べています。そのキャンペーンが営業チームにどのような利益をもたらすかを説明するのが自然な流れです。(A)「このキャンペーンは、皆さんに質の高い見込み客情報を提供するでしょう」が、営業チームへのメッセージとして最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_034",
+    "content": "**NOTICE TO ALL GYM MEMBERS**<br><br>Subject: Locker Room Renovations<br><br>Please be advised that the men's and women's locker rooms will be closed for renovations starting Monday, September 9. The project is ------- [1] to take approximately three weeks to complete. We anticipate reopening the locker rooms on Monday, September 30.<br><br>During the renovation period, temporary changing areas and restrooms will be available near the yoga studio. However, please note that shower facilities will not be accessible. We understand this is a significant ------- [2] and we have tried to schedule the work during a typically slower month.<br><br>All personal items must be removed from the lockers by the end of the day on Sunday, September 8. ------- [3]. Any remaining items will be removed and held at the front desk for 14 days.<br><br>We are confident that you will be pleased with the ------- [4] facilities. The project includes new lockers, updated shower stalls, and improved ventilation. Thank you for your patience.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "expected",
+          "B": "expecting",
+          "C": "expects",
+          "D": "expectation"
+        },
+        "answer": "A",
+        "explanation": "プロジェクトが完了するのに約3週間「かかると予想される」という受動態の文脈です。'be expected to do' で「～すると予想される」という意味になるため、過去分詞の (A) 'expected' が正解です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "improvement",
+          "B": "convenience",
+          "C": "inconvenience",
+          "D": "advancement"
+        },
+        "answer": "C",
+        "explanation": "シャワー施設が使えなくなることは、利用者にとって「不便」です。したがって、(C) 'inconvenience' (不便) が最も適切な単語です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The gym will be extending its opening hours.",
+          "B": "New fitness classes will be added to the schedule.",
+          "C": "Management is not responsible for items left behind.",
+          "D": "Please bring your own towel and water bottle."
+        },
+        "answer": "C",
+        "explanation": "空欄の直前で、ロッカーから私物をすべて撤去するように指示しています。その指示に従わなかった場合の結果について述べるのが自然です。(C)「置き忘れられた物品について、運営側は責任を負いません」は、法的責任を明確にするための重要な一文です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "upgraded",
+          "B": "downgraded",
+          "C": "degraded",
+          "D": "delayed"
+        },
+        "answer": "A",
+        "explanation": "改装後の「アップグレードされた」施設に満足してもらえると確信している、という文脈です。(A) 'upgraded' (改良された) が最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_035",
+    "content": "**Email**<br><br>To: Project Team<br>From: Clara Evans<br>Subject: Urgent: Project Deadline Adjustment<br><br>Hi Team,<br><br>This is to inform you of an important change to the Project Alpha timeline. The client has requested that we move the final delivery date forward. ------- [1]. The new deadline is now November 22, which is one week earlier than originally planned.<br><br>I understand that this is a significant adjustment and will require a ------- [2] effort from everyone. I have already revised the project plan to reflect this new timeline. The updated schedule ------- [3] the remaining tasks and assigns new deadlines for each phase.<br><br>I know this is a challenging request, but I am confident in our team's ability to meet this new deadline. We will need to prioritize tasks and work with maximum efficiency. Let's schedule a brief meeting tomorrow morning to discuss the revised plan and ------- [4] any concerns.<br><br>Thanks,<br>Clara",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "They are very pleased with our progress so far.",
+          "B": "They need the final product in time for a major trade show.",
+          "C": "The original deadline was already very tight.",
+          "D": "This is due to a change in their marketing strategy."
+        },
+        "answer": "B",
+        "explanation": "空欄は、クライアントが納期の前倒しを要求した理由を説明する文が入る場所です。(B)「彼らは主要な見本市に間に合うように最終製品を必要としています」が、納期を早める具体的な理由として最も説得力があります。(D)も理由ですが、(B)の方がより具体的で緊急性が伝わります。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "concentrate",
+          "B": "concentrating",
+          "C": "concentrated",
+          "D": "concentration"
+        },
+        "answer": "C",
+        "explanation": "名詞 'effort' を修飾する形容詞が必要です。「集中的な努力」を必要とする、という文脈なので、形容詞として使われる過去分詞の (C) 'concentrated' が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "outlines",
+          "B": "underlines",
+          "C": "declines",
+          "D": "defines"
+        },
+        "answer": "A",
+        "explanation": "更新されたスケジュールが、残りのタスクの「概要を示し」、新しい締め切りを割り当てている、という文脈です。(A) 'outlines' (概要を示す) が最も適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "ignore",
+          "B": "create",
+          "C": "address",
+          "D": "accept"
+        },
+        "answer": "C",
+        "explanation": "会議の目的は、改訂された計画について話し合い、懸念事項に「対処する」ことです。(C) 'address' は問題や懸念に「対処する、取り組む」という意味で、この文脈に最適です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_036",
+    "content": "**Online Article Review**<br><br>Title: The Future of Urban Transportation<br><br>A recent article in *TechForward* magazine explores the coming changes in how we navigate our cities. The author, David Lee, makes a compelling case that electric scooters and ride-sharing services are just the beginning. He ------- [1] that autonomous vehicles (AVs) will soon become a common sight on city streets.<br><br>The article highlights the potential benefits of AVs, such as reduced traffic congestion and fewer accidents. However, Lee does not shy away from the challenges. He acknowledges the significant ------- [2] hurdles, including legal and ethical questions about safety and liability.<br><br>------- [3]. For example, he discusses the need for massive investment in smart infrastructure, like 5G networks and sensors embedded in roads. The article is well-researched and presents a ------- [4] view of the topic.<br><br>Overall, this is a thought-provoking read for anyone interested in the future of our cities.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "predicts",
+          "B": "prevents",
+          "C": "pretends",
+          "D": "prescribes"
+        },
+        "answer": "A",
+        "explanation": "筆者が、自動運転車がすぐに普及するだろうと「予測している」という文脈です。(A) 'predicts' (予測する) が最も適切な動詞です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "regularly",
+          "B": "regulatory",
+          "C": "regulate",
+          "D": "regulation"
+        },
+        "answer": "B",
+        "explanation": "名詞 'hurdles' (障害) を修飾する形容詞が必要です。「法的な」障害や「規制上の」障害について述べているため、(B) 'regulatory' (規制の) が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Lee argues that public transportation should be free.",
+          "B": "He also addresses the practical and financial obstacles.",
+          "C": "The author has written several books about technology.",
+          "D": "Electric scooters have become controversial in some cities."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前で法や倫理といった課題に言及し、直後でスマートインフラへの投資の必要性という具体的な課題を挙げています。この間をつなぐには、他の種類の障害にも言及していることを示す文が適切です。(B)「彼はまた、実用的および財政的な障害にも言及している」が、議論を自然に展開させます。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "biased",
+          "B": "negative",
+          "C": "balanced",
+          "D": "narrow"
+        },
+        "answer": "C",
+        "explanation": "記事が利点と課題の両方を提示していることから、そのトピックに対して「バランスの取れた」見方をしていると評価するのが適切です。(C) 'balanced' (バランスの取れた) が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_037",
+    "content": "**Invitation**<br><br>The Board of Directors of the Northwood Charity Foundation cordially invites you to our Annual Fundraising Gala.<br><br>This special evening is dedicated to celebrating our achievements and raising crucial funds for our youth literacy programs. The event will take place on Saturday, November 8th, at the illustrious Grand Ballroom of the Fairmont Hotel. The evening will ------- [1] with a reception at 7:00 PM, followed by dinner and a silent auction.<br><br>We are honored to have Mayor Johnson as our keynote speaker. ------- [2]. Entertainment will be provided by the renowned jazz ensemble, The Blue Notes.<br><br>All ------- [3] from the gala will directly support our mission to provide books and tutoring services to underprivileged children in our community. Your attendance can make a real difference.<br><br>Tickets are $150 per person. Please RSVP by October 25th. We ------- [4] anticipate your presence at this memorable event.<br><br>For tickets and more information, please visit our website.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "commence",
+          "B": "conclude",
+          "C": "commit",
+          "D": "compete"
+        },
+        "answer": "A",
+        "explanation": "イベントがレセプションで「始まる」という文脈です。(A) 'commence' (開始する) が 'start' や 'begin' よりもフォーマルな文脈で使われ、この招待状に適しています。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "He has long been a vocal supporter of our cause.",
+          "B": "The hotel is known for its excellent cuisine.",
+          "C": "Last year's event raised a record amount of money.",
+          "D": "Tickets for the event are selling out fast."
+        },
+        "answer": "A",
+        "explanation": "空欄の直前で、ジョンソン市長が基調講演者であることを発表しています。彼がなぜ講演者としてふさわしいのか、その理由を補足するのが自然な流れです。(A)「彼は長年、我々の活動の熱心な支持者です」が、その理由として最も説得力があります。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "proceedings",
+          "B": "procedures",
+          "C": "proceeds",
+          "D": "processes"
+        },
+        "answer": "C",
+        "explanation": "イベントからの「収益金」が慈善活動の支援に使われるという文脈です。したがって、(C) 'proceeds' (収益金) が正解です。(A) 'proceedings' は「議事録」や「一連の出来事」を意味します。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "eager",
+          "B": "eagerly",
+          "C": "eagerness",
+          "D": "most eager"
+        },
+        "answer": "B",
+        "explanation": "動詞 'anticipate' (心待ちにする) を修飾するため、副詞が必要です。「あなたの出席を心からお待ちしております」という意味にするため、(B) 'eagerly' (熱心に) が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_038",
+    "content": "**Company Announcement**<br><br>To: All Employees<br>Subject: Acquisition of Innovatec Inc.<br><br>We are thrilled to announce that our company, Tech-Systems, has successfully ------- [1] Innovatec Inc., a leading startup in the field of artificial intelligence. This acquisition marks a significant step forward in our strategy to become a leader in next-generation technologies.<br><br>Innovatec has a talented team and holds several key patents that are highly ------- [2] to our product development roadmap. By integrating their expertise and technology, we will be able to accelerate our innovation cycle and bring cutting-edge products to market faster.<br><br>------- [3]. Over the next few weeks, we will be working on a detailed integration plan. We are committed to a smooth transition for all employees of both companies.<br><br>We will hold an all-hands meeting next Monday to discuss this exciting development in more detail and to answer any questions you may have. We are confident that this ------- [4] will create tremendous value for our customers and shareholders.<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "required",
+          "B": "inquired",
+          "C": "acquired",
+          "D": "retired"
+        },
+        "answer": "C",
+        "explanation": "Tech-Systems社がInnovatec社を「買収した」という文脈です。(C) 'acquired' (買収した、取得した) が最も適切な動詞です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "relevant",
+          "B": "reluctant",
+          "C": "redundant",
+          "D": "relative"
+        },
+        "answer": "A",
+        "explanation": "Innovatec社が持つ特許が、自社の製品開発ロードマップに「関連性が高い」ことを示しています。(A) 'relevant' (関連のある) が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "We expect this will strengthen our position in the market.",
+          "B": "Innovatec was facing financial difficulties.",
+          "C": "The acquisition process was very lengthy and complex.",
+          "D": "Some employees may be relocated to a new office."
+        },
+        "answer": "A",
+        "explanation": "空欄の直前で、買収による技術統合の利点を述べています。その結果として会社全体にどのような良い影響があるかを総括する文が続くのが自然です。(A)「これにより、市場における当社の地位が強化されると期待しています」が、買収の戦略的意義をまとめる文として最適です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "transaction",
+          "B": "transition",
+          "C": "translation",
+          "D": "transportation"
+        },
+        "answer": "A",
+        "explanation": "この文脈での「これ」とは、会社による会社の買収という「取引」を指します。したがって、(A) 'transaction' (取引) が最も適切な名詞です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_039",
+    "content": "From: Susan Mills <s.mills@cityhospital.org><br>To: Dr. Robert Chen <r.chen@cityhospital.org><br>Subject: Medical Conference in San Diego<br><br>Dear Dr. Chen,<br><br>I am writing to request your approval to attend the National Medical Conference in San Diego from October 10-12. This conference is a premier event for medical professionals, and it offers sessions on the latest ------- [1] in cardiovascular research, which is directly related to my work.<br><br>Attending this conference would be highly ------- [2]. It would allow me to learn about new treatment techniques and network with other experts in our field. I am confident that the knowledge gained would be a valuable asset to our department.<br><br>I have attached the conference brochure and a detailed breakdown of the ------- [3] costs, including registration, travel, and accommodation. The total cost is estimated to be $1,850. ------- [4].<br><br>Thank you for considering my request. I look forward to your response.<br><br>Sincerely,<br>Susan Mills",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "advances",
+          "B": "advantages",
+          "C": "adventures",
+          "D": "adversaries"
+        },
+        "answer": "A",
+        "explanation": "心臓血管研究における最新の「進歩」に関するセッションについて述べています。(A) 'advances' (進歩、発展) が科学や研究の文脈で最もよく使われます。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "benefit",
+          "B": "beneficial",
+          "C": "beneficiary",
+          "D": "beneficially"
+        },
+        "answer": "B",
+        "explanation": "be動詞 'would be' の後には、主語 'Attending this conference' を説明する形容詞が必要です。「非常に有益でしょう」という意味にするため、(B) 'beneficial' (有益な) が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "associated",
+          "B": "associating",
+          "C": "associate",
+          "D": "association"
+        },
+        "answer": "A",
+        "explanation": "名詞 'costs' を修飾する形容詞が必要です。「関連費用」という意味にするため、過去分詞が形容詞として使われている (A) 'associated' (関連した) が正解です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "I believe this is a worthwhile investment for the hospital.",
+          "B": "I have already booked my flight and hotel.",
+          "C": "The conference in Chicago last year was very informative.",
+          "D": "My current projects are all on schedule."
+        },
+        "answer": "A",
+        "explanation": "空欄の直前で、参加にかかる総費用を提示しています。その費用を正当化する一文を付け加えるのが、承認を得る上で効果的です。(A)「これは病院にとって価値ある投資だと信じています」が、費用の提示に続く文として最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_040",
+    "content": "**Product Review by Tech Daily**<br><br>The new Aura smartwatch by Lumina Devices has finally hit the market, and we've spent a week testing it. The device boasts an impressive array of features, but does it live up to the company's claims?<br><br>The design is sleek and modern, and the display is bright and responsive. The health tracking features are ------- [1], offering detailed metrics for sleep, heart rate, and activity levels. We found the data to be accurate when compared with dedicated medical devices.<br><br>However, the user experience is not without its flaws. The menu system can be ------- [2] to navigate, and we experienced occasional software glitches. The most significant drawback, though, is the battery life. Lumina claims up to 48 hours of use, but we consistently struggled to get more than 30 hours. This ------- [3] is a major issue for a device meant to be worn all day.<br><br>------- [4]. It's a solid device with great potential, but it's held back by a few key weaknesses.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "comprehensive",
+          "B": "comprehensible",
+          "C": "comprehend",
+          "D": "comprehension"
+        },
+        "answer": "A",
+        "explanation": "健康追跡機能が「包括的」であることを評価しています。(A) 'comprehensive' (包括的な、広範囲にわたる) が、多くの詳細な指標を提供しているという文脈に合致します。(B) 'comprehensible' は「理解できる」という意味です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "confuse",
+          "B": "confused",
+          "C": "confusing",
+          "D": "confusion"
+        },
+        "answer": "C",
+        "explanation": "メニューシステムが「分かりにくい、混乱させる」という文脈です。システムが人を混乱させるので、現在分詞の (C) 'confusing' が適切です。(B) 'confused' は人が「混乱している」状態を表します。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "distinction",
+          "B": "discrepancy",
+          "C": "distribution",
+          "D": "discussion"
+        },
+        "answer": "B",
+        "explanation": "公称のバッテリー寿命（48時間）と実際の性能（30時間）との間の「食い違い」について述べています。したがって、(B) 'discrepancy' (食い違い、不一致) が正解です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "Therefore, we cannot recommend this product.",
+          "B": "The smartwatch is an excellent value for its price.",
+          "C": "In conclusion, the Aura smartwatch is a mixed bag.",
+          "D": "Lumina is known for its excellent customer service."
+        },
+        "answer": "C",
+        "explanation": "レビュー全体で、良い点（デザイン、健康機能）と悪い点（UI、バッテリー）の両方を挙げています。結論として、この製品を総括する文が適切です。(C)「結論として、Auraスマートウォッチは良い点も悪い点もある製品だ」が、レビュー全体の要約として最もふさわしいです。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_041",
+    "content": "**Website Page: About Us**<br><br>Welcome to Willow Creek Organics. Founded in 2015 by two sisters with a passion for healthy living, our company was born from a simple idea: that everyone deserves access to fresh, natural, and affordable organic food. We started with a small stall at a local farmers' market, but our ------- [1] to quality quickly gained a loyal following.<br><br>Today, Willow Creek Organics partners with a network of certified organic farms across the region. We ------- [2] to uphold the highest standards of sustainability and ethical sourcing. This means we work closely with our farmers to ensure that their practices are environmentally friendly and that their workers are treated fairly.<br><br>------- [3]. Our mission extends beyond just selling food. We are dedicated to educating our community about the benefits of organic agriculture and healthy eating through workshops and online resources.<br><br>We believe that good food has the power to connect people and ------- [4] a healthier planet. Thank you for being part of our journey.<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "commitment",
+          "B": "commission",
+          "C": "commodity",
+          "D": "commencement"
+        },
+        "answer": "A",
+        "explanation": "品質への「献身」や「真剣な取り組み」が評判を得たという文脈です。(A) 'commitment' (献身、約束) が最も適切です。「commitment to quality」で「品質へのこだわり」を意味します。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "strive",
+          "B": "thrive",
+          "C": "deprive",
+          "D": "derive"
+        },
+        "answer": "A",
+        "explanation": "最高の基準を維持するために「努力する」という文脈です。'strive to do' は「～しようと努力する」という意味の定型表現であり、(A) 'strive' が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Our delivery service is available in most major cities.",
+          "B": "However, our principles remain the same as they were on day one.",
+          "C": "We have recently introduced a new line of juices.",
+          "D": "The farmers' market is open only on weekends."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前で会社の現在の規模や活動について述べ、直後で会社の使命について述べています。会社の成長にもかかわらず、創業当初の理念は変わらない、とつなぐのが最も論理的です。(B)「しかしながら、我々の理念は初日と同じままです」が、会社の核となる価値観を強調する文として最適です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "foster",
+          "B": "falter",
+          "C": "forbid",
+          "D": "forecast"
+        },
+        "answer": "A",
+        "explanation": "良い食べ物が、より健康な地球を「育む」力を持っているという文脈です。(A) 'foster' (育む、育成する) が最も適切な動詞です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_042",
+    "content": "**MEMORANDUM**<br><br>To: All Employees<br>From: IT Department<br>Subject: New IT Support Ticket System<br><br>To improve the efficiency of our IT support services, we will be ------- [1] a new support ticket system starting next Monday. The new system, 'HelpDesk Pro,' will replace our current email-based support process.<br><br>With HelpDesk Pro, you can submit a request, track its status, and receive notifications in real-time. This will provide greater ------- [2] and ensure that your issues are addressed in a timely manner. All requests must be submitted through this new system; email requests will no longer be accepted.<br><br>Training sessions will be held this week to familiarize everyone with the new platform. ------- [3]. Participation is highly encouraged. A user guide has also been uploaded to the company intranet for your ------- [4].<br><br>We are confident this new system will significantly improve your IT support experience.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "implementing",
+          "B": "implying",
+          "C": "importing",
+          "D": "impressing"
+        },
+        "answer": "A",
+        "explanation": "新しいITサポートシステムを「導入する」という文脈です。(A) 'implementing' (導入する、実行する) が最も適切な動詞です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "transparent",
+          "B": "transparency",
+          "C": "transparently",
+          "D": "transparencies"
+        },
+        "answer": "B",
+        "explanation": "このシステムがより大きな「透明性」を提供するという文脈です。名詞 'greater' の後には名詞が必要です。したがって、(B) 'transparency' (透明性) が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The current system has been in place for over five years.",
+          "B": "Please sign up for a session that fits your schedule.",
+          "C": "The IT department is currently hiring new staff.",
+          "D": "This system was developed by an external vendor."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前で研修会が開催されることを告知しています。それに続く文として、従業員に具体的な行動を促すのが自然です。(B)「あなたのスケジュールに合うセッションにサインアップしてください」が、研修会への参加を促す文として最適です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "refer",
+          "B": "referred",
+          "C": "referee",
+          "D": "reference"
+        },
+        "answer": "D",
+        "explanation": "'for your ...' の後には名詞が必要です。「あなたが参照するために」という意味にするため、名詞の (D) 'reference' (参照) が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_043",
+    "content": "To: sales_team@horizon.com<br>From: j.davis@horizon.com<br>Subject: Following up on the Trade Show<br><br>Hi Team,<br><br>First, a big thank you to everyone for your hard work at the National Tech Expo last week. It was a huge success, and we collected a large number of promising leads. Now, the ------- [1] work begins: following up.<br><br>It is imperative that we contact every lead within the next 48 hours while our company is still fresh in their minds. I have assigned a list of leads to each of you in the CRM system. Please ------- [2] your assigned list and begin outreach immediately.<br><br>When you make contact, remember to personalize your message. ------- [3]. Mention something specific you discussed at the booth if you can. This will show that we were paying attention.<br><br>Let's convert these promising leads into ------- [4] customers. Please update the status of each lead in the CRM as you work through your list. Let's keep the momentum going!",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "crucial",
+          "B": "initial",
+          "C": "final",
+          "D": "optional"
+        },
+        "answer": "A",
+        "explanation": "見本市でのリード獲得に成功し、今度はその後のフォローアップという「極めて重要な」仕事が始まる、という文脈です。(A) 'crucial' (極めて重要な) が、この段階の重要性を強調するのに最適です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "access",
+          "B": "assess",
+          "C": "address",
+          "D": "assist"
+        },
+        "answer": "A",
+        "explanation": "各自に割り当てられたリードのリストに「アクセスして」連絡を開始するように指示しています。したがって、(A) 'access' (アクセスする) が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Do not offer any discounts at this stage.",
+          "B": "A generic email is less likely to get a response.",
+          "C": "Our CRM system was recently updated.",
+          "D": "The trade show was more crowded than we expected."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前でメッセージをパーソナライズするように指示し、直後で具体的な方法を提案しています。なぜパーソナライズが必要なのか、その理由を説明する文が最適です。(B)「ありふれたメールは返信をもらえる可能性が低いです」が、パーソナライズの重要性を裏付ける理由として最も適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "loyal",
+          "B": "legal",
+          "C": "local",
+          "D": "leisure"
+        },
+        "answer": "A",
+        "explanation": "有望な見込み客を「忠実な」顧客に転換しよう、という営業目標を述べています。(A) 'loyal' (忠実な) が最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_044",
+    "content": "**Company-wide Memo**<br><br>Subject: Revised Travel and Expense Policy<br><br>Effective October 1, a revised Travel and Expense Policy will be implemented. This update is intended to streamline the reimbursement process and ensure ------- [1] with current financial regulations.<br><br>One of the key changes is the requirement for pre-approval for all international travel. Employees must now submit a travel request form at least three weeks prior to their planned departure date. ------- [2].<br><br>Additionally, all expense reports must now be submitted through the new online portal, Concur. Paper-based submissions will no longer be ------- [3]. This change will allow for faster processing and payment. Please ensure that all receipts are scanned and attached to your digital submission.<br><br>The ------- [4] policy document can be found on the company intranet. We will also be holding information sessions next week to walk through the changes. Thank you for your cooperation.<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "comply",
+          "B": "compliant",
+          "C": "compliance",
+          "D": "complied"
+        },
+        "answer": "C",
+        "explanation": "動詞 'ensure' の目的語として名詞が必要です。「現在の財務規制の順守」を確実にするという文脈なので、名詞の (C) 'compliance' (順守) が正解です。'compliance with ...' で「～の順守」という意味になります。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "This is to allow adequate time for approval and booking.",
+          "B": "The previous policy was confusing for many employees.",
+          "C": "The company encourages employees to travel for business.",
+          "D": "Domestic travel does not require pre-approval."
+        },
+        "answer": "A",
+        "explanation": "空欄の直前で、国際出張には3週間前の事前承認が必要という新しいルールを説明しています。そのルールの理由を説明するのが自然な流れです。(A)「これは、承認と予約のための十分な時間を確保するためです」が、その理由として最も適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "processed",
+          "B": "progressed",
+          "C": "produced",
+          "D": "promoted"
+        },
+        "answer": "A",
+        "explanation": "紙ベースの提出はもはや「処理されない」という文脈です。(A) 'processed' (処理される) が最も適切な動詞です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "revising",
+          "B": "revised",
+          "C": "revision",
+          "D": "revises"
+        },
+        "answer": "B",
+        "explanation": "名詞 'policy document' を修飾する形容詞が必要です。「改訂された」ポリシードキュメント、という意味にするため、過去分詞が形容詞として使われている (B) 'revised' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_045",
+    "content": "**Hotel Booking Confirmation**<br><br>Dear Ms. Dubois,<br><br>Thank you for choosing The Grandview Hotel. This email confirms your booking for a Deluxe King Room for three nights, checking in on November 15 and checking out on November 18.<br><br>Your reservation includes complimentary breakfast and access to our fitness center and pool. Your total ------- [1] is $780, payable upon check-in. Please note that our check-in time is 3:00 PM. ------- [2].<br><br>To make your stay even more memorable, we offer a range of additional services. These include airport transfers, in-room spa treatments, and reservations at our award-winning restaurant, The Pinnacle. Should you wish to ------- [3] any of these services, please reply to this email or call our concierge desk.<br><br>We have a 48-hour cancellation policy. Any cancellations made within 48 hours of your arrival date will ------- [4] a charge equivalent to one night's stay. We look forward to welcoming you to The Grandview Hotel.<br><br>Sincerely,<br>The Grandview Hotel Reservations",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "balance",
+          "B": "bonus",
+          "C": "benefit",
+          "D": "basis"
+        },
+        "answer": "A",
+        "explanation": "予約の「残高」または「支払い総額」が780ドルであるという文脈です。(A) 'balance' (残高、差引勘定) が会計や予約の文脈で使われる適切な単語です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "Our hotel is conveniently located in the heart of the city.",
+          "B": "We are currently renovating our main lobby.",
+          "C": "Early check-in is subject to availability and may incur a fee.",
+          "D": "Breakfast is served from 7:00 AM to 10:00 AM."
+        },
+        "answer": "C",
+        "explanation": "空欄の直前で、チェックイン時間が午後3時であることを伝えています。それに関連する補足情報、特にアーリーチェックインに関する規定を説明するのが最も適切です。(C)「アーリーチェックインは空き状況により可能ですが、料金が発生する場合があります」が最適な文です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "avail yourself of",
+          "B": "deprive yourself of",
+          "C": "remind yourself of",
+          "D": "devote yourself to"
+        },
+        "answer": "A",
+        "explanation": "'avail oneself of' は「～を利用する」という意味のフォーマルな表現です。追加サービスを「利用したい」場合は連絡するように伝えているため、(A) が正解です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "incur",
+          "B": "occur",
+          "C": "insure",
+          "D": "assure"
+        },
+        "answer": "A",
+        "explanation": "キャンセルポリシーの説明で、期限内のキャンセルは1泊分の料金が「発生する」という文脈です。(A) 'incur' (（費用・損害などを）負う、被る) が最も適切な動詞です。(B) 'occur' は「起こる」ですが、通常、費用に対しては使いません。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_046",
+    "content": "**Public Service Announcement**<br><br>The City Department of Transportation would like to inform the public of upcoming weekend closures on the Metro Blue Line. These closures are necessary to ------- [1] critical track maintenance and signal upgrades.<br><br>On the weekends of July 12-13 and July 19-20, there will be no Blue Line service between the City Center and Northwood stations. ------- [2]. Normal service is expected to ------- [3] on the Monday morning following each weekend closure.<br><br>During the closures, free shuttle buses will be provided between the affected stations. However, passengers should expect significant delays and are ------- [4] to allow extra travel time or seek alternative routes. We apologize for the inconvenience and thank you for your patience as we work to improve the safety and reliability of our metro system.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "facilitate",
+          "B": "fabricate",
+          "C": "fluctuate",
+          "D": "fascinate"
+        },
+        "answer": "A",
+        "explanation": "この運休は、重要なメンテナンスとアップグレードを「容易にする」または「可能にする」ために必要であるという文脈です。(A) 'facilitate' (容易にする、促進する) が最も適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "The Blue Line is the busiest line in our system.",
+          "B": "The work will take place from Saturday morning until Sunday evening.",
+          "C": "This project has been planned for several months.",
+          "D": "Fares will be increased at the end of the year."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前で週末の運休区間について述べています。その運休が具体的にいつからいつまで行われるのか、時間帯を補足するのが最も自然な流れです。(B)「作業は土曜の朝から日曜の夕方まで行われます」が、利用者への詳細情報として最適です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "resume",
+          "B": "presume",
+          "C": "consume",
+          "D": "assume"
+        },
+        "answer": "A",
+        "explanation": "通常運行が月曜の朝に「再開される」見込みであるという文脈です。(A) 'resume' (再開する) が正解です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "advised",
+          "B": "prohibited",
+          "C": "forced",
+          "D": "denied"
+        },
+        "answer": "A",
+        "explanation": "乗客は、余分な移動時間を確保するか、代替ルートを探すよう「勧められる」という文脈です。(A) 'advised' (勧められる) が、強い推奨を表すのに適切な単語です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_047",
+    "content": "**Internal Announcement**<br><br>Subject: Welcoming Our New Vice President of Marketing<br><br>Dear Colleagues,<br><br>I am delighted to announce the ------- [1] of Ms. Helen Carter as our new Vice President of Marketing, effective September 1st. Helen will be joining us from a senior leadership role at a major competitor, where she was ------- [2] for launching several award-winning campaigns.<br><br>Helen brings over 15 years of experience in brand strategy, digital marketing, and market analysis. Her impressive track record and innovative approach make her a perfect fit for our team as we continue to expand our global presence. We are confident that her leadership will be ------- [3] in driving our brand forward.<br><br>------- [4]. Please join me in extending a warm welcome to Helen. We are all very excited to have her on board.<br><br>Best regards,<br>David Lee, CEO",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "appointment",
+          "B": "disappointment",
+          "C": "appointee",
+          "D": "appoint"
+        },
+        "answer": "A",
+        "explanation": "ヘレン・カーター氏のマーケティング担当副社長への「任命」を発表している文脈です。したがって、名詞の (A) 'appointment' (任命) が正解です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "instrumental",
+          "B": "influential",
+          "C": "responsible",
+          "D": "decisive"
+        },
+        "answer": "A",
+        "explanation": "彼女がいくつかの受賞キャンペーンの立ち上げに「尽力した」または「重要な役割を果たした」という文脈です。'be instrumental in ...' は「～において重要な役割を果たす」という定型表現なので、(A) 'instrumental' が最適です。(C) 'responsible for' も可能ですが、'instrumental in' の方が功績を強調するニュアンスが強いです。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "valueless",
+          "B": "invaluable",
+          "C": "invalid",
+          "D": "invisible"
+        },
+        "answer": "B",
+        "explanation": "彼女のリーダーシップがブランドを前進させる上で「非常に貴重」になるだろう、という文脈です。(B) 'invaluable' (計り知れないほど貴重な) が、彼女への高い期待を示すのに最も適切な単語です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "She will be responsible for overseeing the entire marketing department.",
+          "B": "Our previous marketing VP retired last month.",
+          "C": "The marketing department is located on the fifth floor.",
+          "D": "We need to improve our marketing efforts."
+        },
+        "answer": "A",
+        "explanation": "空欄は、新しく就任するヘレン氏の紹介の締めくくり部分です。彼女の経歴や資質を述べた後、彼女の具体的な職責について触れるのが自然な流れです。(A)「彼女はマーケティング部門全体の監督を担当します」が、彼女の役割を明確にする文として最適です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_048",
+    "content": "**Blog Post: 5 Tips for More Productive Meetings**<br><br>Meetings are an unavoidable part of professional life, but they don't have to be a waste of time. With a little planning, you can make your meetings more focused and effective. Here are five tips:<br><br>1. Always have a clear agenda. An agenda ensures that everyone knows the purpose of the meeting and helps keep the discussion ------- [1]. Distribute it at least 24 hours in advance.<br><br>2. Invite only the necessary people. The more people in a meeting, the harder it is to make decisions. Be ------- [2] about who you invite.<br><br>3. Start and end on time. Respecting everyone's schedule shows professionalism and encourages punctuality. ------- [3].<br><br>4. Assign a facilitator. This person's role is to guide the conversation and ensure all voices are heard.<br><br>5. End with clear action items. Every meeting should ------- [4] in a decision or a set of next steps. Make sure everyone knows who is responsible for what, and by when.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "on track",
+          "B": "off guard",
+          "C": "out of date",
+          "D": "in charge"
+        },
+        "answer": "A",
+        "explanation": "アジェンダがあることで、議論が「軌道から外れない」ようにする、という文脈です。'keep ... on track' は「～を順調に進ませる、軌道から外さない」という意味の定型表現です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "strategic",
+          "B": "generous",
+          "C": "random",
+          "D": "anxious"
+        },
+        "answer": "A",
+        "explanation": "誰を招待するかについて「戦略的」になる、つまりよく考えて必要な人だけを選ぶべきだ、という文脈です。(A) 'strategic' (戦略的な) が最も適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Some meetings can be replaced with an email.",
+          "B": "This simple rule is surprisingly difficult to follow.",
+          "C": "If a meeting runs over, it disrupts other people's workday.",
+          "D": "Virtual meetings have become more common."
+        },
+        "answer": "C",
+        "explanation": "空欄の直前で、時間通りに始め、終えることの重要性を述べています。その理由、つまり時間を守らない場合の悪影響について説明するのが最も論理的です。(C)「もし会議が長引けば、他の人々の仕事日を妨害することになります」が、時間厳守を正当化する理由として最適です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "culminate",
+          "B": "cultivate",
+          "C": "circulate",
+          "D": "calculate"
+        },
+        "answer": "A",
+        "explanation": "すべての会議は、決定や次の一連のステップという「結果に終わる」べきだ、という文脈です。(A) 'culminate in ...' は「結果として～になる、～で最高潮に達する」という意味で、この文脈に最適です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_049",
+    "content": "To: All Full-time Staff<br>From: Human Resources<br>Subject: Open Enrollment for Health Benefits<br><br>The annual open enrollment period for health benefits will run from November 1 to November 15. This is your only opportunity to make changes to your health insurance plan for the upcoming year, ------- [1] you experience a qualifying life event.<br><br>During this period, you can enroll in a plan, change your current plan, or add or remove dependents. We ------- [2] encourage all employees to carefully review their current coverage and the options available for next year. Plan details, including premiums and coverage summaries, are available on the employee benefits portal.<br><br>------- [3]. These sessions will provide an overview of the plans and give you a chance to ask questions directly to representatives from our insurance providers.<br><br>Please note that if you do not take any action, your current health coverage will ------- [4] into the next year. Make sure to complete your enrollment by the November 15 deadline.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "if",
+          "B": "unless",
+          "C": "whether",
+          "D": "whereas"
+        },
+        "answer": "B",
+        "explanation": "この期間が、保険プランを変更できる唯一の機会である、ただし「適格なライフイベント（結婚、出産など）を経験しない限りは」という例外を示しています。したがって、「～でない限り」という意味の (B) 'unless' が正解です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "strong",
+          "B": "strongly",
+          "C": "strength",
+          "D": "strengthen"
+        },
+        "answer": "B",
+        "explanation": "動詞 'encourage' を修飾するため、副詞が必要です。「強く推奨します」という意味にするため、(B) 'strongly' が正解です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "There have been some minor changes to the dental plan.",
+          "B": "To assist you in making an informed decision, we will be hosting several information sessions.",
+          "C": "Our company is committed to the well-being of its employees.",
+          "D": "The cost of healthcare has been rising steadily."
+        },
+        "answer": "B",
+        "explanation": "空欄の直前で、プランの詳細を確認するよう従業員に促しています。その手助けとして何をするかを説明するのが自然な流れです。(B)「皆様が情報に基づいた決定を下すのを助けるために、我々はいくつかの説明会を主催します」が、従業員へのサポートを示す文として最適です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "roll over",
+          "B": "pass away",
+          "C": "rule out",
+          "D": "drop in"
+        },
+        "answer": "A",
+        "explanation": "何もしなければ、現在の保険が来年に「自動的に継続される」という文脈です。(A) 'roll over' は、契約や資金などが次の期間に「繰り越される、継続される」という意味の句動詞です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_700_050",
+    "content": "**Newsletter Excerpt: The Investor's Edge**<br><br>The global market has shown remarkable ------- [1] in the face of recent economic uncertainty. After a volatile first quarter, many major indices have recovered and are now posting modest gains. This trend is largely attributed to strong corporate earnings and easing inflation.<br><br>However, investors are advised to remain cautious. While the overall outlook is positive, several risks ------- [2]. These include ongoing geopolitical tensions and the potential for central banks to raise interest rates further. ------- [3].<br><br>Our recommendation is to maintain a diversified portfolio. Exposure to a mix of asset classes, including equities, bonds, and commodities, can help ------- [4] risk in an unpredictable market. We continue to see opportunities in the technology and healthcare sectors, which have demonstrated strong long-term growth potential.<br><br>As always, we advise consulting with a financial advisor before making any ------- [5] investment decisions.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "resilience",
+          "B": "resistance",
+          "C": "resemblance",
+          "D": "remittance"
+        },
+        "answer": "A",
+        "explanation": "最近の経済の不確実性にもかかわらず、市場が「回復力」や「強さ」を示したという文脈です。(A) 'resilience' (回復力、弾力性) が最も適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "persist",
+          "B": "consist",
+          "C": "desist",
+          "D": "insist"
+        },
+        "answer": "A",
+        "explanation": "全体的な見通しは良いものの、いくつかのリスクが「依然として存在する」という文脈です。(A) 'persist' (固執する、存続する) が、リスクが依然として残っているというニュアンスを的確に表します。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Therefore, a degree of uncertainty will likely continue.",
+          "B": "The stock market reached an all-time high last year.",
+          "C": "Many investors have made significant profits recently.",
+          "D": "Our firm specializes in retirement planning."
+        },
+        "answer": "A",
+        "explanation": "空欄の直前で、地政学的緊張や金利上昇の可能性といったリスクについて述べています。これらのリスクがあることから、どのような状況が続くかを結論づけるのが自然です。(A)「したがって、ある程度の不確実性が続く可能性が高い」が、リスクの存在から導かれる論理的な帰結です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "aggravate",
+          "B": "generate",
+          "C": "mitigate",
+          "D": "initiate"
+        },
+        "answer": "C",
+        "explanation": "分散投資が、予測不可能な市場においてリスクを「軽減する」のに役立つという文脈です。(C) 'mitigate' (軽減する、和らげる) が最も適切な動詞です。"
+      },
+      {
+        "id": "q5",
+        "problem": "[5]",
+        "options": {
+          "A": "substance",
+          "B": "substantial",
+          "C": "substantiate",
+          "D": "substantially"
+        },
+        "answer": "B",
+        "explanation": "名詞 'investment decisions' を修飾する形容詞が必要です。「重大な」投資判断を下す前には、専門家に相談することを勧めています。(B) 'substantial' (かなりの、重大な) が最も適切です。"
+      }
+    ]
+  }
+]

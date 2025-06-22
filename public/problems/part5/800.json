@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "p5_800_001",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ you require further assistance, please do not hesitate to contact our technical support team.",
+        "options": {
+          "A": "If",
+          "B": "Whether",
+          "C": "Should",
+          "D": "Unless"
+        },
+        "answer": "C",
+        "explanation": "Ifを用いた仮定法でIfが省略されると、主語と助動詞の倒置が起こります。この文は 'If you should require...' からIfが省略された形であり、より丁寧な表現です。したがって、(C) 'Should' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_002",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company decided to ___ the new policy, which will take effect next month.",
+        "options": {
+          "A": "commence",
+          "B": "implement",
+          "C": "procure",
+          "D": "allocate"
+        },
+        "answer": "B",
+        "explanation": "文脈は「会社は新しい方針を＿ことを決定した」となります。選択肢の中で「（計画・方針などを）実行する、実施する」という意味を持つのは (B) 'implement' です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_003",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "All employees are required to work ___ with their counterparts in the overseas branch.",
+        "options": {
+          "A": "collaboratively",
+          "B": "respectively",
+          "C": "mutually",
+          "D": "consecutively"
+        },
+        "answer": "A",
+        "explanation": "動詞 'work' を修飾する副詞が必要です。文脈から「海外支社の同等の役職者と協力して」という意味が最も自然なため、「協調して、共同で」を意味する (A) 'collaboratively' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_004",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The final report, ___ its complexity, was submitted ahead of the deadline.",
+        "options": {
+          "A": "notwithstanding",
+          "B": "whereas",
+          "C": "therefore",
+          "D": "given"
+        },
+        "answer": "A",
+        "explanation": "「その複雑さにもかかわらず」という逆接の意味を表す前置詞が必要です。'despite' や 'in spite of' と同様に使える (A) 'notwithstanding' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_005",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The marketing team conducted a ___ analysis of consumer behavior.",
+        "options": {
+          "A": "comprehensible",
+          "B": "comprehensive",
+          "C": "compassionate",
+          "D": "compelling"
+        },
+        "answer": "B",
+        "explanation": "名詞 'analysis' を修飾する形容詞が必要です。文脈から「包括的な、総合的な」という意味の (B) 'comprehensive' が正解です。'comprehensible' は「理解できる」という意味で、文脈に合いません。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_006",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The bonus payment is ___ upon the employee's performance review.",
+        "options": {
+          "A": "relative",
+          "B": "subject",
+          "C": "contingent",
+          "D": "liable"
+        },
+        "answer": "C",
+        "explanation": "be動詞 'is' の補語となる形容詞で、後ろに前置詞 'upon' (on) をとるものを選びます。'be contingent upon/on' で「～次第である、～を条件とする」という意味になるため、(C) 'contingent' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_007",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Not only ___ the deadline, but she also delivered a presentation of exceptional quality.",
+        "options": {
+          "A": "she met",
+          "B": "did she meet",
+          "C": "she did meet",
+          "D": "has she met"
+        },
+        "answer": "B",
+        "explanation": "Not only が文頭に来ると、主語と動詞の倒置が起こります。一般動詞の過去形なので、'did + 主語 + 動詞の原形' の形になる (B) 'did she meet' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_008",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The research findings were not conclusive; ___, further investigation is required.",
+        "options": {
+          "A": "consequently",
+          "B": "otherwise",
+          "C": "namely",
+          "D": "likewise"
+        },
+        "answer": "A",
+        "explanation": "「調査結果は決定的ではなかった」という原因・理由を受け、「その結果として、さらなる調査が必要だ」という流れになっています。したがって、「その結果として」を意味する接続副詞 (A) 'consequently' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_009",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Ms. Garcia is highly ___ in both written and spoken Japanese.",
+        "options": {
+          "A": "deficient",
+          "B": "proficient",
+          "C": "sufficient",
+          "D": "efficient"
+        },
+        "answer": "B",
+        "explanation": "文脈から「ガルシアさんは日本語の読み書きと会話の両方が非常に堪能です」という意味になります。「堪能な、熟達した」を意味し、前置詞 'in' と相性が良い (B) 'proficient' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_010",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new regulations ___ to all employees, regardless of their position.",
+        "options": {
+          "A": "pertain",
+          "B": "attain",
+          "C": "detain",
+          "D": "retain"
+        },
+        "answer": "A",
+        "explanation": "文脈から「新しい規則は、役職に関係なく全従業員に関係します」という意味になります。「関係する、関連する」という意味で、前置詞 'to' を伴う (A) 'pertain' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_011",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The workshop aims to ___ collaboration between the different departments.",
+        "options": {
+          "A": "facilitate",
+          "B": "hesitate",
+          "C": "negotiate",
+          "D": "articulate"
+        },
+        "answer": "A",
+        "explanation": "文脈から「ワークショップは、異なる部署間の協力を促進することを目的としています」という意味が最も自然です。「促進する、容易にする」という意味の動詞 (A) 'facilitate' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_012",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ reviewed the applicant's resume, the hiring manager decided to schedule an interview.",
+        "options": {
+          "A": "Have",
+          "B": "Having",
+          "C": "Had",
+          "D": "To have"
+        },
+        "answer": "B",
+        "explanation": "主節の動作（面接を決めた）より前の動作（履歴書を見た）を表す分詞構文です。完了形を用いることで時の前後関係を明確にするため、'Having + 過去分詞' の形である (B) 'Having' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_013",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The two companies, ___ leading players in the tech industry, announced their merger.",
+        "options": {
+          "A": "respectful",
+          "B": "respectable",
+          "C": "respective",
+          "D": "respecting"
+        },
+        "answer": "C",
+        "explanation": "ここでは「それぞれの」という意味で、'the two companies' と 'leading players' の関係を説明する形容詞が必要です。したがって、(C) 'respective' が正解です。'respectable' は「立派な」、'respectful' は「敬意を払う」という意味です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_014",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company has to ___ some of its less profitable operations.",
+        "options": {
+          "A": "divest",
+          "B": "deviate",
+          "C": "diminish",
+          "D": "disperse"
+        },
+        "answer": "A",
+        "explanation": "文脈から「会社は収益性の低い事業のいくつかを売却しなければならない」という意味になります。「（資産・事業などを）売却する、処分する」という意味の動詞 (A) 'divest' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_015",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The seminar was ___ to ten participants to ensure a high level of interaction.",
+        "options": {
+          "A": "proscribed",
+          "B": "subscribed",
+          "C": "prescribed",
+          "D": "restricted"
+        },
+        "answer": "D",
+        "explanation": "文脈から「セミナーは、高いレベルの双方向性を確保するために、参加者を10名に制限されていた」という意味になります。「制限する」という意味の動詞の過去分詞形 (D) 'restricted' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_016",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "A final decision on the matter is still ___, pending further review.",
+        "options": {
+          "A": "indefinite",
+          "B": "tentative",
+          "C": "absolute",
+          "D": "imperative"
+        },
+        "answer": "B",
+        "explanation": "文脈は「その件に関する最終決定は、さらなる検討待ちであり、まだ＿である」となります。「仮の、暫定的な」という意味の (B) 'tentative' が最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_017",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ that all conditions are met, the loan will be approved within five business days.",
+        "options": {
+          "A": "Providing",
+          "B": "Therefore",
+          "C": "Whereas",
+          "D": "Nevertheless"
+        },
+        "answer": "A",
+        "explanation": "「もしすべての条件が満たされれば」という条件を表す接続詞が必要です。'Provided that' または 'Providing that' (thatは省略可) は 'if' と同様の意味で使われるため、(A) 'Providing' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_018",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new CEO is known for her ___ approach to management.",
+        "options": {
+          "A": "pragmatic",
+          "B": "problematic",
+          "C": "sporadic",
+          "D": "static"
+        },
+        "answer": "A",
+        "explanation": "文脈から「新しいCEOは、経営に対する＿なアプローチで知られている」となります。「実用的な、現実的な」という意味の (A) 'pragmatic' が最も文脈に合います。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_019",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The old system will be ___ phased out over the next six months.",
+        "options": {
+          "A": "consequently",
+          "B": "subsequently",
+          "C": "gradually",
+          "D": "frequently"
+        },
+        "answer": "C",
+        "explanation": "動詞句 'phased out' (段階的に廃止される) と最も相性が良い副詞を選びます。「徐々に、段階的に」という意味の (C) 'gradually' が正解です。'gradually phased out' は定型的な組み合わせです。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_020",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The manager praised the team for their ___ efforts in completing the project.",
+        "options": {
+          "A": "diligent",
+          "B": "dominant",
+          "C": "reluctant",
+          "D": "vague"
+        },
+        "answer": "A",
+        "explanation": "「プロジェクトを完了させるためのチームの＿な努力を賞賛した」という文脈です。「勤勉な、熱心な」という意味の (A) 'diligent' が最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_021",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company will ___ employees for any reasonable expenses incurred during business trips.",
+        "options": {
+          "A": "reimburse",
+          "B": "relinquish",
+          "C": "refurbish",
+          "D": "repeal"
+        },
+        "answer": "A",
+        "explanation": "文脈から「会社は、出張中に発生した妥当な経費を従業員に払い戻します」という意味になります。「（経費などを）払い戻す、返済する」という意味の動詞 (A) 'reimburse' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_022",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "We need to address this issue ___ to prevent further complications.",
+        "options": {
+          "A": "expediently",
+          "B": "promptly",
+          "C": "punctually",
+          "D": "imminently"
+        },
+        "answer": "B",
+        "explanation": "文脈は「さらなる問題を避けるために、この問題に＿対処する必要がある」となります。「迅速に、速やかに」という意味の (B) 'promptly' が最も適切です。'punctually' は「時間通りに」という意味で、文脈に合いません。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_023",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The consultant provided several ___ recommendations for improving efficiency.",
+        "options": {
+          "A": "tangible",
+          "B": "tedious",
+          "C": "transient",
+          "D": "trivial"
+        },
+        "answer": "A",
+        "explanation": "「効率を改善するためのいくつかの＿な提言を行った」という文脈です。「具体的な、明白な」という意味の (A) 'tangible' が最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_024",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new model has several enhancements, ___ a longer battery life.",
+        "options": {
+          "A": "notably",
+          "B": "predictably",
+          "C": "alternatively",
+          "D": "initially"
+        },
+        "answer": "A",
+        "explanation": "「新しいモデルにはいくつかの機能強化があり、＿バッテリー寿命が長くなった」という文脈です。具体例を強調して挙げる際に使われる「特に、著しく」という意味の副詞 (A) 'notably' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_025",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The terms of the contract are clearly ___ in the document.",
+        "options": {
+          "A": "stipulated",
+          "B": "speculated",
+          "C": "stimulated",
+          "D": "situated"
+        },
+        "answer": "A",
+        "explanation": "文脈は「契約の条件は、文書に明確に＿されている」となります。「明記する、規定する」という意味の動詞 (A) 'stipulate' の過去分詞形が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_026",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Ms. Chen's expertise was ___ in resolving the complex technical issue.",
+        "options": {
+          "A": "instrumental",
+          "B": "conditional",
+          "C": "optional",
+          "D": "partial"
+        },
+        "answer": "A",
+        "explanation": "文脈は「チェンさんの専門知識は、複雑な技術的問題を解決する上で＿だった」となります。'be instrumental in -ing' で「～する上で役立つ、重要な役割を果たす」という意味になるため、(A) 'instrumental' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_027",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company reserves the right to ___ the terms and conditions at any time.",
+        "options": {
+          "A": "amend",
+          "B": "commend",
+          "C": "ascend",
+          "D": "contend"
+        },
+        "answer": "A",
+        "explanation": "「会社はいつでも利用規約を＿する権利を留保します」という文脈です。「修正する、改訂する」という意味の動詞 (A) 'amend' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_028",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The survey results indicate a ___ shift in consumer preferences.",
+        "options": {
+          "A": "definitive",
+          "B": "perceptible",
+          "C": "compatible",
+          "D": "redundant"
+        },
+        "answer": "B",
+        "explanation": "「調査結果は、消費者の嗜好における＿な変化を示している」という文脈です。「感知できるほどの、明白な」という意味の (B) 'perceptible' が最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_029",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The two divisions will be working in ___ for the upcoming product launch.",
+        "options": {
+          "A": "solitude",
+          "B": "tandem",
+          "C": "jeopardy",
+          "D": "sequence"
+        },
+        "answer": "B",
+        "explanation": "文脈は「2つの部門は、きたる新製品発売に向けて＿で作業を進める」となります。'in tandem' は「協力して、連携して」という意味の定型表現なので、(B) 'tandem' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_030",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new automated system is designed to ___ the need for manual data entry.",
+        "options": {
+          "A": "reiterate",
+          "B": "alleviate",
+          "C": "obviate",
+          "D": "deviate"
+        },
+        "answer": "C",
+        "explanation": "「新しい自動化システムは、手作業でのデータ入力の必要性を＿ように設計されている」という文脈です。「（必要性などを）取り除く、不要にする」という意味の動詞 (C) 'obviate' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_031",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ for the position must have a degree in finance and at least five years of relevant experience.",
+        "options": {
+          "A": "Applicants",
+          "B": "Applications",
+          "C": "Appliances",
+          "D": "Applicability"
+        },
+        "answer": "A",
+        "explanation": "文の主語で、「その職への＿は...」と人を指す名詞が必要です。したがって、「応募者」を意味する (A) 'Applicants' が正解です。'Applications' は「応募書類」です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_032",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The manager seems ___ about the feasibility of the proposed timeline.",
+        "options": {
+          "A": "apprehensive",
+          "B": "comprehensive",
+          "C": "representative",
+          "D": "expansive"
+        },
+        "answer": "A",
+        "explanation": "「マネージャーは、提案されたタイムラインの実現可能性について＿のようだ」という文脈です。「懸念している、不安に思っている」という意味の (A) 'apprehensive' が最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_033",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The recent economic downturn has had an ___ effect on sales.",
+        "options": {
+          "A": "adverse",
+          "B": "averse",
+          "C": "advisable",
+          "D": "affable"
+        },
+        "answer": "A",
+        "explanation": "「最近の景気後退は、売上に＿な影響を与えた」という文脈です。「不都合な、逆の」という意味の形容詞 (A) 'adverse' が正解です。'averse' は「～を嫌って」という意味で、通常 'be averse to' の形で使われます。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_034",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new software aims to ___ the workflow for the entire design team.",
+        "options": {
+          "A": "streamline",
+          "B": "outline",
+          "C": "underline",
+          "D": "decline"
+        },
+        "answer": "A",
+        "explanation": "「新しいソフトウェアは、デザインチーム全体のワークフローを＿することを目的としている」という文脈です。「合理化する、簡略化する」という意味の動詞 (A) 'streamline' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_035",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The agreement is binding, and all parties are expected to ensure ___.",
+        "options": {
+          "A": "adherent",
+          "B": "adherence",
+          "C": "adhering",
+          "D": "adhere"
+        },
+        "answer": "B",
+        "explanation": "動詞 'ensure' の目的語となる名詞が必要です。したがって、「遵守」という意味の名詞 (B) 'adherence' が正解です。'adherent' は「支持者」という名詞です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_036",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "We are seeking an ___ person to mediate the dispute between the two departments.",
+        "options": {
+          "A": "impartial",
+          "B": "incomplete",
+          "C": "impractical",
+          "D": "imperative"
+        },
+        "answer": "A",
+        "explanation": "「2つの部署間の紛争を調停するために、＿な人物を探している」という文脈です。「公平な、偏らない」という意味の形容詞 (A) 'impartial' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_037",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The late fee will be ___ for customers who were affected by the system outage.",
+        "options": {
+          "A": "waived",
+          "B": "removed",
+          "C": "deducted",
+          "D": "exempted"
+        },
+        "answer": "A",
+        "explanation": "「システム障害の影響を受けた顧客に対しては、延滞料金は＿される」という文脈です。「（権利・料金などを）放棄する、免除する」という意味の動詞 (A) 'waive' が最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_038",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Despite initial setbacks, the project was ___ a resounding success.",
+        "options": {
+          "A": "ultimately",
+          "B": "alternately",
+          "C": "approximately",
+          "D": "arbitrarily"
+        },
+        "answer": "A",
+        "explanation": "「最初のつまずきにもかかわらず、プロジェクトは＿大成功だった」という文脈です。「最終的に、結局は」という意味の副詞 (A) 'ultimately' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_039",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The research team was commended for its ___ approach to data collection.",
+        "options": {
+          "A": "meticulous",
+          "B": "spontaneous",
+          "C": "superfluous",
+          "D": "ambiguous"
+        },
+        "answer": "A",
+        "explanation": "「調査チームは、データ収集への＿なアプローチを称賛された」という文脈です。「細心の注意を払った、綿密な」という意味の形容詞 (A) 'meticulous' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_040",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The merger is expected to yield significant long-term ___ for both companies.",
+        "options": {
+          "A": "synergy",
+          "B": "lethargy",
+          "C": "apathy",
+          "D": "entropy"
+        },
+        "answer": "A",
+        "explanation": "「その合併は、両社にとって長期的に大きな＿を生むと期待されている」という文脈です。「相乗効果、シナジー」という意味の名詞 (A) 'synergy' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_041",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The board of directors voted ___ to approve the new budget.",
+        "options": {
+          "A": "unanimously",
+          "B": "anonymously",
+          "C": "simultaneously",
+          "D": "spontaneously"
+        },
+        "answer": "A",
+        "explanation": "「取締役会は、新しい予算を承認するために＿投票した」という文脈です。「満場一致で」という意味の副詞 (A) 'unanimously' が正解です。'anonymously' は「匿名で」です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_042",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new network is far more robust and less ___ to system failures.",
+        "options": {
+          "A": "susceptible",
+          "B": "permissible",
+          "C": "discernible",
+          "D": "feasible"
+        },
+        "answer": "A",
+        "explanation": "「新しいネットワークははるかに堅牢で、システム障害を＿にくい」という文脈です。「影響を受けやすい、感染しやすい」という意味で 'to' と共に使われる (A) 'susceptible' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_043",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "This document contains proprietary information and is intended for the ___ use of the recipient.",
+        "options": {
+          "A": "exclusive",
+          "B": "inclusive",
+          "C": "elusive",
+          "D": "conclusive"
+        },
+        "answer": "A",
+        "explanation": "「この文書は専有情報を含んでおり、受信者の＿な使用を意図している」という文脈です。「排他的な、唯一の」という意味の形容詞 (A) 'exclusive' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_044",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "In ___ with the new data privacy law, we have updated our company's policy.",
+        "options": {
+          "A": "accordance",
+          "B": "allowance",
+          "C": "advance",
+          "D": "assurance"
+        },
+        "answer": "A",
+        "explanation": "文脈は「新しいデータプライバシー法に＿、当社の方針を更新しました」となります。'in accordance with' で「～に従って、～と一致して」という意味の定型表現なので、(A) 'accordance' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_045",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company had to ___ its operations temporarily due to the power outage.",
+        "options": {
+          "A": "cease",
+          "B": "seize",
+          "C": "lease",
+          "D": "ease"
+        },
+        "answer": "A",
+        "explanation": "「停電のため、会社は一時的に操業を＿なければならなかった」という文脈です。「中止する、やめる」という意味の動詞 (A) 'cease' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_046",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The sales team's performance has been exemplary, ___ the challenging market conditions.",
+        "options": {
+          "A": "considering",
+          "B": "regarding",
+          "C": "excepting",
+          "D": "providing"
+        },
+        "answer": "A",
+        "explanation": "「困難な市況を＿、営業チームの業績は模範的であった」という文脈です。「～を考慮すると」という意味で使われる前置詞 (A) 'considering' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_047",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The finance committee will ___ a meeting next week to discuss the budget.",
+        "options": {
+          "A": "convene",
+          "B": "intervene",
+          "C": "contravene",
+          "D": "circumvent"
+        },
+        "answer": "A",
+        "explanation": "「財務委員会は、予算を議論するために来週会議を＿」という文脈です。「（会議などを）招集する」という意味の動詞 (A) 'convene' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_048",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The ___ of a new competitor in the market has intensified the competition.",
+        "options": {
+          "A": "emergence",
+          "B": "immersion",
+          "C": "allegiance",
+          "D": "divergence"
+        },
+        "answer": "A",
+        "explanation": "「市場における新しい競合の＿が、競争を激化させた」という文脈です。「出現、台頭」という意味の名詞 (A) 'emergence' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_049",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ had the new product been launched than a major flaw was discovered.",
+        "options": {
+          "A": "As soon as",
+          "B": "Hardly",
+          "C": "No sooner",
+          "D": "Not only"
+        },
+        "answer": "C",
+        "explanation": "後ろに 'than' があることから、'No sooner had + S + p.p. than S + V(過去形)' (～するやいなや～した) という倒置構文だと判断できます。したがって、(C) 'No sooner' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_050",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The two speakers presented ___ views on the future of the industry.",
+        "options": {
+          "A": "converging",
+          "B": "diverging",
+          "C": "inverting",
+          "D": "reverting"
+        },
+        "answer": "B",
+        "explanation": "「2人の講演者は、業界の将来について＿見解を示した」という文脈です。「分岐する、異なる」という意味の形容詞 (B) 'diverging' が最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_051",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The project's success is ___ on securing adequate funding.",
+        "options": {
+          "A": "predicated",
+          "B": "predicted",
+          "C": "preceded",
+          "D": "proceeded"
+        },
+        "answer": "A",
+        "explanation": "be動詞 'is' の後に続き、前置詞 'on' を伴う過去分詞形が必要です。'be predicated on' で「～を基礎とする、～に基づく」という意味になるため、(A) 'predicated' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_052",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The speaker's argument was so ___ that everyone was convinced.",
+        "options": {
+          "A": "lucid",
+          "B": "rigid",
+          "C": "placid",
+          "D": "tepid"
+        },
+        "answer": "A",
+        "explanation": "「講演者の主張は非常に＿だったので、誰もが納得した」という文脈です。「明快な、分かりやすい」という意味の形容詞 (A) 'lucid' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_053",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company is obliged to ___ with all environmental regulations.",
+        "options": {
+          "A": "conform",
+          "B": "confirm",
+          "C": "confine",
+          "D": "confront"
+        },
+        "answer": "A",
+        "explanation": "「会社はすべての環境規制に＿義務がある」という文脈です。「（規則などに）従う、一致する」という意味で、前置詞 'with' (または 'to') を伴う (A) 'conform' が正解です。'comply with' とほぼ同義です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_054",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The research aims to provide a ___ for future policy decisions.",
+        "options": {
+          "A": "rationale",
+          "B": "sanction",
+          "C": "pretext",
+          "D": "mandate"
+        },
+        "answer": "A",
+        "explanation": "「その研究は、将来の政策決定のための＿を提供することを目的としている」という文脈です。「論理的根拠、理論的説明」という意味の名詞 (A) 'rationale' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_055",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The marketing team has been ___ praised for its innovative campaign.",
+        "options": {
+          "A": "profusely",
+          "B": "profoundly",
+          "C": "progressively",
+          "D": "prominently"
+        },
+        "answer": "A",
+        "explanation": "「マーケティングチームは、その革新的なキャンペーンを＿賞賛された」という文脈です。「惜しみなく、大いに」という意味で賞賛などを修飾する副詞 (A) 'profusely' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_056",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The construction project has been ___ by a lack of funding.",
+        "options": {
+          "A": "hampered",
+          "B": "hastened",
+          "C": "harnessed",
+          "D": "harbored"
+        },
+        "answer": "A",
+        "explanation": "「建設プロジェクトは、資金不足によって＿きた」という文脈です。「妨げられる、阻止される」という意味の動詞 (A) 'hamper' の過去分詞形が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_057",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The results of the two studies are not directly ___ because they used different methodologies.",
+        "options": {
+          "A": "compatible",
+          "B": "comparable",
+          "C": "computable",
+          "D": " commendable"
+        },
+        "answer": "B",
+        "explanation": "「2つの研究の結果は、異なる方法論を用いたため、直接＿ではない」という文脈です。「比較できる、匹敵する」という意味の形容詞 (B) 'comparable' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_058",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "In light of the recent complaints, we will be ___ our customer service procedures.",
+        "options": {
+          "A": "overhauling",
+          "B": "overlooking",
+          "C": "overtaking",
+          "D": "overthrowing"
+        },
+        "answer": "A",
+        "explanation": "「最近の苦情に鑑み、我々は顧客サービスの手順を＿つもりです」という文脈です。「徹底的に見直す、分解修理する」という意味の動詞 (A) 'overhaul' の進行形が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_059",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new manager has a ___ for fostering teamwork and open communication.",
+        "options": {
+          "A": "preface",
+          "B": "propensity",
+          "C": "prospect",
+          "D": "precedent"
+        },
+        "answer": "B",
+        "explanation": "「新しいマネージャーは、チームワークとオープンなコミュニケーションを育む＿がある」という文脈です。「（特に好ましくない）傾向、性質」という意味の名詞 (B) 'propensity' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_060",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The information provided was ___ and did not offer any specific details.",
+        "options": {
+          "A": "generic",
+          "B": "genuine",
+          "C": "generous",
+          "D": "genetic"
+        },
+        "answer": "A",
+        "explanation": "「提供された情報は＿で、具体的な詳細は何もなかった」という文脈です。「一般的な、包括的な」という意味の形容詞 (A) 'generic' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_061",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The editor's job is to ___ the manuscript for any errors before publication.",
+        "options": {
+          "A": "scrutinize",
+          "B": "visualize",
+          "C": "synthesize",
+          "D": "ostracize"
+        },
+        "answer": "A",
+        "explanation": "「編集者の仕事は、出版前に原稿に誤りがないか＿ことだ」という文脈です。「綿密に調べる、吟味する」という意味の動詞 (A) 'scrutinize' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_062",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The witness's testimony was found to be ___ with the available evidence.",
+        "options": {
+          "A": "inconsistent",
+          "B": "indifferent",
+          "C": "indecisive",
+          "D": "inherent"
+        },
+        "answer": "A",
+        "explanation": "「目撃者の証言は、入手可能な証拠と＿であることが判明した」という文脈です。'with' と共に用いられ、「矛盾している、一致しない」という意味の (A) 'inconsistent' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_063",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company decided to ___ its sponsorship of the annual music festival.",
+        "options": {
+          "A": "discontinue",
+          "B": "disapprove",
+          "C": "disclose",
+          "D": "dismantle"
+        },
+        "answer": "A",
+        "explanation": "「会社は、毎年恒例の音楽祭への協賛を＿ことを決定した」という文脈です。「中止する、やめる」という意味の動詞 (A) 'discontinue' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_064",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "A ___ of the original contract is kept in the company's legal department.",
+        "options": {
+          "A": "facsimile",
+          "B": "reminiscence",
+          "C": "conjecture",
+          "D": "premonition"
+        },
+        "answer": "A",
+        "explanation": "「元の契約書の＿は、会社の法務部に保管されている」という文脈です。「複製、コピー」という意味の名詞 (A) 'facsimile' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_065",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The two managers hold ___ opposing views on how to proceed with the project.",
+        "options": {
+          "A": "diametrically",
+          "B": "symmetrically",
+          "C": "chronologically",
+          "D": "geometrically"
+        },
+        "answer": "A",
+        "explanation": "「2人のマネージャーは、プロジェクトの進め方について＿反対の見解を持っている」という文脈です。「正反対に、まったく」という意味で 'opposing' を強調する副詞 (A) 'diametrically' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_066",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company's failure to adapt to new technologies was a major factor in its ___.",
+        "options": {
+          "A": "demise",
+          "B": "premise",
+          "C": "surmise",
+          "D": "compromise"
+        },
+        "answer": "A",
+        "explanation": "「新しい技術に適応できなかったことが、その会社の＿の大きな要因だった」という文脈です。「終焉、消滅」という意味の名詞 (A) 'demise' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_067",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The CEO's speech was intended to ___ the employees' concerns about the merger.",
+        "options": {
+          "A": "allay",
+          "B": "array",
+          "C": "assay",
+          "D": "astray"
+        },
+        "answer": "A",
+        "explanation": "「CEOの演説は、合併に関する従業員の懸念を＿ことを意図していた」という文脈です。「（恐怖・懸念などを）和らげる、静める」という意味の動詞 (A) 'allay' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_068",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The contract includes a ___ that requires all disputes to be settled through arbitration.",
+        "options": {
+          "A": "clause",
+          "B": "phrase",
+          "C": "pause",
+          "D": "cause"
+        },
+        "answer": "A",
+        "explanation": "「契約には、すべての紛争を仲裁によって解決することを要求する＿が含まれている」という文脈です。「（契約書などの）条項」という意味の名詞 (A) 'clause' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_069",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new safety procedures were implemented ___ a thorough risk assessment.",
+        "options": {
+          "A": "following",
+          "B": "concerning",
+          "C": "barring",
+          "D": "pending"
+        },
+        "answer": "A",
+        "explanation": "「新しい安全手順は、徹底的なリスク評価の＿に実施された」という文脈です。「～の後に」という意味で 'after' と同様に使える前置詞 (A) 'following' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_070",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company offers a generous ___ package for employees who are laid off.",
+        "options": {
+          "A": "severance",
+          "B": "perseverance",
+          "C": "deliverance",
+          "D": "grievance"
+        },
+        "answer": "A",
+        "explanation": "「会社は、解雇された従業員に手厚い＿パッケージを提供している」という文脈です。「退職金、解雇手当」という意味の (A) 'severance' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_071",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The speaker's comments were ___ to the main topic of the discussion.",
+        "options": {
+          "A": "peripheral",
+          "B": "integral",
+          "C": "equivalent",
+          "D": "punctual"
+        },
+        "answer": "A",
+        "explanation": "「講演者のコメントは、議論の主要な議題に対して＿だった」という文脈です。「周辺的な、あまり重要でない」という意味の形容詞 (A) 'peripheral' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_072",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The financial advisor recommended diversifying the investment ___ to mitigate risk.",
+        "options": {
+          "A": "portfolio",
+          "B": "protocol",
+          "C": "prospectus",
+          "D": "paradigm"
+        },
+        "answer": "A",
+        "explanation": "「フィナンシャルアドバイザーは、リスクを軽減するために投資＿を多様化することを勧めた」という文脈です。「（投資などの）一覧、ポートフォリオ」という意味の名詞 (A) 'portfolio' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_073",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The defendant's lawyer attempted to ___ the credibility of the witness.",
+        "options": {
+          "A": "undermine",
+          "B": "underline",
+          "C": "undertake",
+          "D": "undergo"
+        },
+        "answer": "A",
+        "explanation": "「被告の弁護士は、証人の信頼性を＿しようと試みた」という文脈です。「徐々に傷つける、弱体化させる」という意味の動詞 (A) 'undermine' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_074",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The city has allocated funds to ___ its aging infrastructure.",
+        "options": {
+          "A": "bolster",
+          "B": "barter",
+          "C": "banter",
+          "D": "batter"
+        },
+        "answer": "A",
+        "explanation": "「市は、老朽化したインフラを＿ために資金を割り当てた」という文脈です。「強化する、てこ入れする」という意味の動詞 (A) 'bolster' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_075",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The two companies have a ___ beneficial relationship.",
+        "options": {
+          "A": "reciprocally",
+          "B": "mutually",
+          "C": "respectively",
+          "D": "consecutively"
+        },
+        "answer": "B",
+        "explanation": "形容詞 'beneficial' を修飾する副詞が必要です。「相互に」という意味の (B) 'mutually' が入り、'mutually beneficial' で「相互に利益のある」という定型的な表現になります。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_076",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The government imposed a tariff to protect ___ industries from foreign competition.",
+        "options": {
+          "A": "nascent",
+          "B": "obsolete",
+          "C": "stringent",
+          "D": "affluent"
+        },
+        "answer": "A",
+        "explanation": "「政府は、外国との競争から＿産業を保護するために関税を課した」という文脈です。「発生期の、初期の」という意味の形容詞 (A) 'nascent' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_077",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company's new ___ is to focus more on sustainable and eco-friendly products.",
+        "options": {
+          "A": "mandate",
+          "B": "remnant",
+          "C": "conduit",
+          "D": "deficit"
+        },
+        "answer": "A",
+        "explanation": "「会社の新しい＿は、持続可能で環境に優しい製品により焦点を当てることだ」という文脈です。「（公式な）指示、命令、権限」という意味の名詞 (A) 'mandate' が最も適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_078",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The negotiations reached an ___ and had to be postponed.",
+        "options": {
+          "A": "impasse",
+          "B": "inference",
+          "C": "impetus",
+          "D": "infusion"
+        },
+        "answer": "A",
+        "explanation": "「交渉は＿に達し、延期されなければならなかった」という文脈です。「行き詰まり、手詰まり状態」という意味の名詞 (A) 'impasse' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_079",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The report was criticized for being ___ and lacking in-depth analysis.",
+        "options": {
+          "A": "superficial",
+          "B": "substantial",
+          "C": "subsequent",
+          "D": "subordinate"
+        },
+        "answer": "A",
+        "explanation": "「その報告書は、＿で詳細な分析に欠けていると批判された」という文脈です。「表面的な、浅薄な」という意味の形容詞 (A) 'superficial' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_080",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company's swift action helped to ___ a potential crisis.",
+        "options": {
+          "A": "avert",
+          "B": "assert",
+          "C": "allude",
+          "D": "adorn"
+        },
+        "answer": "A",
+        "explanation": "「会社の迅速な行動は、潜在的な危機を＿のに役立った」という文脈です。「（危険などを）避ける、防ぐ」という意味の動詞 (A) 'avert' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_081",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The marketing director is looking for a new way to ___ the brand's image.",
+        "options": {
+          "A": "rejuvenate",
+          "B": "repudiate",
+          "C": "reciprocate",
+          "D": "remonstrate"
+        },
+        "answer": "A",
+        "explanation": "「マーケティング部長は、ブランドイメージを＿ための新しい方法を探している」という文脈です。「活性化させる、若返らせる」という意味の動詞 (A) 'rejuvenate' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_082",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new manager's leadership style is a welcome ___ to the team's dynamic.",
+        "options": {
+          "A": "impetus",
+          "B": "preface",
+          "C": "detriment",
+          "D": "surplus"
+        },
+        "answer": "A",
+        "explanation": "「新しいマネージャーのリーダーシップスタイルは、チームのダイナミクスにとって歓迎すべき＿である」という文脈です。「刺激、弾み」という意味の名詞 (A) 'impetus' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_083",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The sudden drop in stock prices was a ___ of the coming economic recession.",
+        "options": {
+          "A": "harbinger",
+          "B": "connoisseur",
+          "C": "proponent",
+          "D": "beneficiary"
+        },
+        "answer": "A",
+        "explanation": "「株価の急落は、来たるべき景気後退の＿であった」という文脈です。「前兆、先駆け」という意味の名詞 (A) 'harbinger' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_084",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The CEO's statement was intentionally ___ to avoid making any firm commitments.",
+        "options": {
+          "A": "ambiguous",
+          "B": "ambitious",
+          "C": "amicable",
+          "D": "amenable"
+        },
+        "answer": "A",
+        "explanation": "「CEOの声明は、いかなる確固たる約束も避けるために、意図的に＿にされていた」という文脈です。「曖昧な、多義的な」という意味の形容詞 (A) 'ambiguous' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_085",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The legal team is working to ___ the complex details of the new legislation.",
+        "options": {
+          "A": "elucidate",
+          "B": "eradicate",
+          "C": "escalate",
+          "D": "emulate"
+        },
+        "answer": "A",
+        "explanation": "「法務チームは、新しい法律の複雑な詳細を＿ために取り組んでいる」という文脈です。「解明する、明確にする」という意味の動詞 (A) 'elucidate' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_086",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company's commitment to quality is ___ in every product it creates.",
+        "options": {
+          "A": "eminent",
+          "B": "imminent",
+          "C": "pertinent",
+          "D": "manifest"
+        },
+        "answer": "D",
+        "explanation": "「その会社の品質へのこだわりは、作り出すすべての製品に＿である」という文脈です。「明白な、明らかな」という意味の形容詞 (D) 'manifest' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_087",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The committee was formed with the ___ purpose of improving workplace safety.",
+        "options": {
+          "A": "explicit",
+          "B": "implicit",
+          "C": "exquisite",
+          "D": "expedient"
+        },
+        "answer": "A",
+        "explanation": "「その委員会は、職場の安全を改善するという＿な目的で結成された」という文脈です。「明確な、はっきりとした」という意味の形容詞 (A) 'explicit' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_088",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The expert was able to ___ on the complex issue, making it easier for everyone to understand.",
+        "options": {
+          "A": "expound",
+          "B": "compound",
+          "C": "propound",
+          "D": "surround"
+        },
+        "answer": "A",
+        "explanation": "「その専門家は、複雑な問題について＿ことができ、誰もが理解しやすくなった」という文脈です。'expound on' で「～について詳述する」という意味になるため、(A) 'expound' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_089",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company decided to ___ its decision to close the factory after receiving public backlash.",
+        "options": {
+          "A": "rescind",
+          "B": "resend",
+          "C": "reside",
+          "D": "resign"
+        },
+        "answer": "A",
+        "explanation": "「会社は、世間の強い反発を受けて、工場を閉鎖するという決定を＿ことを決めた」という文脈です。「（決定・法律などを）撤回する、無効にする」という意味の動詞 (A) 'rescind' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_090",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new software is ___ with a user-friendly interface.",
+        "options": {
+          "A": "endowed",
+          "B": "entrusted",
+          "C": "enacted",
+          "D": "engraved"
+        },
+        "answer": "A",
+        "explanation": "「新しいソフトウェアには、使いやすいインターフェースが＿」という文脈です。'be endowed with' で「（才能・特質などを）授けられている、備わっている」という意味になるため、(A) 'endowed' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_091",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The keynote speaker's address was the ___ of the entire conference.",
+        "options": {
+          "A": "highlight",
+          "B": "hygiene",
+          "C": "hierarchy",
+          "D": "hypothesis"
+        },
+        "answer": "A",
+        "explanation": "「基調講演者の演説は、会議全体の＿であった」という文脈です。「最も重要な部分、ハイライト」という意味の名詞 (A) 'highlight' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_092",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The marketing campaign had a ___ effect on sales, boosting them by over 30 percent.",
+        "options": {
+          "A": "profound",
+          "B": "prolific",
+          "C": "proficient",
+          "D": "prominent"
+        },
+        "answer": "A",
+        "explanation": "「マーケティングキャンペーンは売上に＿な効果をもたらし、30%以上も押し上げた」という文脈です。「計り知れない、大きな」という意味の形容詞 (A) 'profound' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_093",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "All new hires must attend an ___ session on their first day.",
+        "options": {
+          "A": "orientation",
+          "B": "ordination",
+          "C": "ornamentation",
+          "D": "origination"
+        },
+        "answer": "A",
+        "explanation": "「すべての新入社員は、初日に＿セッションに出席しなければならない」という文脈です。「（新人などへの）説明会、オリエンテーション」という意味の名詞 (A) 'orientation' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_094",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The data from the study seems to be an ___; it does not align with previous findings.",
+        "options": {
+          "A": "analogy",
+          "B": "anomaly",
+          "C": "anatomy",
+          "D": "antagony"
+        },
+        "answer": "B",
+        "explanation": "「その研究からのデータは＿のようだ。それは以前の調査結果と一致しない」という文脈です。「例外、変則」という意味の名詞 (B) 'anomaly' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_095",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company's quarterly earnings ___ the analysts' expectations.",
+        "options": {
+          "A": "surpassed",
+          "B": "suppressed",
+          "C": "surveyed",
+          "D": "survived"
+        },
+        "answer": "A",
+        "explanation": "「会社の四半期収益は、アナリストの予想を＿」という文脈です。「上回る、超える」という意味の動詞 (A) 'surpass' の過去形が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_096",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The manager has the ___ to approve expenditures up to $5,000.",
+        "options": {
+          "A": "discretion",
+          "B": "discussion",
+          "C": "distraction",
+          "D": "distribution"
+        },
+        "answer": "A",
+        "explanation": "「そのマネージャーは、5000ドルまでの支出を承認する＿を持っている」という文脈です。「裁量、自由裁量権」という意味の名詞 (A) 'discretion' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_097",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new government regulations are rather ___ and difficult to interpret.",
+        "options": {
+          "A": "convoluted",
+          "B": "congenial",
+          "C": "congruent",
+          "D": "consecutive"
+        },
+        "answer": "A",
+        "explanation": "「新しい政府の規制はかなり＿で、解釈が難しい」という文脈です。「複雑な、入り組んだ」という意味の形容詞 (A) 'convoluted' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_098",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The two proposals are not mutually ___; we can implement elements of both.",
+        "options": {
+          "A": "exclusive",
+          "B": "inclusive",
+          "C": "reclusive",
+          "D": "conclusive"
+        },
+        "answer": "A",
+        "explanation": "「2つの提案は相互に＿ではない。我々は両方の要素を実施できる」という文脈です。'mutually exclusive' で「相互に排他的な」という定型表現になります。ここでは否定されているため、(A) 'exclusive' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_099",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The research aims to establish a ___ link between the new drug and patient recovery.",
+        "options": {
+          "A": "casual",
+          "B": "causal",
+          "C": "cordial",
+          "D": "coastal"
+        },
+        "answer": "B",
+        "explanation": "「その研究は、新薬と患者の回復との間に＿な関連性を確立することを目的としている」という文脈です。「原因となる、因果関係の」という意味の形容詞 (B) 'causal' が正解です。'casual' は「偶然の、形式ばらない」という意味で、混同しやすい単語です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_800_100",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "After weeks of negotiation, the two parties were finally able to ___ an agreement.",
+        "options": {
+          "A": "forge",
+          "B": "forgo",
+          "C": "forbid",
+          "D": "force"
+        },
+        "answer": "A",
+        "explanation": "「何週間もの交渉の末、両者はついに合意を＿ことができた」という文脈です。「（合意・関係などを）築く」という意味の動詞 (A) 'forge' が正解です。"
+      }
+    ]
+  }
+]

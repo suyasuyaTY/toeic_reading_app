@@ -1,7 +1,7 @@
 [
   {
     "id": "p6_600_001",
-    "content": "To: All Staff\nFrom: Management\nSubject: Office Renovation Notice\n\nThis is to inform you that our main office will undergo renovations to create a more modern and productive workspace. The renovation work will ------- [1] on Monday, July 7th and is expected to last for approximately two weeks.\n\nDuring this period, some areas may be temporarily inaccessible. We apologize for any ------- [2] this may cause. All employees are asked to use the south entrance until the work is complete.\n\nPlease keep your personal belongings secure. The project manager will provide updates ------- [3]. We believe that the new office environment will benefit everyone. ------- [4] We appreciate your cooperation.\n",
+    "content": "To: All Staff<br>From: Management<br>Subject: Office Renovation Notice<br><br>This is to inform you that our main office will undergo renovations to create a more modern and productive workspace. The renovation work will ------- [1] on Monday, July 7th and is expected to last for approximately two weeks.<br><br>During this period, some areas may be temporarily inaccessible. We apologize for any ------- [2] this may cause. All employees are asked to use the south entrance until the work is complete.<br><br>Please keep your personal belongings secure. The project manager will provide updates ------- [3]. We believe that the new office environment will benefit everyone. ------- [4] We appreciate your cooperation.<br>",
     "questions": [
       {
         "id": "q1",
@@ -50,6 +50,2651 @@
         },
         "answer": "B",
         "explanation": "空欄の直前の文が「新しいオフィス環境は皆のためになると信じています」と前向きな内容であるため、それに続く文として最も自然なのは、(B)「私たちはこの前向きな変化を楽しみにしています」です。他の選択肢は文脈から外れています。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_002",
+    "content": "To: All Employees<br>From: HR Department<br>Subject: Annual Performance Reviews<br><br>Our annual performance review period is scheduled to begin on October 1st. These reviews are a valuable opportunity to discuss your achievements, set new goals, and identify areas for professional ------- [1].<br><br>Managers will be contacting their team members to schedule individual meetings. Please ensure your self-assessment forms are completed and submitted by September 25th. This will allow your manager sufficient time to prepare for your discussion. ------- [2]<br><br>We encourage everyone to approach these reviews as a constructive dialogue aimed at supporting your career growth within the company. ------- [3] If you have any questions regarding the process, please do not hesitate to contact the HR department. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "development",
+          "B": "stagnation",
+          "C": "decline",
+          "D": "hindrance"
+        },
+        "answer": "A",
+        "explanation": "「成果を話し合い、新しい目標を設定し、専門的な<strong>発展</strong>のための分野を特定する」という文脈に合うのは (A) 'development' (発展) です。 (B) 'stagnation' (停滞), (C) 'decline' (衰退), (D) 'hindrance' (妨害) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "Your prompt submission is greatly appreciated.",
+          "B": "We will provide extensions if needed.",
+          "C": "The forms are available at the reception desk.",
+          "D": "Please ignore the previous email."
+        },
+        "answer": "A",
+        "explanation": "自己評価フォームの提出期限について述べた後の文として、「迅速な提出に感謝します」という (A) が最も自然です。 (B) や (C) は状況に合わず、(D) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "This is a mandatory process for all employees.",
+          "B": "Failure to attend will result in disciplinary action.",
+          "C": "We expect all feedback to be positive.",
+          "D": "The results will be kept confidential."
+        },
+        "answer": "A",
+        "explanation": "レビューを建設的な対話として捉えるよう促した後に、このプロセスが「全従業員にとって必須である」という (A) が、その重要性を強調し、文脈に合います。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We appreciate your hard work this year.",
+          "B": "We will announce the next review period soon.",
+          "C": "Please contact us with any concerns.",
+          "D": "The forms must be submitted in person."
+        },
+        "answer": "C",
+        "explanation": "「質問があれば人事部に連絡してください」という文の後に、一般的な締めくくりとして「何か懸念事項があればお問い合わせください」という (C) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_003",
+    "content": "To: Valued Customers<br>From: City Groceries<br>Subject: Temporary Store Closure Notice<br><br>Due to unexpected maintenance issues, City Groceries will be temporarily ------- [1] for business starting from Saturday, June 21st, until Sunday, June 29th.<br><br>We understand this may cause some ------- [2] to your shopping plans, and we sincerely apologize for any inconvenience. Our team is working diligently to resolve the issues and ensure the store is safe and fully operational as soon as possible.<br><br>During this closure, we encourage you to visit our other locations at 123 Main Street or 456 Oak Avenue. Our online delivery service will also remain ------- [3]. ------- [4] We appreciate your understanding and continued patronage.<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "open",
+          "B": "closed",
+          "C": "expanded",
+          "D": "relocated"
+        },
+        "answer": "B",
+        "explanation": "「予期せぬメンテナンスの問題により、シティグローサリーズは一時的に営業を<strong>休止</strong>します」という文脈なので、(B) 'closed' (閉店) が適切です。 (A) 'open' (開店), (C) 'expanded' (拡張), (D) 'relocated' (移転) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "joy",
+          "B": "pleasure",
+          "C": "disruption",
+          "D": "satisfaction"
+        },
+        "answer": "C",
+        "explanation": "店舗閉鎖が買い物計画に「<strong>支障</strong>」を来たす可能性がある、という意味が適切です。したがって、(C) 'disruption' (混乱、中断) が正解です。 (A) 'joy' (喜び), (B) 'pleasure' (楽しみ), (D) 'satisfaction' (満足) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "unavailable",
+          "B": "operational",
+          "C": "restricted",
+          "D": "suspended"
+        },
+        "answer": "B",
+        "explanation": "店舗が閉鎖される間、オンライン配達サービスは「<strong>利用可能</strong>」であると述べるのが自然です。 (B) 'operational' (稼働中) が適切です。 (A) 'unavailable' (利用不可), (C) 'restricted' (制限された), (D) 'suspended' (停止された) は不適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We hope to see you at our grand reopening.",
+          "B": "Please check our website for daily specials.",
+          "C": "We will offer discounts on all online orders.",
+          "D": "You can find a list of our products online."
+        },
+        "answer": "C",
+        "explanation": "オンラインサービスが継続されることに言及した後、それに関連する情報、例えば「オンライン注文で割引を提供します」という (C) が自然な流れです。他の選択肢は文脈にあまり合致しません。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_004",
+    "content": "To: Project Team Members<br>From: Sarah Chen, Project Lead<br>Subject: Project Orion - Weekly Update<br><br>Dear Team,<br><br>This is a quick update on Project Orion. We are pleased to report that we are currently on ------- [1] to meet our initial deadline of August 15th. The design phase has been successfully completed, and we are now moving into the development stage.<br><br>Your hard work and dedication have been instrumental in achieving this progress. We encourage everyone to continue their excellent efforts. Please ensure all code commits are thoroughly reviewed before ------- [2] to the main branch.<br><br>Next week, we will hold a meeting to discuss the testing procedures and allocate specific tasks. ------- [3] Your active participation is crucial for the successful completion of this project. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "schedule",
+          "B": "hold",
+          "C": "pause",
+          "D": "delay"
+        },
+        "answer": "A",
+        "explanation": "プロジェクトが期限に間に合っている状況を示すには、「<strong>予定通り</strong>」という意味の (A) 'schedule' (on schedule) が適切です。 (B) 'hold' (保留), (C) 'pause' (一時停止), (D) 'delay' (遅延) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "merge",
+          "B": "merging",
+          "C": "merged",
+          "D": "merges"
+        },
+        "answer": "B",
+        "explanation": "前置詞 'before' の後には動名詞が続きます。したがって、「メインブランチに<strong>マージする</strong>前に」という意味の (B) 'merging' が文法的に正しく、文脈にも合います。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Please come prepared to share your insights.",
+          "B": "The meeting has been postponed indefinitely.",
+          "C": "Attendance at the meeting is optional.",
+          "D": "We will only discuss past issues."
+        },
+        "answer": "A",
+        "explanation": "来週の会議でテスト手順やタスク割り当てについて話し合うことに触れた後、「洞察を共有できるよう準備してきてください」という (A) が、会議への積極的な参加を促す文として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We look forward to seeing the final product soon.",
+          "B": "Thank you for your continued commitment.",
+          "C": "Please remember to submit your time sheets.",
+          "D": "The budget for this project is still under review."
+        },
+        "answer": "B",
+        "explanation": "プロジェクトの成功にはチームの参加が不可欠だと述べた後、感謝の意を伝える (B) 'Thank you for your continued commitment.' (引き続きのご尽力に感謝します) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_005",
+    "content": "To: All Residents<br>From: Building Management<br>Subject: Important Notice: Fire Alarm Testing<br><br>This notice is to inform all residents of upcoming fire alarm testing. These tests are a ------- [1] part of our building's safety maintenance and are conducted to ensure that all systems are fully operational in case of an emergency.<br><br>The testing will take place on Wednesday, July 2nd, between 10:00 AM and 12:00 PM. During this time, fire alarms will sound intermittently throughout the building. We apologize for any ------- [2] inconvenience this may cause.<br><br>Residents are not required to evacuate during the testing. However, please be aware of the alarms and do not treat them as an actual emergency. ------- [3] For any urgent inquiries, please contact the building management office at 555-1234. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "routine",
+          "B": "optional",
+          "C": "unnecessary",
+          "D": "disruptive"
+        },
+        "answer": "A",
+        "explanation": "火災報知器のテストが建物の安全維持の「<strong>日常的</strong>な一部」であると述べるのが適切です。 (A) 'routine' (日常の、定期的な) が正解です。 (B) 'optional' (任意の), (C) 'unnecessary' (不必要な), (D) 'disruptive' (妨害となる) は文脈に合いません。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "minor",
+          "B": "major",
+          "C": "significant",
+          "D": "critical"
+        },
+        "answer": "A",
+        "explanation": "火災報知器のテストは一時的なものであり、通常は「<strong>軽微な</strong>」不便を引き起こすと考えられます。したがって、(A) 'minor' (軽微な) が最も適切です。他の選択肢は過度な表現です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Please remain calm and follow evacuation procedures.",
+          "B": "We advise you to leave the building during the test.",
+          "C": "No action is required from residents during the test.",
+          "D": "The building will be closed during these hours."
+        },
+        "answer": "C",
+        "explanation": "「避難する必要はありません」と述べた後、テスト中に「居住者による行動は不要です」という (C) が、指示を明確にする文として自然です。他の選択肢は矛盾したり、誤解を招く可能性があります。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "Thank you for your attention to this important matter.",
+          "B": "We will conduct another test next month.",
+          "C": "Please disregard this notice if you are not a resident.",
+          "D": "The building management office is open 24/7."
+        },
+        "answer": "A",
+        "explanation": "重要事項への注意を喚起する通知の締めくくりとして、「この重要な件にご注意いただきありがとうございます」という (A) が適切です。他の選択肢は文脈に合わないか、不自然です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_006",
+    "content": "To: All Department Heads<br>From: Finance Department<br>Subject: New Expense Report System Implementation<br><br>This is to announce the upcoming implementation of our new online expense report system, effective August 1st. This new system is designed to streamline the expense reporting ------- [1] and reduce processing times.<br><br>All employees will be required to submit their expense reports through this new platform. Training sessions will be provided to ensure a smooth ------- [2]. Details regarding the training schedule will be circulated next week.<br><br>We encourage all department heads to communicate this change to their teams and ensure full compliance. ------- [3] Your cooperation in adopting this new system is highly appreciated. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "procedure",
+          "B": "product",
+          "C": "profit",
+          "D": "problem"
+        },
+        "answer": "A",
+        "explanation": "経費報告書の処理を効率化する文脈なので、「経費報告の<strong>手続き</strong>」という意味の (A) 'procedure' (手続き) が適切です。 (B) 'product' (製品), (C) 'profit' (利益), (D) 'problem' (問題) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "transition",
+          "B": "resistance",
+          "C": "conflict",
+          "D": "stagnation"
+        },
+        "answer": "A",
+        "explanation": "新しいシステムへの切り替えについて言及されているので、「円滑な<strong>移行</strong>」という意味の (A) 'transition' (移行) が適切です。 (B) 'resistance' (抵抗), (C) 'conflict' (衝突), (D) 'stagnation' (停滞) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The old system will still be accessible for a limited time.",
+          "B": "Please encourage them to attend the training sessions.",
+          "C": "Budget cuts will affect all department expenses.",
+          "D": "We are planning to hire more finance staff."
+        },
+        "answer": "B",
+        "explanation": "新しいシステムへの完全な順守を促した後、部門長にチームメンバーに「トレーニングセッションへの参加を促してください」という (B) が、システム導入を支援する文として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We anticipate a significant reduction in processing errors.",
+          "B": "Please submit your current expense reports by Friday.",
+          "C": "This system will be rolled out globally next year.",
+          "D": "We thank you for your commitment to efficiency."
+        },
+        "answer": "D",
+        "explanation": "新しいシステム導入への協力を感謝する文の締めくくりとして、「効率化へのご尽力に感謝いたします」という (D) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_007",
+    "content": "To: All Conference Attendees<br>From: Event Organizing Committee<br>Subject: Reminder: Annual Tech Innovations Conference<br><br>Dear Attendees,<br><br>This is a friendly reminder about the Annual Tech Innovations Conference, scheduled for September 10th-12th at the Grand Convention Center. We are excited to host a diverse group of speakers and present cutting-edge advancements in technology. Please remember to ------- [1] your registration by August 31st to secure your spot.<br><br>The full conference schedule, including session times and speaker bios, is now available on our website. We encourage you to review it and plan your attendance accordingly. ------- [2]<br><br>Networking opportunities will be abundant, with dedicated sessions for professionals to connect and share ideas. Don't miss the keynote address by Dr. Emily Carter on the future of AI. ------- [3] We look forward to welcoming you to what promises to be an enlightening and inspiring event. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "confirm",
+          "B": "cancel",
+          "C": "postpone",
+          "D": "transfer"
+        },
+        "answer": "A",
+        "explanation": "会議への参加を確実にするために、登録を「<strong>確認する</strong>」という意味の (A) 'confirm' が適切です。 (B) 'cancel' (キャンセルする), (C) 'postpone' (延期する), (D) 'transfer' (転送する) は文脈に合いません。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "The venue has been changed at the last minute.",
+          "B": "Printed copies will be provided upon arrival.",
+          "C": "We recommend arriving early for popular sessions.",
+          "D": "The speaker list is subject to change without notice."
+        },
+        "answer": "C",
+        "explanation": "ウェブサイトでスケジュールを確認し、参加計画を立てることを促した後、「人気のセッションには早めに到着することをお勧めします」という (C) が、参加者にとって役立つアドバイスとして自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Dr. Carter's speech will be available online only.",
+          "B": "Seating for the keynote address is limited.",
+          "C": "The conference will focus solely on robotics.",
+          "D": "Her previous work is not relevant to this event."
+        },
+        "answer": "B",
+        "explanation": "基調講演を見逃さないように促した後、その重要性を示す理由、例えば「基調講演の座席には限りがあります」という (B) が自然です。"
+      },
+      {
+        "id": "q4",
+        "options": {
+          "A": "Your feedback on previous conferences is welcome.",
+          "B": "We are still accepting applications for volunteers.",
+          "C": "Thank you for your enthusiastic participation.",
+          "D": "Please bring your own lunch as catering is not provided."
+        },
+        "answer": "C",
+        "explanation": "「啓発的で刺激的なイベントになることを楽しみにしています」という文の締めくくりとして、「皆様の熱心なご参加に感謝いたします」という (C) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_008",
+    "content": "To: All Department Supervisors<br>From: Production Manager<br>Subject: Production Line Efficiency Improvements<br><br>As we continue to seek ways to enhance our operational efficiency, we are implementing new procedures on the main production line. These changes are expected to significantly ------- [1] our output capacity by 15% within the next quarter.<br><br>A series of training sessions will be held next week to familiarize all relevant staff with the new processes and equipment. Your full cooperation and active participation are ------- [2] for the successful adoption of these improvements.<br><br>We understand that adapting to new methods can take time, and we are committed to providing all necessary support during this transition. Please ensure that your teams are aware of the upcoming training. ------- [3] Your feedback during this period is highly valued as we aim for continuous improvement. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "decrease",
+          "B": "increase",
+          "C": "maintain",
+          "D": "limit"
+        },
+        "answer": "B",
+        "explanation": "生産効率の向上を目指しており、出力容量が15%増えることが期待されているため、「<strong>増加させる</strong>」という意味の (B) 'increase' が適切です。 (A) 'decrease' (減少させる), (C) 'maintain' (維持する), (D) 'limit' (制限する) は文脈に合いません。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "optional",
+          "B": "crucial",
+          "C": "negligible",
+          "D": "detrimental"
+        },
+        "answer": "B",
+        "explanation": "新しい手順の成功に部門長の協力と参加が重要であるため、「<strong>極めて重要</strong>」という意味の (B) 'crucial' が適切です。 (A) 'optional' (任意の), (C) 'negligible' (無視できる), (D) 'detrimental' (有害な) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "We will halt all production during the training.",
+          "B": "The training will be conducted off-site.",
+          "C": "A detailed training schedule will be distributed shortly.",
+          "D": "Only senior staff are required to attend."
+        },
+        "answer": "C",
+        "explanation": "今後のトレーニングについてチームに周知するよう促した後、具体的な「詳細なトレーニングスケジュールが間もなく配布されます」という (C) が、情報補足として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We anticipate a temporary drop in production.",
+          "B": "Thank you for helping us achieve these goals.",
+          "C": "All production records must be updated daily.",
+          "D": "The new equipment requires minimal maintenance."
+        },
+        "answer": "B",
+        "explanation": "継続的な改善を目指すという文の締めくくりとして、「これらの目標達成にご協力いただきありがとうございます」という (B) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_009",
+    "content": "To: All Members<br>From: Community Center Board<br>Subject: Annual Membership Renewal Reminder<br><br>Dear Members,<br><br>This is a friendly reminder that your annual membership for the Community Center is due for renewal on October 31st. Your continued support allows us to offer a wide range of programs and facilities for everyone in our community. Please renew your membership ------- [1] to avoid any interruption in your access.<br><br>You can renew your membership online through our website, or by visiting the front desk during operational hours. Early renewals will receive a 10% discount on their next program registration. This offer is ------- [2] until November 15th.<br><br>We are constantly striving to improve our services and appreciate your loyalty. We have recently added new fitness classes and expanded our library collection based on your feedback. ------- [3] For any questions, please contact our membership office. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "promptly",
+          "B": "reluctantly",
+          "C": "hesitantly",
+          "D": "gradually"
+        },
+        "answer": "A",
+        "explanation": "アクセスの中断を避けるために、会員資格を「<strong>迅速に</strong>」更新するよう促す文脈なので、(A) 'promptly' (迅速に) が適切です。 (B) 'reluctantly' (しぶしぶ), (C) 'hesitantly' (ためらって), (D) 'gradually' (徐々に) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "invalid",
+          "B": "available",
+          "C": "expired",
+          "D": "denied"
+        },
+        "answer": "B",
+        "explanation": "割引が11月15日までであると述べているので、「<strong>利用可能</strong>」という意味の (B) 'available' が適切です。 (A) 'invalid' (無効な), (C) 'expired' (期限切れの), (D) 'denied' (拒否された) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Membership fees have been increased this year.",
+          "B": "We value your input and suggestions for new programs.",
+          "C": "The community center will be closed next month.",
+          "D": "Please ignore any previous renewal notices."
+        },
+        "answer": "B",
+        "explanation": "フィードバックに基づいて新しいクラスやコレクションを追加したことに触れた後、「新しいプログラムに対する皆様のご意見やご提案を重視しています」という (B) が、会員の意見を歓迎する姿勢を示す文として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We look forward to your continued participation.",
+          "B": "The center is undergoing major renovations.",
+          "C": "All programs require a separate registration fee.",
+          "D": "You can find a list of our staff members online."
+        },
+        "answer": "A",
+        "explanation": "質問があれば連絡するよう促した後、会員の継続的な参加を期待する「皆様の継続的なご参加をお待ちしております」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_010",
+    "content": "To: All Employees<br>From: IT Department<br>Subject: Scheduled System Maintenance<br><br>Please be advised that our main server system will undergo scheduled maintenance on Saturday, July 12th, from 8:00 AM to 1:00 PM. This essential maintenance is required to ensure the continued security and ------- [1] of our network infrastructure.<br><br>During this period, access to all internal systems, including email and shared drives, will be temporarily ------- [2]. We recommend saving any important work and logging off before the maintenance begins.<br><br>We apologize for any disruption this may cause to your work. Our IT team will work diligently to complete the maintenance as quickly as possible. ------- [3] We appreciate your understanding and cooperation during this necessary upgrade. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "instability",
+          "B": "reliability",
+          "C": "fragility",
+          "D": "vulnerability"
+        },
+        "answer": "B",
+        "explanation": "ネットワークインフラの継続的なセキュリティと「<strong>信頼性</strong>」を確保するために必要なメンテナンスである、という文脈なので、(B) 'reliability' が適切です。 (A) 'instability' (不安定性), (C) 'fragility' (脆さ), (D) 'vulnerability' (脆弱性) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "restored",
+          "B": "available",
+          "C": "restricted",
+          "D": "expanded"
+        },
+        "answer": "C",
+        "explanation": "メンテナンス中はシステムへのアクセスが「<strong>制限される</strong>」という意味が適切です。したがって、(C) 'restricted' (制限された) が正解です。 (A) 'restored' (復元された), (B) 'available' (利用可能), (D) 'expanded' (拡張された) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Access will be fully restored by 1:00 PM on Saturday.",
+          "B": "Please do not use personal devices during this time.",
+          "C": "We will provide alternative work arrangements.",
+          "D": "The maintenance is optional for some departments."
+        },
+        "answer": "A",
+        "explanation": "メンテナンスの完了を確約した後、いつアクセスが復元されるかという具体的な情報、「土曜日の午後1時までにアクセスが完全に復元されます」という (A) が自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We expect similar maintenance next week.",
+          "B": "Thank you for your patience and understanding.",
+          "C": "Please submit any IT issues via email.",
+          "D": "The IT department will be closed on Saturday."
+        },
+        "answer": "B",
+        "explanation": "必要なアップグレードに対する理解と協力を感謝する文の締めくくりとして、「皆様の忍耐とご理解に感謝いたします」という (B) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_011",
+    "content": "To: All Employees<br>From: Management<br>Subject: Reminder: Company-wide Picnic<br><br>This is a friendly reminder about our annual company-wide picnic, which will be held on Saturday, August 9th, at Lakeside Park. This event is a wonderful opportunity for us to relax, socialize, and connect with colleagues outside of the work environment. We encourage everyone to ------- [1] this enjoyable gathering.<br><br>Lunch and refreshments will be provided, and there will be various activities for all ages, including games and sports. Please RSVP by August 1st so we can finalize the catering arrangements. You can RSVP on the company intranet. ------- [2]<br><br>Family members are also welcome to attend, making it a truly inclusive event for everyone. We look forward to a day filled with fun and laughter. ------- [3] Your participation helps build a stronger and more vibrant company culture. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "avoid",
+          "B": "attend",
+          "C": "decline",
+          "D": "postpone"
+        },
+        "answer": "B",
+        "explanation": "従業員が仕事環境の外でリラックスし交流する機会なので、「この楽しい集まりに<strong>参加する</strong>」という意味の (B) 'attend' が適切です。 (A) 'avoid' (避ける), (C) 'decline' (断る), (D) 'postpone' (延期する) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "The picnic will be canceled if we don't get enough RSVPs.",
+          "B": "Please indicate any dietary restrictions when you RSVP.",
+          "C": "The intranet is currently undergoing maintenance.",
+          "D": "We will send out physical invitations next week."
+        },
+        "answer": "B",
+        "explanation": "RSVPを促す文の後に、食事の準備に関する「RSVPの際に食事制限をお知らせください」という (B) が、具体的な指示として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The park charges a fee for entry.",
+          "B": "Children under 5 are not permitted.",
+          "C": "Please bring your own picnic blankets and chairs.",
+          "D": "This is a great chance to meet colleagues from other departments."
+        },
+        "answer": "D",
+        "explanation": "「家族も歓迎され、みんなで楽しめるイベントです」と述べた後に、ピクニックの利点として「他の部署の同僚と会う良い機会です」という (D) が適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We hope to see you there!",
+          "B": "Please disregard this message.",
+          "C": "The event has been postponed.",
+          "D": "The park will close early."
+        },
+        "answer": "A",
+        "explanation": "会社文化の構築に役立つという文の締めくくりとして、「皆様のお越しをお待ちしております！」という (A) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_012",
+    "content": "To: All Customers<br>From: Tech Solutions Inc.<br>Subject: Upcoming Software Update: Version 3.0<br><br>We are excited to announce the upcoming release of Tech Solutions software Version 3.0, scheduled for deployment on September 1st. This update introduces several new features and significant performance ------- [1] designed to enhance your user experience.<br><br>Key improvements include a redesigned user interface, faster loading times, and enhanced security protocols. We believe these changes will make your daily operations more efficient and enjoyable. All existing users will receive the update automatically. ------- [2]<br><br>A detailed user manual and a list of all new features will be available on our website starting August 25th. We encourage you to review these resources to make the most of the new version. ------- [3] For any questions or support, please visit our online help center. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "declines",
+          "B": "deteriorations",
+          "C": "improvements",
+          "D": "limitations"
+        },
+        "answer": "C",
+        "explanation": "ユーザーエクスペリエンスを向上させる目的のソフトウェアアップデートなので、「大幅なパフォーマンス<strong>向上</strong>」という意味の (C) 'improvements' が適切です。 (A) 'declines' (低下), (B) 'deteriorations' (悪化), (D) 'limitations' (制限) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "Manual installation will be required for some users.",
+          "B": "Please back up your data before the update.",
+          "C": "This update will be paid for separately.",
+          "D": "The previous version will no longer be supported."
+        },
+        "answer": "B",
+        "explanation": "自動アップデートが行われることについて述べた後、万が一に備えて「アップデート前にデータのバックアップを取ってください」という (B) が、ユーザーにとって役立つ指示として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "We appreciate your patience during this transition.",
+          "B": "The previous version is no longer accessible.",
+          "C": "Our support team is currently unavailable.",
+          "D": "New subscriptions will be more expensive."
+        },
+        "answer": "A",
+        "explanation": "新しいバージョンを最大限に活用することを促した後、「この移行期間中の皆様のご忍耐に感謝いたします」という (A) が、顧客への配慮を示す文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We are confident you will enjoy the new features.",
+          "B": "The update process may take several hours.",
+          "C": "Our office hours have recently changed.",
+          "D": "Please send us your suggestions for future updates."
+        },
+        "answer": "A",
+        "explanation": "オンラインヘルプセンターへの誘導の後、新しい機能への期待を述べる「新しい機能を楽しんでいただけると確信しております」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_013",
+    "content": "To: All Job Applicants<br>From: Recruitment Team, Global Corp.<br>Subject: Application Status Update<br><br>Thank you for your interest in career opportunities at Global Corp. We appreciate the time and effort you invested in preparing and submitting your application. We have received a large number of highly qualified applicants for the ------- [1] positions.<br><br>Our recruitment team is currently reviewing all applications. We anticipate this process will take approximately two to three weeks. You will be contacted directly if your qualifications match our requirements and you are selected for an interview. ------- [2]<br><br>We understand that waiting can be challenging, and we appreciate your patience during this time. Please refrain from contacting us to inquire about your application status, as we are unable to provide individual updates due to the high volume of applications. ------- [3] We wish you the best in your job search. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "opened",
+          "B": "vacant",
+          "C": "closed",
+          "D": "available"
+        },
+        "answer": "D",
+        "explanation": "応募者が非常に多いことについて言及しているので、「応募可能な」という意味の (D) 'available' (利用可能な、応募可能な) が適切です。 (A) 'opened' (開かれた), (B) 'vacant' (空いている), (C) 'closed' (閉鎖された) は文脈に合いません。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "We encourage you to apply for multiple positions.",
+          "B": "Only shortlisted candidates will be contacted.",
+          "C": "The interview process will last for a full day.",
+          "D": "You will receive an offer letter next week."
+        },
+        "answer": "B",
+        "explanation": "選考された場合にのみ連絡するという文の後に、「最終候補者のみに連絡が行われます」という (B) が、選考プロセスの説明として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "We will host a career fair next month.",
+          "B": "We are unable to provide feedback on individual applications.",
+          "C": "Please update your resume regularly.",
+          "D": "The HR department is understaffed."
+        },
+        "answer": "B",
+        "explanation": "個別の問い合わせを控えるよう求めた理由として、「個別の応募に関するフィードバックは提供できません」という (B) が、情報の制限を明確にする文として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "Thank you for your understanding.",
+          "B": "We will announce new openings soon.",
+          "C": "Please check your spam folder regularly.",
+          "D": "Our hiring needs have recently changed."
+        },
+        "answer": "A",
+        "explanation": "求職活動の成功を祈る文の締めくくりとして、「ご理解いただきありがとうございます」という (A) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_014",
+    "content": "To: All Department Supervisors<br>From: Operations Manager<br>Subject: New Safety Regulations Training<br><br>Effective October 1st, new safety regulations will be implemented across all operational departments. These regulations are designed to enhance workplace safety and reduce the ------- [1] of accidents.<br><br>To ensure full compliance, mandatory training sessions will be held from September 15th to September 20th. All employees involved in operational activities are required to ------- [2] these sessions. A detailed schedule will be circulated by end of this week.<br><br>Your active participation in these training sessions is essential for creating a safer work environment for everyone. Please prioritize this training and ensure your team members attend. ------- [3] For any specific concerns or questions, please contact the Safety Department. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "frequency",
+          "B": "benefit",
+          "C": "advantage",
+          "D": "opportunity"
+        },
+        "answer": "A",
+        "explanation": "職場の安全を向上させ、事故の「<strong>頻度</strong>」を減らすという文脈なので、(A) 'frequency' が適切です。 (B) 'benefit' (利益), (C) 'advantage' (利点), (D) 'opportunity' (機会) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "avoid",
+          "B": "skip",
+          "C": "attend",
+          "D": "decline"
+        },
+        "answer": "C",
+        "explanation": "すべての従業員が新しい規制に準拠するためには、トレーニングセッションに「<strong>参加する</strong>」ことが求められます。したがって、(C) 'attend' が正解です。 (A) 'avoid' (避ける), (B) 'skip' (飛ばす), (D) 'decline' (断る) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Failure to comply will result in disciplinary action.",
+          "B": "The training will be held off-site this year.",
+          "C": "These regulations do not apply to all departments.",
+          "D": "We will provide refreshments during the training."
+        },
+        "answer": "A",
+        "explanation": "安全トレーニングの重要性を強調し、参加を促した後に、「遵守しない場合は懲戒処分となります」という (A) が、その義務的な性質を明確にする文として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We are still revising the safety manual.",
+          "B": "Thank you for your commitment to safety.",
+          "C": "Please submit your safety suggestions by Friday.",
+          "D": "The Safety Department is relocating next month."
+        },
+        "answer": "B",
+        "explanation": "質問があれば連絡するよう促した後、安全への貢献を感謝する「皆様の安全へのご尽力に感謝いたします」という (B) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_015",
+    "content": "To: All Interns<br>From: Internship Program Coordinator<br>Subject: Welcome to the Summer Internship Program!<br><br>Welcome to the Global Solutions Summer Internship Program! We are thrilled to have you join our team. Over the next ten weeks, you will gain valuable hands-on experience and contribute to various exciting projects. Your dedication and fresh perspectives are highly ------- [1].<br><br>Your orientation session will take place on Monday, June 3rd, at 9:00 AM in Conference Room B. During this session, you will receive your internship guide, learn about company policies, and meet your mentors. Please arrive on time. ------- [2]<br><br>We encourage you to ask questions, seek feedback, and actively participate in all activities. This program is designed to support your professional growth. ------- [3] We look forward to a productive and rewarding summer with all of you. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "overlooked",
+          "B": "disregarded",
+          "C": "valued",
+          "D": "ignored"
+        },
+        "answer": "C",
+        "explanation": "インターンシッププログラムへようこそという文脈で、彼らの献身と新しい視点が「<strong>高く評価される</strong>」という意味の (C) 'valued' が適切です。 (A) 'overlooked' (見過ごされる), (B) 'disregarded' (無視される), (D) 'ignored' (無視される) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "Lunch will be provided after the orientation.",
+          "B": "The conference room has been changed.",
+          "C": "Please complete the pre-orientation survey beforehand.",
+          "D": "You will be assigned your first project immediately."
+        },
+        "answer": "A",
+        "explanation": "オリエンテーションの後に昼食が提供されるという (A) が、参加者にとって役立つ情報として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "All interns are expected to work overtime.",
+          "B": "Your performance will be evaluated weekly.",
+          "C": "Take advantage of all learning opportunities.",
+          "D": "The program primarily focuses on administrative tasks."
+        },
+        "answer": "C",
+        "explanation": "専門的な成長を支援するように設計されたプログラムであることを強調した後、「すべての学習機会を活用してください」という (C) が、インターンへのアドバイスとして適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We anticipate a challenging summer.",
+          "B": "Thank you for choosing Global Solutions.",
+          "C": "The program ends abruptly in August.",
+          "D": "Please send us your final reports."
+        },
+        "answer": "B",
+        "explanation": "生産的で実りある夏を期待する文の締めくくりとして、「グローバルソリューションを選んでいただきありがとうございます」という (B) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_016",
+    "content": "To: All Employees<br>From: Human Resources<br>Subject: Reminder: Employee Wellness Program Enrollment<br><br>This is a final reminder for all employees to enroll in our new Employee Wellness Program. This program offers a variety of resources, including fitness classes, nutritional counseling, and stress management workshops, all designed to promote your overall well-being. The enrollment deadline is approaching ------- [1].<br><br>To enroll, please visit the HR portal on the company intranet by July 31st. Early enrollment grants you access to exclusive introductory workshops. Don't miss this opportunity to invest in your health and happiness. ------- [2]<br><br>Participation in the wellness program is completely voluntary and confidential. We believe that a healthy workforce is a happy and productive workforce. ------- [3] If you have any questions or require assistance with enrollment, please contact the HR department. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "rapidly",
+          "B": "slowly",
+          "C": "hesitantly",
+          "D": "reluctantly"
+        },
+        "answer": "A",
+        "explanation": "最終リマインダーであることから、登録期限が「<strong>急速に</strong>」近づいているという意味の (A) 'rapidly' が適切です。 (B) 'slowly' (ゆっくりと), (C) 'hesitantly' (ためらって), (D) 'reluctantly' (しぶしぶ) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "The program is only for senior management.",
+          "B": "A doctor's note is required for enrollment.",
+          "C": "Spaces for some workshops are limited, so act fast.",
+          "D": "The program will be extended indefinitely."
+        },
+        "answer": "C",
+        "explanation": "健康と幸福に投資する機会を逃さないよう促した後、「一部のワークショップのスペースには限りがあるため、お早めに行動してください」という (C) が、登録を急ぐ理由として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The company will track individual participation data.",
+          "B": "Your health information will be shared with your manager.",
+          "C": "We encourage everyone to take advantage of these resources.",
+          "D": "The program is mandatory for all new hires."
+        },
+        "answer": "C",
+        "explanation": "健康な労働力は幸せで生産的であると信じているという文の後に、「これらのリソースを最大限に活用することをお勧めします」という (C) が、参加を促す文として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We hope this program contributes to your well-being.",
+          "B": "The program will be discontinued next year.",
+          "C": "Please do not contact HR about this program.",
+          "D": "HR is currently experiencing staff shortages."
+        },
+        "answer": "A",
+        "explanation": "質問や支援が必要な場合の連絡先を示した後、プログラムの目標について述べる「このプログラムが皆様の健康に貢献することを願っております」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_017",
+    "content": "To: All Staff<br>From: Facilities Management<br>Subject: Temporary Parking Lot Closure<br><br>Please be advised that the main parking lot, located on the east side of the building, will be temporarily ------- [1] from Monday, August 5th, to Friday, August 9th. This closure is necessary for scheduled resurfacing and line painting work.<br><br>During this period, employees are requested to use the overflow parking area located across the street from the main entrance. Please allow extra time for parking and walking to the office. We apologize for any ------- [2] this may cause.<br><br>Signage will be placed to direct drivers to the alternative parking. We appreciate your cooperation as we work to improve our facilities. ------- [3] Your understanding helps us maintain a safe and well-maintained environment. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "opened",
+          "B": "closed",
+          "C": "expanded",
+          "D": "renovated"
+        },
+        "answer": "B",
+        "explanation": "駐車場の舗装工事とライン引きのため、「一時的に閉鎖される」という意味の (B) 'closed' が適切です。 (A) 'opened' (開かれる), (C) 'expanded' (拡張される), (D) 'renovated' (改装される) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "convenience",
+          "B": "inconvenience",
+          "C": "pleasure",
+          "D": "satisfaction"
+        },
+        "answer": "B",
+        "explanation": "駐車場の閉鎖により不便が生じることについて謝罪しているので、「いかなる<strong>不便</strong>」という意味の (B) 'inconvenience' が適切です。 (A) 'convenience' (便利), (C) 'pleasure' (喜び), (D) 'satisfaction' (満足) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The resurfacing work will take longer than expected.",
+          "B": "Please do not park in restricted areas.",
+          "C": "The main parking lot will reopen on schedule.",
+          "D": "We are also planning to expand the main entrance."
+        },
+        "answer": "C",
+        "explanation": "施設改善への協力を感謝する文の後に、「主要駐車場は予定通り再開します」という (C) が、具体的な情報補足として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We will send another notice if there are any delays.",
+          "B": "Thank you for your understanding and patience.",
+          "C": "The parking fee will be increased next month.",
+          "D": "Please report any unauthorized vehicles."
+        },
+        "answer": "B",
+        "explanation": "安全で手入れの行き届いた環境を維持するための理解を感謝する文の締めくくりとして、「皆様のご理解と忍耐に感謝いたします」という (B) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_018",
+    "content": "To: All Employees<br>From: HR Department<br>Subject: Reminder: Mandatory Harassment Prevention Training<br><br>This is a reminder that the mandatory harassment prevention training sessions are scheduled to begin on Monday, September 1st. These training sessions are designed to educate all employees on our company's policies regarding harassment and to foster a respectful and inclusive workplace ------- [1].<br><br>Your attendance at one of these sessions is compulsory. Please check the intranet for the full schedule and to register for a session that fits your availability. The training is approximately two hours long. ------- [2]<br><br>We are committed to maintaining a safe and respectful environment for all employees. Your active participation in this training is crucial to achieving this goal. ------- [3] If you have any questions, please contact the HR department. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "culture",
+          "B": "conflict",
+          "C": "disruption",
+          "D": "division"
+        },
+        "answer": "A",
+        "explanation": "ハラスメントに関する会社のポリシーを教育し、尊重と包容力のある職場「<strong>文化</strong>」を育むという文脈なので、(A) 'culture' が適切です。 (B) 'conflict' (対立), (C) 'disruption' (混乱), (D) 'division' (分裂) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "Failure to attend will result in disciplinary action.",
+          "B": "You can opt out of this training if you prefer.",
+          "C": "The training will be conducted online only.",
+          "D": "Please bring your own lunch to the session."
+        },
+        "answer": "A",
+        "explanation": "トレーニングへの参加が義務であることを強調した後、「参加しない場合は懲戒処分となります」という (A) が、その義務的な性質を明確にする文として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The training materials will be provided in advance.",
+          "B": "This training is the first step in our new HR initiative.",
+          "C": "Your understanding and compliance are highly valued.",
+          "D": "We will hire external trainers for these sessions."
+        },
+        "answer": "C",
+        "explanation": "この目標達成のために参加が重要であると述べた後、「皆様のご理解と遵守は高く評価されます」という (C) が、従業員の貢献を評価する文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We appreciate your commitment to a positive work environment.",
+          "B": "The HR department will be closed next week.",
+          "C": "Please send your feedback after the training.",
+          "D": "The training schedule is subject to change."
+        },
+        "answer": "A",
+        "explanation": "質問があれば連絡するよう促した後、ポジティブな職場環境への貢献を感謝する「ポジティブな職場環境へのご尽力に感謝いたします」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_019",
+    "content": "To: All Customers<br>From: Eco-Clean Services<br>Subject: Special Offer: Spring Cleaning Package<br><br>Dear Valued Customer,<br><br>Spring is the perfect time for a fresh start! Eco-Clean Services is delighted to announce our special Spring Cleaning Package, available throughout the month of April. This comprehensive package includes deep cleaning of all rooms, window washing, and carpet shampooing, designed to leave your home sparkling. Book our services ------- [1] to take advantage of this limited-time offer.<br><br>Our experienced and fully insured team uses only environmentally friendly cleaning products, ensuring a safe and healthy environment for your family and pets. We are committed to providing top-quality service with a focus on sustainability. ------- [2]<br><br>To learn more about our Spring Cleaning Package or to schedule an appointment, please visit our website or call us at 555-9876. Spaces are limited, so we encourage you to book soon! ------- [3] We look forward to making your home shine! ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "slowly",
+          "B": "hesitantly",
+          "C": "promptly",
+          "D": "reluctantly"
+        },
+        "answer": "C",
+        "explanation": "期間限定のオファーを利用するためには、「<strong>迅速に</strong>」サービスを予約するべきです。 (C) 'promptly' (迅速に) が適切です。 (A) 'slowly' (ゆっくりと), (B) 'hesitantly' (ためらって), (D) 'reluctantly' (しぶしぶ) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "We use harsh chemicals for tough stains.",
+          "B": "Our services are only available in certain areas.",
+          "C": "Customer satisfaction is our top priority.",
+          "D": "Our prices have increased significantly."
+        },
+        "answer": "C",
+        "explanation": "環境に優しい製品と高品質なサービスへのコミットメントを述べた後、「顧客満足度が最優先事項です」という (C) が、サービスの品質をさらに強調する文として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Please be aware of additional charges.",
+          "B": "This offer cannot be combined with other promotions.",
+          "C": "Our team is not available on weekends.",
+          "D": "The offer is valid until the end of next month."
+        },
+        "answer": "B",
+        "explanation": "予約を促す文の後に、「このオファーは他のプロモーションと併用できません」という (B) が、オファーの詳細を補足する文として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "Thank you for considering Eco-Clean Services.",
+          "B": "Our services are not available in your area.",
+          "C": "Please disregard this special offer.",
+          "D": "We will contact you shortly to confirm."
+        },
+        "answer": "A",
+        "explanation": "家を輝かせることを楽しみにしているという文の締めくくりとして、「Eco-Clean Servicesをご検討いただきありがとうございます」という (A) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_020",
+    "content": "To: All Employees<br>From: Management<br>Subject: New Company Policy on Remote Work<br><br>We are excited to announce a new company policy regarding remote work, effective September 1st. This policy aims to provide greater flexibility for our employees while maintaining productivity and collaboration. Employees will now have the ------- [1] to work remotely up to two days per week, subject to manager approval.<br><br>Detailed guidelines on remote work expectations, communication protocols, and equipment requirements will be distributed next week. We encourage all employees considering remote work to review these guidelines carefully. Your understanding and adherence to these policies are ------- [2] for a successful remote work arrangement.<br><br>We believe this new policy will enhance work-life balance and contribute to overall employee satisfaction. Managers will hold team discussions to address any specific questions or concerns. ------- [3] We appreciate your adaptability and commitment to our shared success. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "restriction",
+          "B": "obligation",
+          "C": "opportunity",
+          "D": "limitation"
+        },
+        "answer": "C",
+        "explanation": "従業員に柔軟性を提供するための新しいポリシーであるため、週に2日までリモートで働く「<strong>機会</strong>」という意味の (C) 'opportunity' が適切です。 (A) 'restriction' (制限), (B) 'obligation' (義務), (D) 'limitation' (限界) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "optional",
+          "B": "irrelevant",
+          "C": "essential",
+          "D": "unnecessary"
+        },
+        "answer": "C",
+        "explanation": "成功するリモートワークのために、ポリシーへの理解と順守が「<strong>不可欠</strong>」であるという意味の (C) 'essential' が適切です。 (A) 'optional' (任意の), (B) 'irrelevant' (無関係な), (D) 'unnecessary' (不必要な) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Not all departments are eligible for remote work.",
+          "B": "Remote work is mandatory for all positions.",
+          "C": "Please submit your remote work requests by August 15th.",
+          "D": "We will provide all necessary home office equipment."
+        },
+        "answer": "C",
+        "explanation": "マネージャーがチームで質問に対処すると述べた後に、「リモートワークの申請を8月15日までに提出してください」という (C) が、具体的な指示として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We expect a decrease in productivity.",
+          "B": "Thank you for embracing this change.",
+          "C": "This policy may be reversed next year.",
+          "D": "Please update your emergency contact information."
+        },
+        "answer": "B",
+        "explanation": "適応性と共通の成功へのコミットメントを感謝する文の締めくくりとして、「この変更を受け入れていただきありがとうございます」という (B) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_021",
+    "content": "To: All Residents<br>From: Apartment Management<br>Subject: Important: Annual Fire Safety Inspection<br><br>This is a reminder that our annual fire safety inspection will take place on Tuesday, October 10th, from 9:00 AM to 5:00 PM. This inspection is a mandatory requirement to ensure the safety and well-being of all residents and to comply with local regulations. Please ensure that all fire detectors and sprinklers are ------- [1].<br><br>Maintenance personnel will need access to all units to inspect smoke detectors, sprinkler systems, and fire extinguishers. Please ensure that the areas around these devices are clear and accessible. If you are unable to be present, please arrange for someone to grant access or contact the management office to schedule an alternative time. ------- [2]<br><br>Your cooperation in this matter is greatly appreciated. This inspection is crucial for maintaining a safe living environment for everyone. ------- [3] For any questions or concerns, please contact the management office. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "obstructed",
+          "B": "damaged",
+          "C": "functional",
+          "D": "removed"
+        },
+        "answer": "C",
+        "explanation": "安全を確保するための検査なので、火災探知機とスプリンクラーが「<strong>機能している</strong>」ことを確認する必要があります。 (C) 'functional' が適切です。 (A) 'obstructed' (妨げられている), (B) 'damaged' (損傷している), (D) 'removed' (取り外されている) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "Failure to allow access may result in a fine.",
+          "B": "The inspection will be completed quickly.",
+          "C": "We will provide alternative housing during the inspection.",
+          "D": "You can reschedule the inspection at your convenience."
+        },
+        "answer": "A",
+        "explanation": "アクセスを許可しない場合、「罰金が科せられる可能性があります」という (A) が、この検査の義務的な性質を強調する文として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "We will not be responsible for any damages during inspection.",
+          "B": "The inspection will involve a thorough check of all appliances.",
+          "C": "Thank you for your active participation in ensuring safety.",
+          "D": "The inspection schedule is subject to change at short notice."
+        },
+        "answer": "C",
+        "explanation": "安全な居住環境を維持するために検査が重要であると述べた後、「安全確保への積極的なご参加に感謝いたします」という (C) が、協力への感謝を示す文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We anticipate a smooth and efficient inspection process.",
+          "B": "The management office will be closed on inspection day.",
+          "C": "Please do not call about your inspection time.",
+          "D": "You will receive a detailed report after the inspection."
+        },
+        "answer": "A",
+        "explanation": "質問があれば連絡するよう促した後、スムーズで効率的な検査プロセスを期待する「スムーズで効率的な検査プロセスを期待しております」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_022",
+    "content": "To: All Employees<br>From: Management<br>Subject: Launch of New Internal Communication Platform<br><br>We are excited to announce the launch of our new internal communication platform, 'ConnectHub,' effective November 1st. This platform is designed to improve information sharing, facilitate collaboration, and enhance overall team ------- [1] across all departments.<br><br>ConnectHub will replace our existing email-based communication for most internal announcements and project updates. All employees will receive an invitation to join the platform next week, along with instructions on how to set up your profile. Mandatory training sessions will be held to ensure a smooth ------- [2].<br><br>We encourage everyone to actively use ConnectHub to stay informed and engaged. Your participation is key to fostering a more connected and efficient workplace. ------- [3] For any technical issues or questions, please contact the IT Help Desk. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "isolation",
+          "B": "cohesion",
+          "C": "division",
+          "D": "stagnation"
+        },
+        "answer": "B",
+        "explanation": "情報共有とコラボレーションを改善するためのプラットフォームなので、チームの「<strong>結束</strong>」を高めるという意味の (B) 'cohesion' が適切です。 (A) 'isolation' (孤立), (C) 'division' (分裂), (D) 'stagnation' (停滞) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "resistance",
+          "B": "disruption",
+          "C": "transition",
+          "D": "failure"
+        },
+        "answer": "C",
+        "explanation": "新しいプラットフォームへの切り替えについて言及されているので、「円滑な<strong>移行</strong>」という意味の (C) 'transition' が適切です。 (A) 'resistance' (抵抗), (B) 'disruption' (混乱), (D) 'failure' (失敗) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Please limit your use of the platform to work-related topics.",
+          "B": "The platform will automatically translate messages.",
+          "C": "We will monitor all conversations for compliance.",
+          "D": "ConnectHub is only accessible from the office network."
+        },
+        "answer": "A",
+        "explanation": "より効率的な職場を育むことの鍵であると述べた後、プラットフォームの利用に関する「プラットフォームの利用は仕事関連のトピックに限定してください」という (A) が、適切な利用を促す文として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We anticipate a significant improvement in internal communication.",
+          "B": "Please continue to use email for urgent matters.",
+          "C": "The IT Help Desk will be unavailable for a week.",
+          "D": "This platform will replace all external communication tools."
+        },
+        "answer": "A",
+        "explanation": "技術的な問題や質問があればITヘルプデスクに連絡するよう促した後、プラットフォームの目標について述べる「内部コミュニケーションの大幅な改善を期待しております」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_023",
+    "content": "To: All Customers<br>From: SwiftParcel Delivery Service<br>Subject: Holiday Season Shipping Advisory<br><br>Dear Valued Customers,<br><br>As the holiday season approaches, we anticipate a significant increase in shipping volumes. To ensure your packages arrive on time, we strongly advise you to ship your gifts and important parcels well in ------- [1] of your desired delivery date.<br><br>Our recommended last shipping dates for guaranteed holiday delivery are December 15th for standard shipping and December 20th for express shipping. While we will do our utmost to deliver all packages promptly, we cannot ------- [2] delivery for orders placed after these dates due to potential unforeseen delays.<br><br>We have increased our staff and expanded our operational hours to handle the higher volume. Your understanding and planning are greatly appreciated during this busy period. ------- [3] For more information on shipping rates and tracking, please visit our website. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "delay",
+          "B": "advance",
+          "C": "haste",
+          "D": "retreat"
+        },
+        "answer": "B",
+        "explanation": "荷物が時間通りに到着するように、希望する配達日の「<strong>前もって</strong>」発送するよう強く推奨されています。 (B) 'advance' (in advance: 前もって) が適切です。 (A) 'delay' (遅延), (C) 'haste' (急ぎ), (D) 'retreat' (後退) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "guarantee",
+          "B": "postpone",
+          "C": "cancel",
+          "D": "prohibit"
+        },
+        "answer": "A",
+        "explanation": "指定された日以降の注文については、予期せぬ遅延のため配達を「<strong>保証できない</strong>」という意味の (A) 'guarantee' が適切です。 (B) 'postpone' (延期する), (C) 'cancel' (キャンセルする), (D) 'prohibit' (禁止する) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Our shipping rates have recently increased.",
+          "B": "We are offering free shipping on all orders this season.",
+          "C": "Please pack your items securely to prevent damage.",
+          "D": "The number of delivery vehicles is limited."
+        },
+        "answer": "C",
+        "explanation": "繁忙期中の顧客の理解と計画を感謝した後、荷物の破損を防ぐための「破損を防ぐために、商品をしっかりと梱包してください」という (C) が、役立つアドバイスとして自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We hope you have a joyful holiday season.",
+          "B": "Our offices will be closed during the holidays.",
+          "C": "Please expect longer response times for customer service.",
+          "D": "The delivery schedule may change without notice."
+        },
+        "answer": "A",
+        "explanation": "追跡情報などをウェブサイトで確認するよう促した後、ホリデーシーズンへの願いを込めた「皆様が楽しいホリデーシーズンを過ごせることを願っております」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_024",
+    "content": "To: All Project Managers<br>From: Executive Board<br>Subject: Q4 Project Proposal Submission<br><br>This is a reminder that proposals for Q4 projects are due by Friday, November 15th. We encourage all project managers to submit innovative and impactful proposals that align with our company's strategic goals for the upcoming year. Your active participation in this process is highly ------- [1].<br><br>Please ensure your proposals include a detailed project plan, a comprehensive budget breakdown, and realistic timelines. Proposals should be submitted through the internal project management portal. Late submissions will not be ------- [2].<br><br>A review committee will assess all proposals, and selected projects will be announced by December 1st. We appreciate your dedication to driving growth and innovation within our organization. ------- [3] For any questions regarding the submission process, please contact the Planning Department. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "ignored",
+          "B": "discouraged",
+          "C": "valued",
+          "D": "criticized"
+        },
+        "answer": "C",
+        "explanation": "会社の戦略目標に合致する革新的な提案を奨励しているので、プロジェクトマネージャーの積極的な参加が「<strong>高く評価される</strong>」という意味の (C) 'valued' が適切です。 (A) 'ignored' (無視される), (B) 'discouraged' (落胆させる), (D) 'criticized' (批判される) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "accepted",
+          "B": "rejected",
+          "C": "extended",
+          "D": "reviewed"
+        },
+        "answer": "A",
+        "explanation": "期日が設定されており、遅延を避けるように促されているので、期日後の提出は「<strong>受け付けられない</strong>」という意味の (A) 'accepted' (否定形 'not accepted') が適切です。 (B) 'rejected' (却下される), (C) 'extended' (延長される), (D) 'reviewed' (レビューされる) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The budget for Q4 projects has been reduced.",
+          "B": "We are expecting a high volume of submissions.",
+          "C": "Only a limited number of projects will be approved.",
+          "D": "Successful proposals will receive additional funding."
+        },
+        "answer": "B",
+        "explanation": "組織内の成長と革新を推進する献身に感謝した後に、「多数の提出を期待しています」という (B) が、プロセスへの期待を示す文として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We look forward to reviewing your proposals.",
+          "B": "The Planning Department is currently on leave.",
+          "C": "Please disregard previous submission guidelines.",
+          "D": "The next submission period is in six months."
+        },
+        "answer": "A",
+        "explanation": "質問があれば計画部門に連絡するよう促した後、提案のレビューを楽しみにしているという「皆様の提案を審査することを楽しみにしています」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_025",
+    "content": "To: All Employees<br>From: Management<br>Subject: Annual Holiday Party Invitation<br><br>You are cordially invited to our annual company holiday party! This year's celebration will be held on Saturday, December 14th, at the Grand Ballroom of the City Hotel, starting at 7:00 PM. It's a wonderful opportunity to celebrate our collective achievements and enjoy a festive evening with your colleagues. Please RSVP by December 1st to ensure your ------- [1].<br><br>The evening will feature a gourmet dinner, live music, and a special awards ceremony to recognize outstanding employee contributions. Spouses and partners are also welcome to attend. We encourage everyone to dress in formal attire. ------- [2]<br><br>We truly value your hard work and dedication throughout the year, and this party is our way of showing our appreciation. We look forward to a memorable evening with all of you. ------- [3] For any dietary restrictions or other inquiries, please contact the HR department. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "absence",
+          "B": "presence",
+          "C": "departure",
+          "D": "delay"
+        },
+        "answer": "B",
+        "explanation": "集団の成果を祝い、同僚と楽しい夜を過ごす機会なので、RSVPをして「<strong>出席</strong>」を確保する必要があります。 (B) 'presence' が適切です。 (A) 'absence' (欠席), (C) 'departure' (出発), (D) 'delay' (遅延) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "Parking will be validated at the hotel.",
+          "B": "Childcare services will be provided at the venue.",
+          "C": "The dress code is casual this year.",
+          "D": "The awards ceremony will be held online."
+        },
+        "answer": "A",
+        "explanation": "フォーマルな服装を促した後、イベントのロジスティクスに関する「ホテルでの駐車場は認証されます」という (A) が、参加者にとって役立つ情報として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "This party is only for employees with perfect attendance.",
+          "B": "We will host another party next month.",
+          "C": "Your timely RSVP helps us with accurate planning.",
+          "D": "The menu will feature only vegetarian options."
+        },
+        "answer": "C",
+        "explanation": "感謝を示す方法としてのパーティーであることを強調した後、「タイムリーなRSVPは正確な計画に役立ちます」という (C) が、RSVPの重要性を再強調する文として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We anticipate a large turnout.",
+          "B": "Thank you for your understanding.",
+          "C": "The HR department is on holiday leave.",
+          "D": "Please bring a gift for the exchange."
+        },
+        "answer": "A",
+        "explanation": "問い合わせ先を述べた後、イベントへの期待を込めた「多数の参加が見込まれます」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_026",
+    "content": "To: All Staff<br>From: Management<br>Subject: Reminder: Building Access Card Update<br><br>This is a reminder that all employees are required to update their building access cards. This update is part of our enhanced security measures and ensures that only authorized personnel have access to the premises. Please complete this update by Friday, January 31st, to avoid any ------- [1] to your building access.<br><br>The update process is simple and can be completed at the Security Office on the ground floor during regular business hours. Please bring your current access card and a valid form of identification. The process will take approximately 10-15 minutes. ------- [2]<br><br>Your cooperation in this essential security upgrade is greatly appreciated. Maintaining a secure environment is a shared responsibility, and your prompt action is crucial. ------- [3] For any questions or assistance, please contact the Security Office. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "enhancement",
+          "B": "interruption",
+          "C": "improvement",
+          "D": "acceleration"
+        },
+        "answer": "B",
+        "explanation": "建物のアクセスカードの更新が求められており、期日までに更新しないとアクセスに「<strong>中断</strong>」が生じる可能性があります。 (B) 'interruption' が適切です。 (A) 'enhancement' (強化), (C) 'improvement' (改善), (D) 'acceleration' (加速) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "The Security Office is closed on weekends.",
+          "B": "Please schedule an appointment in advance.",
+          "C": "We cannot issue new cards without proper ID.",
+          "D": "The update can also be done online."
+        },
+        "answer": "C",
+        "explanation": "セキュリティオフィスで更新プロセスが完了することについて述べた後、適切なIDがないと新しいカードを発行できないという (C) が、手続きに関する具体的な情報として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The new security system is very expensive.",
+          "B": "We are still facing some technical issues.",
+          "C": "Unauthorized access attempts will be strictly monitored.",
+          "D": "Your diligence ensures the safety of all personnel."
+        },
+        "answer": "D",
+        "explanation": "安全な環境を維持することが共通の責任であり、迅速な行動が重要であると述べた後、「皆様の勤勉さが全職員の安全を確保します」という (D) が、協力の重要性を強調する文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We thank you for your cooperation in this matter.",
+          "B": "The Security Office hours have been extended.",
+          "C": "Please report any lost cards immediately.",
+          "D": "The old access cards will still work temporarily."
+        },
+        "answer": "A",
+        "explanation": "質問や支援が必要な場合の連絡先を示した後、協力への感謝を述べる「この件に関するご協力に感謝いたします」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_027",
+    "content": "To: All Residents<br>From: Property Management<br>Subject: Notice: Scheduled Pest Control Service<br><br>Please be informed that our building will undergo scheduled pest control service on Wednesday, February 12th, from 9:00 AM to 3:00 PM. This routine maintenance is essential to ensure a clean and healthy living environment for all residents and to prevent future infestations. Please ensure that all food items are properly ------- [1].<br><br>Our pest control technicians will require access to all units. We kindly request that you clear areas around baseboards and under sinks to facilitate their work. If you are unable to be home during this time, please leave your keys with the front desk or arrange for a trusted person to provide access. ------- [2]<br><br>We understand that this may cause some temporary inconvenience, and we appreciate your cooperation. Your assistance ensures the effectiveness of the treatment. ------- [3] For any questions or concerns, please contact the Property Management Office. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "exposed",
+          "B": "stored",
+          "C": "discarded",
+          "D": "uncovered"
+        },
+        "answer": "B",
+        "explanation": "害虫駆除サービスが行われるので、すべての食品が適切に「<strong>保管されている</strong>」ことを確認する必要があります。 (B) 'stored' が適切です。 (A) 'exposed' (露出している), (C) 'discarded' (廃棄されている), (D) 'uncovered' (覆われていない) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "We will provide alternative accommodation.",
+          "B": "Please ensure your pets are secured during the service.",
+          "C": "The service will only cover common areas.",
+          "D": "You can refuse the service if you wish."
+        },
+        "answer": "B",
+        "explanation": "不在の場合の鍵の預かりについて述べた後、ペットがいる場合に備えて「サービス中はペットを安全な場所に確保してください」という (B) が、居住者への具体的な指示として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The pest control service is optional for residents.",
+          "B": "We are still dealing with a severe infestation.",
+          "C": "Your active participation helps maintain a pest-free environment.",
+          "D": "The service may cause damage to your furniture."
+        },
+        "answer": "C",
+        "explanation": "協力が治療の効果を確実にすると述べた後、「皆様の積極的な参加が害虫のいない環境維持に役立ちます」という (C) が、協力の重要性を強調する文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We hope this ensures a comfortable living space for you.",
+          "B": "The Property Management Office will be closed.",
+          "C": "Please do not contact the technicians directly.",
+          "D": "The next pest control service is in six months."
+        },
+        "answer": "A",
+        "explanation": "質問や懸念事項があれば管理事務所に連絡するよう促した後、サービスの目標について述べる「これが皆様にとって快適な居住空間を確保することを願っております」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_028",
+    "content": "To: All Employees<br>From: Finance Department<br>Subject: Updated Travel Expense Policy<br><br>Effective March 1st, our company will implement an updated travel expense policy. This revision is part of our ongoing efforts to ensure financial accountability and efficient resource management. Please review the new policy carefully, as it includes significant changes to reimbursement procedures for business travel. Adherence to this policy is ------- [1].<br><br>Key changes include new daily limits for meals and lodging, revised mileage reimbursement rates, and a mandatory pre-approval process for all international travel. All expense reports submitted after March 1st must ------- [2] with the new guidelines.<br><br>Training sessions will be conducted in the coming weeks to clarify any aspects of the new policy and to demonstrate the updated expense reporting system. Your understanding and compliance are essential for a smooth transition. ------- [3] For any questions, please contact the Finance Department. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "optional",
+          "B": "voluntary",
+          "C": "mandatory",
+          "D": "discretionary"
+        },
+        "answer": "C",
+        "explanation": "財務説明責任と効率的な資源管理を確保するためのポリシーなので、このポリシーへの順守は「<strong>義務的</strong>」です。 (C) 'mandatory' が適切です。 (A) 'optional' (任意の), (B) 'voluntary' (自発的な), (D) 'discretionary' (自由裁量の) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "conflict",
+          "B": "differ",
+          "C": "comply",
+          "D": "deviate"
+        },
+        "answer": "C",
+        "explanation": "新しいポリシーが3月1日から施行されるので、それ以降に提出されるすべての経費報告書は新しいガイドラインに「<strong>準拠する</strong>」必要があります。 (C) 'comply' (comply with: ～に従う) が適切です。 (A) 'conflict' (対立する), (B) 'differ' (異なる), (D) 'deviate' (逸脱する) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "We will cover all travel expenses regardless of the policy.",
+          "B": "Failure to comply may result in delayed reimbursements.",
+          "C": "The old policy will remain in effect for some time.",
+          "D": "The training sessions are optional for experienced travelers."
+        },
+        "answer": "B",
+        "explanation": "円滑な移行のために理解と遵守が不可欠であると述べた後、「遵守しない場合は払い戻しが遅れる可能性があります」という (B) が、ポリシーの遵守の重要性を強調する文として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We thank you for your commitment to responsible spending.",
+          "B": "The Finance Department is understaffed.",
+          "C": "Please submit your travel requests via email.",
+          "D": "This policy will be revised annually."
+        },
+        "answer": "A",
+        "explanation": "質問があれば財務部に連絡するよう促した後、責任ある支出への貢献を感謝する「責任ある支出へのご尽力に感謝いたします」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_029",
+    "content": "To: All Members<br>From: Lakeside Fitness Center<br>Subject: Reminder: Membership Auto-Renewal & Fee Adjustment<br><br>Dear Valued Member,<br><br>This is a reminder that your Lakeside Fitness Center membership is set for auto-renewal on April 1st. We appreciate your continued patronage and look forward to helping you achieve your fitness goals. Please note there will be a slight fee ------- [1] of $5 per month, effective with your next billing cycle.<br><br>This adjustment is necessary to cover increased operational costs and to allow us to continue investing in new equipment and facility upgrades to better serve you. We believe this small increase will enable us to maintain our high standards of service. You will receive an email confirmation of your renewal. ------- [2]<br><br>If you wish to opt out of auto-renewal or have any questions regarding your membership, please contact our membership services team by March 15th. We value your feedback and strive to provide the best possible fitness experience. ------- [3] Thank you for being a part of the Lakeside Fitness community. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "decrease",
+          "B": "reduction",
+          "C": "increase",
+          "D": "discount"
+        },
+        "answer": "C",
+        "explanation": "運営コストの増加をカバーするため、および新しい設備に投資するために、料金が「<strong>値上げ</strong>」されます。 (C) 'increase' が適切です。 (A) 'decrease' (値下げ), (B) 'reduction' (削減), (D) 'discount' (割引) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "The new equipment will be installed next month.",
+          "B": "We are not accepting new members at this time.",
+          "C": "Please update your payment information if necessary.",
+          "D": "All group classes will now require an additional fee."
+        },
+        "answer": "C",
+        "explanation": "更新の確認メールが送信されることについて述べた後、「必要であれば、支払い情報を更新してください」という (C) が、メンバーに役立つ具体的な指示として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Our fitness classes are always fully booked.",
+          "B": "We are planning to open a new branch soon.",
+          "C": "Your active participation helps us grow our community.",
+          "D": "The membership services team is unavailable on weekends."
+        },
+        "answer": "C",
+        "explanation": "フィードバックを重視し、最高のフィットネス体験を提供するよう努めていると述べた後、「皆様の積極的な参加がコミュニティの成長に役立ちます」という (C) が、メンバーの貢献を評価する文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We hope to see you at the center soon.",
+          "B": "This fee adjustment is non-negotiable.",
+          "C": "Please disregard this notice if you have already renewed.",
+          "D": "The membership office is undergoing renovation."
+        },
+        "answer": "A",
+        "explanation": "レイクサイドフィットネスコミュニティの一員であることへの感謝の締めくくりとして、「近いうちにセンターでお会いできることを願っております」という (A) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_030",
+    "content": "To: All Staff<br>From: HR Department<br>Subject: Mandatory Diversity and Inclusion Training<br><br>As part of our commitment to fostering a truly inclusive and equitable workplace, we are implementing mandatory Diversity and Inclusion (D&I) training for all employees. These sessions are designed to enhance our understanding of diverse perspectives and promote a culture of respect. Your active participation is ------- [1].<br><br>The training will be conducted virtually through our online learning platform, with various sessions available throughout May. Please register for a session that suits your schedule by April 25th. Each session will last approximately 90 minutes. ------- [2]<br><br>We believe that a diverse and inclusive workforce is essential for innovation and success. Your commitment to these values helps create a welcoming environment for everyone. ------- [3] For any questions regarding the training, please contact the HR department. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "optional",
+          "B": "discouraged",
+          "C": "essential",
+          "D": "limited"
+        },
+        "answer": "C",
+        "explanation": "真に包容的で公平な職場を育むためのトレーニングなので、従業員の積極的な参加が「<strong>不可欠</strong>」です。 (C) 'essential' が適切です。 (A) 'optional' (任意の), (B) 'discouraged' (落胆させる), (D) 'limited' (制限された) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "Attendance is optional for senior management.",
+          "B": "You can complete the training at your own pace.",
+          "C": "Failure to complete the training may result in disciplinary action.",
+          "D": "The training platform is only accessible from the office."
+        },
+        "answer": "C",
+        "explanation": "必須トレーニングであることを強調した後、「トレーニングを完了しない場合は懲戒処分となる可能性があります」という (C) が、その義務的な性質を明確にする文として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The training content will be very challenging.",
+          "B": "We will implement a new D&I policy next quarter.",
+          "C": "Please share your experiences and insights during the sessions.",
+          "D": "The training is not relevant to all departments."
+        },
+        "answer": "C",
+        "explanation": "イノベーションと成功に不可欠な多様で包容的な労働力であることを述べた後、「セッション中に皆様の経験や洞察を共有してください」という (C) が、トレーニングでの積極的な参加を促す文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We appreciate your commitment to building a diverse workplace.",
+          "B": "The HR department will be conducting interviews during May.",
+          "C": "Please do not record the training sessions.",
+          "D": "The training materials will be updated regularly."
+        },
+        "answer": "A",
+        "explanation": "質問があれば人事部に連絡するよう促した後、多様な職場を築くことへの貢献を感謝する「多様な職場を築くことへのご尽力に感謝いたします」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_031",
+    "content": "To: All Residents<br>From: Building Management<br>Subject: Notice of Planned Water Shut-Off<br><br>Please be advised that there will be a planned water shut-off for building maintenance on Thursday, June 5th, from 9:00 AM to 1:00 PM. This temporary interruption is necessary for essential plumbing repairs and to ensure the long-term integrity of our water system. We apologize for any ------- [1] this may cause.<br><br>During this period, all water supply to your units will be unavailable. We recommend filling bathtubs or buckets with water beforehand for essential needs such as flushing toilets. Please turn off all water faucets and appliances before the scheduled shut-off. ------- [2]<br><br>Our maintenance team will work diligently to restore water service as quickly as possible. Your patience and cooperation during this necessary maintenance are greatly appreciated. ------- [3] For any urgent inquiries, please contact the building management office. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "convenience",
+          "B": "benefit",
+          "C": "inconvenience",
+          "D": "advantage"
+        },
+        "answer": "C",
+        "explanation": "一時的な水の停止なので、居住者に「<strong>不便</strong>」を引き起こす可能性があります。 (C) 'inconvenience' が適切です。 (A) 'convenience' (便利), (B) 'benefit' (利益), (D) 'advantage' (利点) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "The water will be restored earlier than expected.",
+          "B": "Please do not use any water during the shut-off period.",
+          "C": "We will provide bottled water at the front desk.",
+          "D": "The shut-off only affects hot water."
+        },
+        "answer": "B",
+        "explanation": "水の停止中に、すべての水道の蛇口と電化製品を閉じるよう求めた後、「停止期間中は水を一切使用しないでください」という (B) が、さらなる指示として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "This is the first time we are performing this maintenance.",
+          "B": "We are still experiencing leaks in some units.",
+          "C": "Thank you for helping us maintain a reliable water system.",
+          "D": "The maintenance team will be available all day."
+        },
+        "answer": "C",
+        "explanation": "忍耐と協力が不可欠であると述べた後、「信頼性の高い水道システムを維持にご協力いただきありがとうございます」という (C) が、協力を感謝する文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We anticipate another water shut-off next month.",
+          "B": "The building management office is closed today.",
+          "C": "We hope this temporary measure ensures better service.",
+          "D": "Please report any water leaks after the restoration."
+        },
+        "answer": "C",
+        "explanation": "緊急の問い合わせ先を示した後、一時的な措置の目標について述べる「この一時的な措置がより良いサービスを確保することを願っております」という (C) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_032",
+    "content": "To: All Employees<br>From: HR Department<br>Subject: Reminder: Health Benefits Enrollment Period<br><br>This is a final reminder that the annual enrollment period for health benefits is ending on Friday, July 15th. This is your opportunity to review your current coverage and make any necessary changes or enroll in a new plan for the upcoming benefit year. Please act ------- [1] to ensure uninterrupted coverage.<br><br>Detailed information about all available plans, including summaries of benefits and costs, can be found on the HR portal. You can also compare plans and enroll online through the portal. Our HR representatives are available to assist you with any questions. ------- [2]<br><br>Choosing the right health plan is an important decision for you and your family. We encourage you to carefully consider all options before making your selection. ------- [3] Thank you for your attention to this important matter. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "slowly",
+          "B": "hesitantly",
+          "C": "promptly",
+          "D": "reluctantly"
+        },
+        "answer": "C",
+        "explanation": "継続的なカバレッジを確保するために、「<strong>迅速に</strong>」行動するよう促す文脈なので、(C) 'promptly' (迅速に) が適切です。 (A) 'slowly' (ゆっくりと), (B) 'hesitantly' (ためらって), (D) 'reluctantly' (しぶしぶ) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "The HR portal is currently undergoing maintenance.",
+          "B": "Please do not contact HR directly for enrollment.",
+          "C": "The enrollment process may take several hours.",
+          "D": "We will host a Q&A session next week to answer your questions."
+        },
+        "answer": "D",
+        "explanation": "HR担当者が質問に対応できると述べた後、「来週Q&Aセッションを開催し、皆様の質問にお答えします」という (D) が、さらなるサポート提供として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Your current plan will automatically renew.",
+          "B": "We will not be offering dental coverage this year.",
+          "C": "This is a mandatory enrollment for all employees.",
+          "D": "Please consult with a financial advisor if needed."
+        },
+        "answer": "D",
+        "explanation": "すべての選択肢を慎重に検討するよう促した後、「必要であれば、ファイナンシャルアドバイザーと相談してください」という (D) が、重要な決定を支援するアドバイスとして適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We expect a large number of enrollments.",
+          "B": "We hope you make the best decision for your family.",
+          "C": "The HR department is understaffed during this period.",
+          "D": "Please ignore this reminder if you have already enrolled."
+        },
+        "answer": "B",
+        "explanation": "この重要な件への注意を感謝する文の締めくくりとして、「ご家族にとって最良の決断をされることを願っております」という (B) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_033",
+    "content": "To: All Attendees<br>From: Event Management Team<br>Subject: Final Reminder: Annual Charity Gala<br><br>This is a final reminder for our Annual Charity Gala, to be held this Saturday, August 20th, at the Grand Hotel Ballroom. We are looking forward to a memorable evening of dining, entertainment, and fundraising for a worthy cause. Your attendance and support are ------- [1] to the success of this event.<br><br>Doors open at 6:00 PM for a cocktail reception, followed by dinner at 7:00 PM. We encourage formal attire for the evening. Please remember to bring your e-ticket for quick entry. Limited tickets are still available for purchase online. ------- [2]<br><br>All proceeds from the gala will directly benefit our chosen charity, 'Children's Hope Foundation,' supporting their educational programs. Your generosity makes a significant difference in the lives of many. ------- [3] We look forward to celebrating with you for a great cause. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "irrelevant",
+          "B": "optional",
+          "C": "crucial",
+          "D": "unnecessary"
+        },
+        "answer": "C",
+        "explanation": "イベントの成功に、参加者の出席と支援が「<strong>極めて重要</strong>」であるという意味の (C) 'crucial' が適切です。 (A) 'irrelevant' (無関係な), (B) 'optional' (任意の), (D) 'unnecessary' (不必要な) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "The event has been postponed to next month.",
+          "B": "Please do not share your e-ticket with others.",
+          "C": "The hotel has limited parking spaces.",
+          "D": "Tickets will not be sold at the door."
+        },
+        "answer": "D",
+        "explanation": "オンラインでチケットがまだ購入可能であると述べた後、会場では販売されないという「チケットは当日券として販売されません」という (D) が、参加者への具体的な情報として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The charity organization is facing financial difficulties.",
+          "B": "We are still seeking additional sponsors for the event.",
+          "C": "Your generosity enables us to expand our outreach programs.",
+          "D": "The entertainment lineup is subject to change without notice."
+        },
+        "answer": "C",
+        "explanation": "寄付が多くの人々の生活に大きな影響を与えることについて述べた後、「皆様の寛大さが、私たちの支援プログラムの拡大を可能にします」という (C) が、寄付の影響を強調する文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "Thank you for making a difference.",
+          "B": "Please arrive early to secure good seats.",
+          "C": "The gala will be broadcast live online.",
+          "D": "We hope to raise more funds next year."
+        },
+        "answer": "A",
+        "explanation": "素晴らしい目的のために皆さんと祝うことを楽しみにしているという文の締めくくりとして、「貢献していただきありがとうございます」という (A) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_034",
+    "content": "To: All Employees<br>From: IT Department<br>Subject: Cybersecurity Awareness Training<br><br>As part of our ongoing commitment to protecting company data and systems, we are launching a mandatory Cybersecurity Awareness Training program for all employees. This training is designed to educate you on best practices for online security and to help prevent potential cyber threats. Your completion of this training is ------- [1].<br><br>The online training module will be accessible through the company intranet starting Monday, September 5th. You are required to complete the module by Friday, September 30th. It will take approximately 60 minutes to finish. ------- [2]<br><br>A brief quiz will be administered at the end of the module to test your understanding. A passing score is required to fulfill the training requirement. We believe that a strong cybersecurity posture is a shared responsibility. ------- [3] For any technical issues, please contact the IT Help Desk. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "optional",
+          "B": "voluntary",
+          "C": "mandatory",
+          "D": "advisory"
+        },
+        "answer": "C",
+        "explanation": "会社のデータとシステムを保護するための取り組みの一環として、このトレーニングは「<strong>必須</strong>」です。 (C) 'mandatory' が適切です。 (A) 'optional' (任意の), (B) 'voluntary' (自発的な), (D) 'advisory' (助言的な) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "Failure to complete the training will result in disciplinary action.",
+          "B": "You can skip parts of the training if you are busy.",
+          "C": "The training will be conducted in person this year.",
+          "D": "The online module is only available during business hours."
+        },
+        "answer": "A",
+        "explanation": "モジュールを期日までに完了する必要があることを強調した後、「トレーニングを完了しない場合は懲戒処分となります」という (A) が、その義務的な性質を明確にする文として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The IT department is responsible for all cybersecurity.",
+          "B": "Your vigilance significantly reduces our risk of breaches.",
+          "C": "We will outsource our cybersecurity efforts next year.",
+          "D": "This training is only for new employees."
+        },
+        "answer": "B",
+        "explanation": "強力なサイバーセキュリティ体制は共通の責任であると述べた後、「皆様の警戒が、情報漏洩のリスクを大幅に低減します」という (B) が、従業員の役割の重要性を強調する文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We anticipate a significant reduction in cyber incidents.",
+          "B": "Please disregard this message if you are not an employee.",
+          "C": "The IT Help Desk will be closed on weekends.",
+          "D": "This training will be updated annually."
+        },
+        "answer": "A",
+        "explanation": "技術的な問題があればITヘルプデスクに連絡するよう促した後、トレーニングの目標について述べる「サイバーインシデントの大幅な減少を期待しております」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_035",
+    "content": "To: All Commuters<br>From: City Transit Authority<br>Subject: Temporary Bus Route Detour<br><br>Please be advised of a temporary detour affecting Bus Route 20B, effective Monday, October 10th, to Friday, October 14th. This detour is necessary due to road construction on Elm Street. We apologize for any ------- [1] this may cause to your travel.<br><br>During this period, buses on Route 20B will not serve the stops between Oak Avenue and Maple Street. Temporary bus stops will be clearly marked on Pine Avenue. Please refer to the updated route map on our website or at major bus stops. ------- [2]<br><br>We appreciate your patience and understanding as we work to improve our city's infrastructure. Our goal is to minimize disruption while ensuring the safety of our commuters. ------- [3] For real-time updates and further assistance, please visit our website or use our mobile app. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "convenience",
+          "B": "pleasure",
+          "C": "disruption",
+          "D": "satisfaction"
+        },
+        "answer": "C",
+        "explanation": "バスルートの迂回が旅行計画に「<strong>混乱</strong>」を引き起こす可能性があることについて謝罪しているので、(C) 'disruption' が適切です。 (A) 'convenience' (便利), (B) 'pleasure' (喜び), (D) 'satisfaction' (満足) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "The detour will be permanent.",
+          "B": "Please allow extra travel time during this period.",
+          "C": "Bus fares will be temporarily increased.",
+          "D": "Route 20B will be canceled for the entire week."
+        },
+        "answer": "B",
+        "explanation": "迂回があることを通知した後、「この期間中は余分な移動時間を確保してください」という (B) が、通勤者への具体的なアドバイスとして自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "We are still finalizing the construction schedule.",
+          "B": "The new bus stops are not yet fully accessible.",
+          "C": "Your timely feedback helps us improve our services.",
+          "D": "We recommend finding alternative transportation."
+        },
+        "answer": "C",
+        "explanation": "混乱を最小限に抑えつつ通勤者の安全を確保するという目標を述べた後、「皆様のタイムリーなフィードバックがサービスの改善に役立ちます」という (C) が、サービスの向上への貢献を促す文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We thank you for your understanding and continued support.",
+          "B": "The mobile app is currently under maintenance.",
+          "C": "Please contact us for individual route planning.",
+          "D": "Bus service will be suspended during peak hours."
+        },
+        "answer": "A",
+        "explanation": "リアルタイムの更新とさらなる支援のためにウェブサイトやアプリを利用するよう促した後、理解と継続的な支援を感謝する「皆様のご理解と継続的なご支援に感謝いたします」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_036",
+    "content": "To: All Members<br>From: Green Hills Golf Club<br>Subject: Course Maintenance Notice<br><br>Dear Members,<br><br>Please be informed that certain sections of the Green Hills Golf Club course will undergo essential maintenance from Monday, November 1st, to Friday, November 5th. This work is crucial for maintaining the high quality of our greens and fairways and ensuring an optimal playing ------- [1] for all members.<br><br>During this period, Holes 1 through 9 will be temporarily closed. Members are encouraged to use the back nine (Holes 10-18) during this time. We apologize for any ------- [2] this may cause to your golfing plans.<br><br>We understand the importance of having the course in top condition, and our grounds crew will work diligently to complete the maintenance as quickly as possible. ------- [3] We appreciate your understanding and continued patronage. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "obstacle",
+          "B": "hindrance",
+          "C": "experience",
+          "D": "difficulty"
+        },
+        "answer": "C",
+        "explanation": "コースの質を高く保ち、メンバーにとって最適な「<strong>プレー体験</strong>」を確保するためのメンテナンスです。 (C) 'experience' が適切です。 (A) 'obstacle' (障害), (B) 'hindrance' (妨げ), (D) 'difficulty' (困難) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "convenience",
+          "B": "disruption",
+          "C": "benefit",
+          "D": "pleasure"
+        },
+        "answer": "B",
+        "explanation": "ゴルフの計画に「<strong>混乱</strong>」を引き起こす可能性があることについて謝罪しているので、(B) 'disruption' が適切です。 (A) 'convenience' (便利), (C) 'benefit' (利益), (D) 'pleasure' (楽しみ) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The course will be closed for the entire month.",
+          "B": "Please do not use golf carts on the fairways.",
+          "C": "We will offer discounted rates during this period.",
+          "D": "The back nine will remain open during regular hours."
+        },
+        "answer": "D",
+        "explanation": "メンテナンスを迅速に完了するために努力すると述べた後、代替のプレーオプションに関する「バックナインは通常営業時間中に引き続きオープンします」という (D) が、メンバーに役立つ具体的な情報として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We look forward to seeing you on the improved course.",
+          "B": "The club will be hosting a tournament next week.",
+          "C": "Please submit your feedback on the course conditions.",
+          "D": "Membership fees will be increased next year."
+        },
+        "answer": "A",
+        "explanation": "理解と継続的な愛顧を感謝する文の締めくくりとして、「改善されたコースでお会いできることを楽しみにしております」という (A) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_037",
+    "content": "To: All Employees<br>From: IT Department<br>Subject: Reminder: Password Policy Update<br><br>This is an important reminder regarding our updated password policy, effective immediately. This policy is being implemented to enhance our overall cybersecurity posture and protect sensitive company data. All employees are required to review and ------- [1] to the new guidelines.<br><br>Key changes include a minimum password length of 12 characters, a requirement for at least one special character, and mandatory password changes every 90 days. You will be prompted to update your password upon your next login if it does not meet the new requirements. ------- [2]<br><br>We understand that these changes may require some adjustment, but your cooperation is vital in maintaining a secure digital environment for our organization. Failure to comply with the new policy may result in temporary account lockout. ------- [3] For any questions or technical assistance, please contact the IT Help Desk. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "ignore",
+          "B": "comply",
+          "C": "discard",
+          "D": "reject"
+        },
+        "answer": "B",
+        "explanation": "サイバーセキュリティ体制を強化し、機密データを保護するためのポリシーなので、すべての従業員が新しいガイドラインに「<strong>準拠する</strong>」必要があります。 (B) 'comply' (comply with: ～に従う) が適切です。 (A) 'ignore' (無視する), (C) 'discard' (捨てる), (D) 'reject' (拒否する) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "The old password policy will still be accepted for a month.",
+          "B": "Please do not write down your passwords.",
+          "C": "Our systems will automatically generate new passwords.",
+          "D": "The IT Help Desk will create your new password for you."
+        },
+        "answer": "B",
+        "explanation": "パスワードの要件について述べた後、セキュリティ上の助言として「パスワードを書き留めないでください」という (B) が、従業員に役立つ指示として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The IT department is responsible for all password resets.",
+          "B": "Your adherence strengthens our defense against cyberattacks.",
+          "C": "We will send individual reminders for password changes.",
+          "D": "This policy is subject to change without prior notice."
+        },
+        "answer": "B",
+        "explanation": "一時的なアカウントロックアウトの可能性を述べた後、ポリシー遵守の重要性として「皆様の順守がサイバー攻撃に対する私たちの防御を強化します」という (B) が適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We appreciate your vigilance in cybersecurity.",
+          "B": "The IT Help Desk will be closed on weekends.",
+          "C": "Please do not contact us about password issues.",
+          "D": "This policy will be reviewed next year."
+        },
+        "answer": "A",
+        "explanation": "質問や技術的な支援が必要な場合の連絡先を示した後、サイバーセキュリティへの警戒を感謝する「サイバーセキュリティにおける皆様の警戒に感謝いたします」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_038",
+    "content": "To: All Conference Participants<br>From: Organizers, Annual Innovation Summit<br>Subject: Welcome to the Innovation Summit!<br><br>Welcome to the Annual Innovation Summit, taking place from December 5th to 7th at the Metropolitan Convention Center! We are thrilled to host this gathering of leading minds and innovators from around the globe. We anticipate a highly engaging and insightful event. Please ensure your badges are visible at all times for easy ------- [1].<br><br>The full program, including session details, speaker profiles, and networking events, is available on our official summit app and website. We encourage you to plan your schedule in advance to make the most of your participation. A dedicated support team will be available on-site for any assistance. ------- [2]<br><br>We believe that this summit will provide unparalleled opportunities for learning, collaboration, and inspiration. Your active involvement in discussions and workshops is highly encouraged. ------- [3] Thank you for being a part of this transformative event. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "identification",
+          "B": "concealment",
+          "C": "obliteration",
+          "D": "disguise"
+        },
+        "answer": "A",
+        "explanation": "スムーズなアクセスを確保するために、バッジを常に見えるようにして「<strong>識別</strong>」できるようにする必要があります。 (A) 'identification' が適切です。 (B) 'concealment' (隠蔽), (C) 'obliteration' (消去), (D) 'disguise' (偽装) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "The summit app requires a paid subscription.",
+          "B": "Please report any suspicious activity to security.",
+          "C": "The convention center has limited Wi-Fi access.",
+          "D": "Printed copies of the program will not be available."
+        },
+        "answer": "B",
+        "explanation": "オンサイトのサポートチームが利用可能であると述べた後、セキュリティに関する「不審な活動があれば警備員に報告してください」という (B) が、参加者への具体的な指示として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The workshops are only for advanced participants.",
+          "B": "Please do not distribute promotional materials.",
+          "C": "Your insights and questions enrich the discussions.",
+          "D": "Networking events require separate registration."
+        },
+        "answer": "C",
+        "explanation": "学習、コラボレーション、インスピレーションのための比類のない機会であると述べた後、「皆様の洞察や質問が議論を豊かにします」という (C) が、積極的な参加を促す文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We hope you have a productive and inspiring summit.",
+          "B": "The summit will be held virtually next year.",
+          "C": "Please submit your feedback by end of day.",
+          "D": "The convention center is undergoing renovations."
+        },
+        "answer": "A",
+        "explanation": "この変革的なイベントの一部であることへの感謝の締めくくりとして、「生産的でインスピレーションに満ちたサミットになることを願っております」という (A) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_039",
+    "content": "To: All Department Supervisors<br>From: Management<br>Subject: New Employee Onboarding Process Update<br><br>Effective January 1st, we are implementing an updated onboarding process for all new employees. This new process is designed to provide a more comprehensive and engaging experience for our new hires, ensuring a smooth ------- [1] into their roles and our company culture.<br><br>Key enhancements include a standardized 3-day orientation program, a dedicated mentorship system, and access to an online onboarding portal with essential resources. Supervisors will receive a detailed guide on their roles and responsibilities in the new process next week. ------- [2]<br><br>Your active involvement in welcoming and supporting new team members is vital. We believe this enhanced onboarding will significantly improve employee retention and productivity. ------- [3] For any questions regarding this update, please contact the HR Department. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "disruption",
+          "B": "integration",
+          "C": "exclusion",
+          "D": "isolation"
+        },
+        "answer": "B",
+        "explanation": "新しい従業員が役割と会社文化に「<strong>円滑に統合</strong>」されることを確実にするためのプロセスです。 (B) 'integration' が適切です。 (A) 'disruption' (混乱), (C) 'exclusion' (排除), (D) 'isolation' (孤立) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "The old onboarding process will still be used for a month.",
+          "B": "Please do not contact new hires directly.",
+          "C": "We expect all supervisors to attend a training session.",
+          "D": "The online portal will only be accessible from the office."
+        },
+        "answer": "C",
+        "explanation": "スーパーバイザーが新しいプロセスでの役割と責任に関する詳細なガイドを受け取ると述べた後、「すべてのスーパーバイザーがトレーニングセッションに参加することを期待しています」という (C) が、システムの導入を支援する文として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "New employees will receive higher salaries.",
+          "B": "Your dedication helps new hires feel valued and supported.",
+          "C": "The HR department is facing a staffing shortage.",
+          "D": "The mentorship system is optional for new hires."
+        },
+        "answer": "B",
+        "explanation": "従業員の定着率と生産性が大幅に向上すると述べた後、「皆様の献身が、新しい従業員が評価され、支援されていると感じるのに役立ちます」という (B) が、協力の重要性を強調する文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We anticipate a positive impact on employee morale.",
+          "B": "The HR Department will be closed for the holidays.",
+          "C": "Please disregard this update if you are not a supervisor.",
+          "D": "This process will be reviewed annually."
+        },
+        "answer": "A",
+        "explanation": "質問があれば人事部に連絡するよう促した後、新しいプロセスの目標について述べる「従業員の士気に良い影響を与えることを期待しております」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_040",
+    "content": "To: All Researchers<br>From: Research Grant Office<br>Subject: Reminder: Grant Proposal Submission Deadline<br><br>This is a final reminder that the deadline for submitting research grant proposals for the upcoming fiscal year is Friday, February 28th. We encourage all researchers to submit innovative and impactful proposals that align with the institution's strategic research priorities. Your contributions are ------- [1] to advancing knowledge.<br><br>Please ensure your proposals are complete and adhere to all formatting and submission guidelines outlined on our website. Incomplete or late submissions will not be ------- [2]. We strongly advise submitting your proposal well in advance of the deadline to avoid any technical issues.<br><br>A review panel will assess all proposals, and funding decisions will be announced by April 15th. We appreciate your dedication to groundbreaking research and scholarly excellence. ------- [3] For any questions regarding the submission process, please contact the Research Grant Office. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "irrelevant",
+          "B": "detrimental",
+          "C": "essential",
+          "D": "optional"
+        },
+        "answer": "C",
+        "explanation": "知識の進歩に、研究者の貢献が「<strong>不可欠</strong>」であるという意味の (C) 'essential' が適切です。 (A) 'irrelevant' (無関係な), (B) 'detrimental' (有害な), (D) 'optional' (任意の) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "accepted",
+          "B": "reviewed",
+          "C": "returned",
+          "D": "considered"
+        },
+        "answer": "D",
+        "explanation": "提出期限が設定されており、遅延を避けるように促されているので、不完全な提出や遅延した提出は「<strong>考慮されない</strong>」という意味の (D) 'considered' (否定形 'not considered') が適切です。 (A) 'accepted' (受け入れられる), (B) 'reviewed' (レビューされる), (C) 'returned' (返却される) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The grant office is understaffed during this period.",
+          "B": "Please ensure all co-investigators have approved the proposal.",
+          "C": "Funding is limited, so competition will be high.",
+          "D": "We will provide individual feedback on all proposals."
+        },
+        "answer": "B",
+        "explanation": "期限より十分に早く提出することを強く推奨した後に、提案の完全性に関する「すべての共同研究者が提案を承認していることを確認してください」という (B) が、提出の準備に関する追加情報として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We wish you success in your research endeavors.",
+          "B": "The Research Grant Office is closed on weekends.",
+          "C": "Please do not contact the review panel directly.",
+          "D": "This grant cycle is the last one for this year."
+        },
+        "answer": "A",
+        "explanation": "質問があれば研究助成金オフィスに連絡するよう促した後、研究の成功を願う「皆様の研究活動の成功を祈っております」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_041",
+    "content": "To: All Employees<br>From: Facilities Department<br>Subject: Office Kitchen Renovation<br><br>Please be advised that the main office kitchen on the 3rd floor will undergo renovations starting Monday, March 10th, and is expected to be completed by Friday, March 21st. This renovation aims to create a more functional and pleasant space for all employees. We apologize for any ------- [1] this may cause during this period.<br><br>During the renovation, the kitchen will be completely inaccessible. We recommend bringing your own lunch or utilizing nearby cafes. Please ensure all personal items are removed from the kitchen area by Friday, March 7th. Any items left behind will be ------- [2].<br><br>We appreciate your cooperation and understanding as we work to improve our shared facilities. We believe the new kitchen will significantly enhance your break experiences. ------- [3] For urgent needs, temporary water dispensers will be available near the reception area on the 3rd floor. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "convenience",
+          "B": "advantage",
+          "C": "inconvenience",
+          "D": "benefit"
+        },
+        "answer": "C",
+        "explanation": "キッチンの改装中に「<strong>不便</strong>」が生じることについて謝罪しているので、(C) 'inconvenience' が適切です。 (A) 'convenience' (便利), (B) 'advantage' (利点), (D) 'benefit' (利益) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "returned",
+          "B": "stored",
+          "C": "discarded",
+          "D": "relocated"
+        },
+        "answer": "C",
+        "explanation": "期日までに個人物品を撤去しない場合、残された物品は「<strong>廃棄される</strong>」という意味の (C) 'discarded' が適切です。 (A) 'returned' (返却される), (B) 'stored' (保管される), (D) 'relocated' (移転される) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The renovation budget is very limited.",
+          "B": "The new kitchen will feature smart appliances.",
+          "C": "Please refrain from using the kitchen after hours.",
+          "D": "We encourage you to provide feedback on the new design."
+        },
+        "answer": "D",
+        "explanation": "新しいキッチンが休憩体験を大幅に向上させると信じていると述べた後、「新しいデザインについてフィードバックを提供することをお勧めします」という (D) が、従業員の関与を促す文として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We anticipate the project will be completed on time.",
+          "B": "Thank you for your understanding and flexibility.",
+          "C": "The Facilities Department will be closed for the renovation.",
+          "D": "Please bring your own water bottles."
+        },
+        "answer": "B",
+        "explanation": "緊急のニーズに対する情報を提供した後、理解と柔軟性への感謝を述べる「皆様のご理解と柔軟性に感謝いたします」という (B) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_042",
+    "content": "To: All Team Leaders<br>From: Project Management Office (PMO)<br>Subject: Mandatory Project Management Software Training<br><br>Effective April 1st, all new projects will be managed using our updated project management software, 'NexusPro'. To ensure a seamless transition and efficient project execution, mandatory training sessions for all team leaders will be held from March 17th to March 21st. Your participation is ------- [1].<br><br>These training sessions will cover the new features, best practices for project planning, task assignment, and progress tracking within NexusPro. Please register for a session through the PMO intranet portal by March 10th. Each session is approximately three hours long. ------- [2]<br><br>We believe NexusPro will significantly improve our project delivery capabilities and foster greater transparency. Your leadership in adopting this new tool is crucial for its success. ------- [3] For any questions regarding the training schedule or software functionalities, please contact the PMO Help Desk. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "optional",
+          "B": "voluntary",
+          "C": "compulsory",
+          "D": "discretionary"
+        },
+        "answer": "C",
+        "explanation": "スムーズな移行と効率的なプロジェクト実行を確実にするためのトレーニングなので、チームリーダーの参加は「<strong>義務的</strong>」です。 (C) 'compulsory' が適切です。 (A) 'optional' (任意の), (B) 'voluntary' (自発的な), (D) 'discretionary' (自由裁量の) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "Failure to complete the training will result in project delays.",
+          "B": "The training will be conducted remotely only.",
+          "C": "Please bring your own laptop to the training.",
+          "D": "The PMO intranet portal is currently offline."
+        },
+        "answer": "A",
+        "explanation": "各セッションが約3時間であることを述べた後、「トレーニングを完了しない場合、プロジェクトの遅延につながる可能性があります」という (A) が、トレーニングの重要性を強調する文として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "We will revert to the old software if issues arise.",
+          "B": "Your proactive use will set an example for your teams.",
+          "C": "The PMO is facing a budget cut next quarter.",
+          "D": "This software is only for large-scale projects."
+        },
+        "answer": "B",
+        "explanation": "NexusProがプロジェクトの成果を改善し、透明性を高めると信じていると述べた後、「皆様の積極的な使用がチームの手本となります」という (B) が、リーダーシップの役割を強調する文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We anticipate a significant improvement in project efficiency.",
+          "B": "The PMO Help Desk will be unavailable during training.",
+          "C": "Please submit your feedback on the new software.",
+          "D": "This software update is not relevant to all departments."
+        },
+        "answer": "A",
+        "explanation": "質問があればPMOヘルプデスクに連絡するよう促した後、ソフトウェアの目標について述べる「プロジェクト効率の大幅な改善を期待しております」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_043",
+    "content": "To: All Customers<br>From: Green Energy Solutions<br>Subject: Important Update: Solar Panel Installation Guidelines<br><br>Dear Valued Customer,<br><br>We are continuously striving to provide the best possible service for your solar energy needs. This notice provides important updates to our solar panel installation guidelines, effective May 1st. These revisions aim to ensure optimal performance and long-term durability of your solar energy system. Please review these guidelines ------- [1].<br><br>Key changes include updated specifications for panel angles and spacing to maximize energy capture, new requirements for electrical wiring to enhance safety, and revised maintenance recommendations. These updates are based on the latest industry standards and research. ------- [2]<br><br>Our certified technicians are fully trained on these new guidelines and will implement them for all new installations. For existing installations, we recommend scheduling a routine inspection to ensure compliance and efficiency. ------- [3] For any questions or to schedule an inspection, please contact our customer service team. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "casually",
+          "B": "carelessly",
+          "C": "thoroughly",
+          "D": "briefly"
+        },
+        "answer": "C",
+        "explanation": "最適な性能と長期的な耐久性を確保するために、顧客はガイドラインを「<strong>徹底的に</strong>」確認する必要があります。 (C) 'thoroughly' が適切です。 (A) 'casually' (何気なく), (B) 'carelessly' (不注意に), (D) 'briefly' (手短に) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "Our installation services are now more expensive.",
+          "B": "These guidelines are optional for some regions.",
+          "C": "We will provide a free consultation for system upgrades.",
+          "D": "Please ignore any previous installation manuals."
+        },
+        "answer": "C",
+        "explanation": "最新の業界標準と研究に基づいていると述べた後、「システムアップグレードのための無料相談を提供します」という (C) が、顧客にとって役立つ情報として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The old guidelines are still applicable for some systems.",
+          "B": "Our technicians are busy with new installations.",
+          "C": "Your adherence ensures the longevity of your solar system.",
+          "D": "We are no longer offering maintenance services."
+        },
+        "answer": "C",
+        "explanation": "既存の設置について定期検査を推奨した後、「皆様の順守がソーラーシステムの寿命を確実にします」という (C) が、顧客の行動の重要性を強調する文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We anticipate a significant increase in energy efficiency.",
+          "B": "Our customer service team is available 24/7.",
+          "C": "Please submit your feedback on the new guidelines.",
+          "D": "The cost of solar panels has recently decreased."
+        },
+        "answer": "A",
+        "explanation": "質問や検査の予約について連絡するよう促した後、エネルギー効率の向上を期待する「エネルギー効率の大幅な向上を期待しております」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_044",
+    "content": "To: All Participants<br>From: Downtown Marathon Committee<br>Subject: Important Race Day Information<br><br>Dear Participants,<br><br>The Downtown Marathon is just around the corner! We are excited to welcome thousands of runners to this year's event on Saturday, July 20th. This notice provides important information to ensure a smooth and enjoyable race day for everyone. Please read carefully and prepare ------- [1].<br><br>Packet pickup will be available at the Expo Center on Friday, July 19th, from 10:00 AM to 6:00 PM. Please bring a valid ID and your registration confirmation. Race day morning, roads around the start line will be closed from 6:00 AM. We recommend arriving early and using public transportation. ------- [2]<br><br>Water stations and medical aid tents will be available along the course. Remember to stay hydrated and listen to your body. Your safety is our top priority. ------- [3] We look forward to cheering you on at the finish line! ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "carelessly",
+          "B": "accordingly",
+          "C": "hesitantly",
+          "D": "reluctantly"
+        },
+        "answer": "B",
+        "explanation": "スムーズで楽しいレースデーを確保するための重要な情報なので、参加者は「<strong>それに応じて</strong>」準備する必要があります。 (B) 'accordingly' が適切です。 (A) 'carelessly' (不注意に), (C) 'hesitantly' (ためらって), (D) 'reluctantly' (しぶしぶ) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "Parking will be abundant near the start line.",
+          "B": "The race will start exactly at 7:00 AM.",
+          "C": "Shuttle services will be available from designated parking areas.",
+          "D": "Please bring your own water bottles."
+        },
+        "answer": "C",
+        "explanation": "公共交通機関の利用を推奨した後、「指定された駐車場からシャトルサービスが利用可能です」という (C) が、アクセスに関する追加情報として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The marathon course has been shortened this year.",
+          "B": "Please do not litter along the race course.",
+          "C": "We will provide a detailed weather forecast for race day.",
+          "D": "Medical aid tents will only treat serious injuries."
+        },
+        "answer": "B",
+        "explanation": "水分補給を怠らず、体に耳を傾けるように促した後に、「レースコース沿いにゴミを捨てないでください」という (B) が、環境への配慮に関する指示として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "Thank you for being a part of this amazing event.",
+          "B": "The finish line will be closed early.",
+          "C": "Please submit your race results by Monday.",
+          "D": "We will not be providing finisher medals this year."
+        },
+        "answer": "A",
+        "explanation": "フィニッシュラインで応援することを楽しみにしているという文の締めくくりとして、「この素晴らしいイベントに参加していただきありがとうございます」という (A) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_045",
+    "content": "To: All Board Members<br>From: Board Secretary<br>Subject: Reminder: Upcoming Board Meeting<br><br>This is a reminder of our upcoming Board of Directors meeting, scheduled for Wednesday, August 14th, at 10:00 AM in the Main Conference Room. Your presence and active participation are highly ------- [1] as we discuss critical strategic initiatives for the upcoming fiscal year.<br><br>The agenda and supporting documents have been distributed via email. Please review these materials in advance of the meeting to facilitate a productive discussion. If you have any new items for discussion, please submit them to the Board Secretary by August 7th. ------- [2]<br><br>We anticipate a comprehensive discussion on our financial performance, market expansion plans, and new product development. Your insights are invaluable to our collective decision-making process. ------- [3] We look forward to a fruitful meeting. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "optional",
+          "B": "unnecessary",
+          "C": "valued",
+          "D": "discouraged"
+        },
+        "answer": "C",
+        "explanation": "次期会計年度の重要な戦略的イニシアチブを議論するため、取締役会メンバーの存在と積極的な参加が「<strong>高く評価される</strong>」という意味の (C) 'valued' が適切です。 (A) 'optional' (任意の), (B) 'unnecessary' (不必要な), (D) 'discouraged' (落胆させる) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "Late submissions will be accepted if urgent.",
+          "B": "Please bring hard copies of the documents.",
+          "C": "The meeting will be livestreamed for remote members.",
+          "D": "The Board Secretary will be on leave next week."
+        },
+        "answer": "D",
+        "explanation": "新しい議題を期日までに提出するよう求めた後、「取締役会の秘書は来週休暇を取ります」という (D) が、コミュニケーションのタイミングに関する情報として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "We will only discuss past performance during the meeting.",
+          "B": "Please keep your comments brief during the discussion.",
+          "C": "Your active participation helps shape our future direction.",
+          "D": "The meeting agenda is subject to change at short notice."
+        },
+        "answer": "C",
+        "explanation": "洞察が集合的な意思決定プロセスにとって貴重であると述べた後、「皆様の積極的な参加が私たちの将来の方向性を形作るのに役立ちます」という (C) が、ボードメンバーの貢献を強調する文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We appreciate your continued leadership.",
+          "B": "The Main Conference Room is undergoing renovation.",
+          "C": "Please disregard this reminder if you cannot attend.",
+          "D": "The next board meeting will be held in two months."
+        },
+        "answer": "A",
+        "explanation": "実り多い会議を楽しみにしているという文の締めくくりとして、「皆様の継続的なリーダーシップに感謝いたします」という (A) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_046",
+    "content": "To: All Employees<br>From: HR Department<br>Subject: Reminder: Annual Employee Survey<br><br>This is a final reminder that our annual Employee Engagement Survey is closing on Friday, September 27th. Your feedback is invaluable as it helps us understand your experiences, identify areas for improvement, and create a more positive and productive work environment. We encourage all employees to ------- [1] in this important survey.<br><br>The survey is completely anonymous and confidential. It takes approximately 15-20 minutes to complete. You can access the survey link on the company intranet. Your honest and thoughtful responses are greatly appreciated. ------- [2]<br><br>The results of the survey will be carefully reviewed by management, and actionable plans will be developed based on your input. This is your opportunity to have your voice heard and contribute to positive change within our organization. ------- [3] Thank you for your participation and commitment to making our company a better place to work. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "refrain",
+          "B": "abstain",
+          "C": "participate",
+          "D": "withdraw"
+        },
+        "answer": "C",
+        "explanation": "よりポジティブで生産的な職場環境を作るために、すべての従業員がこの重要な調査に「<strong>参加する</strong>」ことを奨励しています。 (C) 'participate' が適切です。 (A) 'refrain' (控える), (B) 'abstain' (棄権する), (D) 'withdraw' (撤回する) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "The survey results will be shared publicly.",
+          "B": "Please do not share the survey link with external parties.",
+          "C": "The intranet is experiencing technical difficulties.",
+          "D": "Only employees who complete the survey will receive a bonus."
+        },
+        "answer": "B",
+        "explanation": "調査が匿名で機密であると述べた後、その性質を維持するために「調査リンクを外部の者と共有しないでください」という (B) が、従業員への指示として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The survey results may lead to negative changes.",
+          "B": "We will provide individual feedback based on your responses.",
+          "C": "Your voice directly influences our company's future initiatives.",
+          "D": "The survey is designed to identify underperforming employees."
+        },
+        "answer": "C",
+        "explanation": "声が聞かれ、組織内のポジティブな変化に貢献する機会であると述べた後、「皆様の声が当社の将来のイニシアチブに直接影響を与えます」という (C) が、参加の重要性を強調する文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We anticipate a high response rate.",
+          "B": "The HR department is currently understaffed.",
+          "C": "Please expect the results to be published next quarter.",
+          "D": "Thank you for helping us create a better workplace."
+        },
+        "answer": "D",
+        "explanation": "会社をより良い職場にするための参加と貢献を感謝する文の締めくくりとして、「より良い職場作りにご協力いただきありがとうございます」という (D) が適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_047",
+    "content": "To: All Residents<br>From: Building Management<br>Subject: Important: Elevator Maintenance Schedule<br><br>Please be advised of an upcoming schedule for elevator maintenance in Building A and Building B. This essential maintenance is required to ensure the continued safe and efficient operation of all elevators. We apologize for any ------- [1] this may cause.<br><br>The maintenance will take place in Building A from Monday, October 14th, to Wednesday, October 16th, and in Building B from Thursday, October 17th, to Saturday, October 19th. During these periods, elevators in the respective buildings will be temporarily ------- [2].<br><br>Residents are advised to use the stairs during the maintenance periods. Please allow extra time for commuting. We appreciate your understanding and cooperation as we work to maintain our building's infrastructure. ------- [3] For any urgent inquiries, please contact the building management office. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "convenience",
+          "B": "benefit",
+          "C": "inconvenience",
+          "D": "advantage"
+        },
+        "answer": "C",
+        "explanation": "エレベーターのメンテナンスにより「<strong>不便</strong>」が生じることについて謝罪しているので、(C) 'inconvenience' が適切です。 (A) 'convenience' (便利), (B) 'benefit' (利益), (D) 'advantage' (利点) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "operational",
+          "B": "unavailable",
+          "C": "expanded",
+          "D": "restored"
+        },
+        "answer": "B",
+        "explanation": "メンテナンス中はエレベーターが一時的に「<strong>利用できなくなる</strong>」という意味の (B) 'unavailable' が適切です。 (A) 'operational' (稼働中), (C) 'expanded' (拡張された), (D) 'restored' (復元された) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The maintenance schedule may be extended.",
+          "B": "Please do not use the elevators during these times.",
+          "C": "We will provide alternative transportation options.",
+          "D": "The building management office is closed on weekends."
+        },
+        "answer": "B",
+        "explanation": "階段の利用を促した後に、「これらの時間帯はエレベーターを使用しないでください」という (B) が、安全上の指示として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We anticipate a smooth completion of the maintenance.",
+          "B": "Thank you for your patience and flexibility.",
+          "C": "Please report any elevator malfunctions immediately.",
+          "D": "The next maintenance will be in six months."
+        },
+        "answer": "B",
+        "explanation": "緊急の問い合わせ先を示した後、理解と柔軟性への感謝を述べる「皆様の忍耐と柔軟性に感謝いたします」という (B) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_048",
+    "content": "To: All Employees<br>From: Management<br>Subject: New Recycling Program Launch<br><br>We are pleased to announce the launch of our new company-wide recycling program, effective November 1st. This initiative is part of our commitment to environmental sustainability and aims to significantly reduce our ecological footprint. Your active ------- [1] in this program is highly encouraged.<br><br>New recycling bins for paper, plastic, and glass will be placed in all common areas and kitchenettes. Please refer to the detailed guidelines posted near each bin for proper waste segregation. Training sessions on the new recycling protocols will be offered next week. ------- [2]<br><br>We believe that every small action contributes to a larger impact, and your effort in proper recycling will make a significant difference. Together, we can create a greener and more sustainable workplace. ------- [3] For any questions about the program, please contact the Facilities Department. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "resistance",
+          "B": "ignorance",
+          "C": "participation",
+          "D": "disregard"
+        },
+        "answer": "C",
+        "explanation": "環境の持続可能性への取り組みの一環として、このプログラムへの「<strong>積極的な参加</strong>」が奨励されています。 (C) 'participation' が適切です。 (A) 'resistance' (抵抗), (B) 'ignorance' (無知), (D) 'disregard' (無視) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "The training is mandatory for all employees.",
+          "B": "Please do not use personal recycling containers.",
+          "C": "The Facilities Department will handle all waste sorting.",
+          "D": "We will only recycle paper for now."
+        },
+        "answer": "A",
+        "explanation": "新しいリサイクルプロトコルに関するトレーニングセッションが提供されると述べた後、「トレーニングは全従業員に義務付けられています」という (A) が、プログラムへの真剣な取り組みを示す文として自然です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The cost of recycling has increased significantly.",
+          "B": "Your diligence in sorting waste makes a tangible difference.",
+          "C": "We will soon reduce the number of waste bins.",
+          "D": "This program is a temporary initiative."
+        },
+        "answer": "B",
+        "explanation": "より環境に優しく持続可能な職場を作るために、すべての小さな行動が大きな影響を与えるという信念を述べた後、「廃棄物の分別における皆様の勤勉さが、具体的な違いを生み出します」という (B) が、従業員の行動の重要性を強調する文として適切です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We anticipate a significant reduction in landfill waste.",
+          "B": "The Facilities Department will be closed next month.",
+          "C": "Please submit your suggestions for future green initiatives.",
+          "D": "Thank you for your commitment to sustainability."
+        },
+        "answer": "D",
+        "explanation": "質問があれば施設部に連絡するよう促した後、持続可能性への貢献を感謝する「持続可能性へのご尽力に感謝いたします」という (D) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_049",
+    "content": "To: All Job Seekers<br>From: CareerLink Services<br>Subject: Boost Your Job Search with Our Free Workshop<br><br>Are you looking to enhance your job search skills? CareerLink Services is offering a free workshop, 'Mastering the Job Interview,' on Saturday, December 10th, from 10:00 AM to 12:00 PM at our Downtown Office. This workshop is designed to equip you with essential strategies and tips to confidently ------- [1] your next interview.<br><br>Topics will include effective communication techniques, common interview questions, strategies for answering behavioral questions, and professional follow-up. Our experienced career coaches will lead the session, providing valuable insights and personalized feedback. Spaces are limited, so early registration is highly ------- [2].<br><br>This is a fantastic opportunity to sharpen your interview skills and boost your confidence in today's competitive job market. We are committed to supporting your career success. ------- [3] To register, please visit our website or call us at 555-4321. ------- [4]<br>",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "avoid",
+          "B": "fail",
+          "C": "approach",
+          "D": "dread"
+        },
+        "answer": "C",
+        "explanation": "自信を持って次の面接に「<strong>臨む</strong>」ための戦略とヒントを提供することを目的としたワークショップです。 (C) 'approach' が適切です。 (A) 'avoid' (避ける), (B) 'fail' (失敗する), (D) 'dread' (恐れる) は不適切です。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "discouraged",
+          "B": "unnecessary",
+          "C": "recommended",
+          "D": "forbidden"
+        },
+        "answer": "C",
+        "explanation": "スペースが限られているので、早期登録が「<strong>強く推奨される</strong>」という意味の (C) 'recommended' が適切です。 (A) 'discouraged' (落胆させる), (B) 'unnecessary' (不必要な), (D) 'forbidden' (禁止された) は不適切です。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "Our career coaches are unavailable for individual consultations.",
+          "B": "We guarantee a job offer after attending this workshop.",
+          "C": "Please come prepared with questions and a copy of your resume.",
+          "D": "The workshop will focus on resume writing only."
+        },
+        "answer": "C",
+        "explanation": "面接スキルを磨き、自信を高める素晴らしい機会であると述べた後、「質問と履歴書のコピーを準備してきてください」という (C) が、ワークショップへの積極的な参加を促す文として自然です。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "We look forward to helping you succeed.",
+          "B": "The Downtown Office will be closed next week.",
+          "C": "Please disregard this notice if you are currently employed.",
+          "D": "This workshop will be repeated every month."
+        },
+        "answer": "A",
+        "explanation": "登録を促した後、キャリアの成功を支援することを楽しみにしているという「皆様の成功を支援することを楽しみにしています」という (A) が、締めくくりの言葉として適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p6_600_050",
+    "content": "To: All Staff<br>From: Human Resources Department<br>Subject: New Online Time-Tracking System<br><br>Dear Employees,<br><br>This memo is to inform you that we will be ------- [1] a new online time-tracking system, effective Monday, July 1st. This new system, \"TimePro,\" will replace the current paper-based timesheets. All employees will be required to use TimePro to record their work hours.<br><br>The new system is designed to be more efficient and user-friendly. It will ------- [2] allow for more accurate payroll processing and give you easier access to your own work records. We understand that a new system requires some adjustment. ------- [3] Detailed instructions and a link to the login page will be sent to your email address next week.<br><br>Should you have any immediate questions, please contact the IT Help Desk. ------- [4] We appreciate your cooperation in this important transition.\n",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "[1]",
+        "options": {
+          "A": "developing",
+          "B": "purchasing",
+          "C": "implementing",
+          "D": "canceling"
+        },
+        "answer": "C",
+        "explanation": "新しい勤怠管理システムを「<strong>導入する</strong>」ことを知らせる文脈です。そのため、(C) 'implementing' が最も適切です。(A) 'developing' (開発する), (B) 'purchasing' (購入する), (D) 'canceling' (中止する) は文脈に合いません。"
+      },
+      {
+        "id": "q2",
+        "problem": "[2]",
+        "options": {
+          "A": "also",
+          "B": "never",
+          "C": "seldom",
+          "D": "yet"
+        },
+        "answer": "A",
+        "explanation": "新システムの利点を追加で述べている文脈です。「より正確な給与処理を可能にし、<strong>また</strong>、自身の勤務記録へのアクセスも容易になります」という意味をつなぐ (A) 'also' が適切です。(B) 'never' (決して〜ない), (C) 'seldom' (めったに〜ない), (D) 'yet' (しかし) は文意が通じません。"
+      },
+      {
+        "id": "q3",
+        "problem": "[3]",
+        "options": {
+          "A": "The old system was very popular among employees.",
+          "B": "Therefore, we will hold training sessions next Friday.",
+          "C": "All employees must purchase their own computers.",
+          "D": "The system will be offline during the weekend."
+        },
+        "answer": "B",
+        "explanation": "「新しいシステムには多少の慣れが必要です」という前文を受けて、その解決策を示す文が入るのが自然です。(B)「そのため、来週の金曜日にトレーニングセッションを開催します」が、従業員の不安を和らげ、具体的なサポートを示すため最も適切な文となります。"
+      },
+      {
+        "id": "q4",
+        "problem": "[4]",
+        "options": {
+          "A": "Please remember to submit your paper timesheets.",
+          "B": "The IT Help Desk is currently closed for renovation.",
+          "C": "We trust that you will find the new system beneficial.",
+          "D": "Further details about the system's features will be provided later."
+        },
+        "answer": "C",
+        "explanation": "ITヘルプデスクへの問い合わせを案内した後、協力に感謝する前の締めくくりの一文です。(C)「新しいシステムが有益であると皆様に感じていただけると信じています」は、システムの導入を前向きに締めくくる言葉として最も適切です。(A)はメモの内容と矛盾し、(B)は直前の文と矛盾します。"
       }
     ]
   }

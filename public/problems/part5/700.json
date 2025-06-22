@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "p5_700_001",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company's profits have increased ___ since the new marketing strategy was implemented.",
+        "options": {
+          "A": "significant",
+          "B": "signify",
+          "C": "significantly",
+          "D": "significance"
+        },
+        "answer": "C",
+        "explanation": "動詞句 'have increased' を修飾するのは副詞です。したがって、「著しく」という意味の (C) 'significantly' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_002",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Ms. Albright is considered the most ___ candidate for the management position.",
+        "options": {
+          "A": "qualify",
+          "B": "qualified",
+          "C": "qualifies",
+          "D": "qualification"
+        },
+        "answer": "B",
+        "explanation": "名詞 'candidate' を修飾するのは形容詞です。「適任の、資格のある」という意味の過去分詞形容詞 (B) 'qualified' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_003",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ the project was challenging, the team managed to complete it ahead of schedule.",
+        "options": {
+          "A": "Despite",
+          "B": "However",
+          "C": "Moreover",
+          "D": "Although"
+        },
+        "answer": "D",
+        "explanation": "空所の後が節（主語+動詞）であり、文脈が逆接（困難だったが、予定より早く終えた）なので、接続詞の (D) 'Although' が正解です。'Despite' は前置詞なので後ろに名詞句が続きます。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_004",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "All employees are required to comply ___ the company's safety regulations.",
+        "options": {
+          "A": "to",
+          "B": "with",
+          "C": "for",
+          "D": "in"
+        },
+        "answer": "B",
+        "explanation": "'comply with' は「（規則・要求などに）従う、応じる」という意味の定型表現（句動詞）です。したがって、(B) 'with' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_005",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The seminar on investment strategies was extremely ___.",
+        "options": {
+          "A": "benefit",
+          "B": "beneficial",
+          "C": "beneficiary",
+          "D": "beneficially"
+        },
+        "answer": "B",
+        "explanation": "be動詞 'was' の補語になるのは形容詞です。したがって、「有益な」という意味の (B) 'beneficial' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_006",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new software allows our team to work more ___.",
+        "options": {
+          "A": "efficient",
+          "B": "efficiency",
+          "C": "efficiently",
+          "D": "efficiencies"
+        },
+        "answer": "C",
+        "explanation": "動詞 'work' を修飾するのは副詞です。したがって、「効率的に」という意味の (C) 'efficiently' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_007",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The shipment was delayed ___ unforeseen circumstances at the port.",
+        "options": {
+          "A": "because",
+          "B": "since",
+          "C": "due to",
+          "D": "as"
+        },
+        "answer": "C",
+        "explanation": "空所の後ろが名詞句 'unforeseen circumstances' なので、前置詞句の (C) 'due to' (～が原因で) が正解です。'because' などは接続詞なので後ろに節（主語+動詞）が続きます。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_008",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "We need to find a permanent ___ to the recurring IT problem.",
+        "options": {
+          "A": "solution",
+          "B": "solve",
+          "C": "solvable",
+          "D": "solving"
+        },
+        "answer": "A",
+        "explanation": "冠詞 'a' と形容詞 'permanent' の後には名詞が必要です。したがって、「解決策」という意味の名詞 (A) 'solution' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_009",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The marketing director is responsible for ___ the new advertising campaign.",
+        "options": {
+          "A": "oversee",
+          "B": "overseeing",
+          "C": "oversaw",
+          "D": "overseen"
+        },
+        "answer": "B",
+        "explanation": "前置詞 'for' の後には動名詞が続くため、(B) 'overseeing' (監督すること) が正解です。'be responsible for -ing' で「～する責任がある」という意味です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_010",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The workshop is designed for ___ who are new to project management.",
+        "options": {
+          "A": "that",
+          "B": "these",
+          "C": "those",
+          "D": "this"
+        },
+        "answer": "C",
+        "explanation": "関係代名詞 'who' の前に来て「～な人々」という意味を表す代名詞は (C) 'those' です。'those who ...' は定型表現です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_011",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "All technical staff are required to attend the mandatory safety ___.",
+        "options": {
+          "A": "trained",
+          "B": "trains",
+          "C": "trainer",
+          "D": "training"
+        },
+        "answer": "D",
+        "explanation": "名詞 'safety' の後ろで、複合名詞 'safety training' (安全研修) を作る名詞が必要です。したがって、(D) 'training' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_012",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The CEO's ___ in the project was crucial for its success.",
+        "options": {
+          "A": "involve",
+          "B": "involvement",
+          "C": "involved",
+          "D": "involving"
+        },
+        "answer": "B",
+        "explanation": "所有格 'CEO's' の後には名詞が必要です。したがって、「関与、参加」という意味の名詞 (B) 'involvement' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_013",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Please submit your expense reports by Friday; ___, they will not be processed until next week.",
+        "options": {
+          "A": "otherwise",
+          "B": "therefore",
+          "C": "in addition",
+          "D": "for example"
+        },
+        "answer": "A",
+        "explanation": "文脈から「金曜までに提出してください。さもなければ、来週まで処理されません」という意味になるのが自然です。「さもなければ」を意味する副詞 (A) 'otherwise' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_014",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The board of directors is scheduled to ___ a decision on the merger next Monday.",
+        "options": {
+          "A": "announce",
+          "B": "announces",
+          "C": "announcing",
+          "D": "announcement"
+        },
+        "answer": "A",
+        "explanation": "to不定詞 'to' の後には動詞の原形が続くため、(A) 'announce' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_015",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new machinery has made the manufacturing process much more ___.",
+        "options": {
+          "A": "produce",
+          "B": "productive",
+          "C": "productively",
+          "D": "production"
+        },
+        "answer": "B",
+        "explanation": "'make + O + C' の第5文型で、目的語 'the manufacturing process' の状態を説明する補語(C)が必要です。補語には形容詞が入るため、「生産的な」という意味の (B) 'productive' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_016",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "We have ___ confidence in Ms. Ito's ability to lead the team.",
+        "options": {
+          "A": "absolute",
+          "B": "absolutely",
+          "C": "absolution",
+          "D": "absolve"
+        },
+        "answer": "A",
+        "explanation": "名詞 'confidence' を修飾するのは形容詞です。したがって、「絶対的な」という意味の (A) 'absolute' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_017",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "You can find more detailed information ___ our products in the attached brochure.",
+        "options": {
+          "A": "regarding",
+          "B": "regardless",
+          "C": "regarded",
+          "D": "regards"
+        },
+        "answer": "A",
+        "explanation": "「～に関して」という意味で、'about' と同様に使える前置詞は (A) 'regarding' です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_018",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The hotel offers a wide range of facilities, ___ a gym and an indoor swimming pool.",
+        "options": {
+          "A": "includes",
+          "B": "included",
+          "C": "including",
+          "D": "inclusion"
+        },
+        "answer": "C",
+        "explanation": "「～を含めて」という具体例を挙げる際に使われる前置詞は (C) 'including' です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_019",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company has decided to ___ its efforts on expanding into the Asian market.",
+        "options": {
+          "A": "concentrate",
+          "B": "concentration",
+          "C": "concentrated",
+          "D": "concentrates"
+        },
+        "answer": "A",
+        "explanation": "to不定詞 'to' の後には動詞の原形が続くため、「集中させる」という意味の (A) 'concentrate' が正解です。'concentrate on' で「～に集中する」となります。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_020",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The success of this project is ___ dependent on teamwork.",
+        "options": {
+          "A": "heavy",
+          "B": "heavily",
+          "C": "heaviness",
+          "D": "heavier"
+        },
+        "answer": "B",
+        "explanation": "形容詞 'dependent' を修飾するのは副詞です。したがって、「大いに、非常に」という意味の (B) 'heavily' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_021",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Dr. Miller is an ___ authority on international trade law.",
+        "options": {
+          "A": "established",
+          "B": "establishing",
+          "C": "establishes",
+          "D": "establishment"
+        },
+        "answer": "A",
+        "explanation": "名詞 'authority' を修飾するのは形容詞です。「確立された、定評のある」という意味の過去分詞形容詞 (A) 'established' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_022",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ of the two proposed designs meets the client's requirements.",
+        "options": {
+          "A": "Either",
+          "B": "All",
+          "C": "Both",
+          "D": "Some"
+        },
+        "answer": "A",
+        "explanation": "動詞が単数形の 'meets' であり、対象が 'two' (2つ) なので、「どちらか一方」を意味する (A) 'Either' が正解です。'Both' の場合は動詞が複数形になります。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_023",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new policy will be ___ from the beginning of next month.",
+        "options": {
+          "A": "effect",
+          "B": "effective",
+          "C": "effectively",
+          "D": "effectiveness"
+        },
+        "answer": "B",
+        "explanation": "be動詞 'be' の補語になるのは形容詞です。したがって、「有効な、効力がある」という意味の (B) 'effective' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_024",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The manager asked for a brief ___ of the quarterly sales figures.",
+        "options": {
+          "A": "summarize",
+          "B": "summary",
+          "C": "summarized",
+          "D": "summarizing"
+        },
+        "answer": "B",
+        "explanation": "冠詞 'a' と形容詞 'brief' の後には名詞が必要です。したがって、「要約」という意味の名詞 (B) 'summary' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_025",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The renovations to the lobby are expected ___ completed by the end of the year.",
+        "options": {
+          "A": "be",
+          "B": "to be",
+          "C": "being",
+          "D": "have been"
+        },
+        "answer": "B",
+        "explanation": "'expect to do' (～する予定である) の受動態は 'be expected to do' となります。したがって、(B) 'to be' が入り、'are expected to be completed' で「完了する予定である」という意味になります。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_026",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The museum is easily ___ by public transportation.",
+        "options": {
+          "A": "access",
+          "B": "accessible",
+          "C": "accessing",
+          "D": "accessibility"
+        },
+        "answer": "B",
+        "explanation": "be動詞 'is' と副詞 'easily' の後には、補語となる形容詞が入ります。したがって、「アクセスしやすい、到達できる」という意味の (B) 'accessible' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_027",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "We offer a ___ warranty on all our electronic products.",
+        "options": {
+          "A": "comprehend",
+          "B": "comprehensive",
+          "C": "comprehensibly",
+          "D": "comprehension"
+        },
+        "answer": "B",
+        "explanation": "名詞 'warranty' を修飾するのは形容詞です。したがって、「包括的な、総合的な」という意味の (B) 'comprehensive' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_028",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The meeting has been postponed ___ further notice.",
+        "options": {
+          "A": "by",
+          "B": "since",
+          "C": "while",
+          "D": "until"
+        },
+        "answer": "D",
+        "explanation": "'until further notice' は「追って通知があるまで」という意味の定型表現です。したがって、(D) 'until' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_029",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The construction of the new bridge will ___ next spring.",
+        "options": {
+          "A": "commence",
+          "B": "commences",
+          "C": "commenced",
+          "D": "commencement"
+        },
+        "answer": "A",
+        "explanation": "助動詞 'will' の後には動詞の原形が続くため、「始まる」という意味の (A) 'commence' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_030",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The changes to the work schedule were not ___ received by the employees.",
+        "options": {
+          "A": "favor",
+          "B": "favorable",
+          "C": "favorably",
+          "D": "favorite"
+        },
+        "answer": "C",
+        "explanation": "過去分詞 'received' を修飾するのは副詞です。したがって、「好意的に」という意味の (C) 'favorably' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_031",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The manual provides a detailed ___ of the new software's features.",
+        "options": {
+          "A": "describe",
+          "B": "describes",
+          "C": "descriptive",
+          "D": "description"
+        },
+        "answer": "D",
+        "explanation": "冠詞 'a' と形容詞 'detailed' の後には名詞が必要です。したがって、「説明」という意味の名詞 (D) 'description' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_032",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "This promotional offer is valid ___ for online purchases.",
+        "options": {
+          "A": "exclusive",
+          "B": "exclusively",
+          "C": "excluded",
+          "D": "exclusion"
+        },
+        "answer": "B",
+        "explanation": "形容詞 'valid' を修飾するのは副詞です。したがって、「～限定で、もっぱら」という意味の (B) 'exclusively' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_033",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The finance department is responsible for ___ the company's budget.",
+        "options": {
+          "A": "manage",
+          "B": "management",
+          "C": "managing",
+          "D": "managerial"
+        },
+        "answer": "C",
+        "explanation": "前置詞 'for' の目的語として、「～を管理すること」という動名詞が必要です。したがって、(C) 'managing' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_034",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "A full ___ of the conference schedule is available on our website.",
+        "options": {
+          "A": "itinerary",
+          "B": "itinerant",
+          "C": "itinerate",
+          "D": "itinerantly"
+        },
+        "answer": "A",
+        "explanation": "冠詞 'a' と形容詞 'full' の後には名詞が必要です。したがって、「旅程、予定表」という意味の名詞 (A) 'itinerary' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_035",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company's decision to relocate was based on several ___ factors.",
+        "options": {
+          "A": "economy",
+          "B": "economize",
+          "C": "economic",
+          "D": "economically"
+        },
+        "answer": "C",
+        "explanation": "名詞 'factors' を修飾するのは形容詞です。「経済的な」という意味の (C) 'economic' が正解です。'economical' は「経済的な、お得な」という意味で、文脈に合いません。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_036",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The organizers of the event are not responsible for any personal belongings ___ or stolen during the conference.",
+        "options": {
+          "A": "lose",
+          "B": "losing",
+          "C": "lost",
+          "D": "loss"
+        },
+        "answer": "C",
+        "explanation": " 'belongings' を後ろから修飾する形容詞が必要です。「紛失した」という受動的な意味を持つ過去分詞 (C) 'lost' が正解です。 'lost or stolen' で「紛失または盗難された」となります。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_037",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The research findings ___ that a new approach is needed.",
+        "options": {
+          "A": "indicate",
+          "B": "indication",
+          "C": "indicative",
+          "D": "indicator"
+        },
+        "answer": "A",
+        "explanation": "主語 'The research findings' に続く動詞が必要です。したがって、「示す」という意味の (A) 'indicate' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_038",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "All new employees must undergo a ___ training program.",
+        "options": {
+          "A": "period",
+          "B": "periodic",
+          "C": "periodically",
+          "D": "periodical"
+        },
+        "answer": "B",
+        "explanation": "名詞句 'training program' を修飾するのは形容詞です。「定期的な」という意味の (B) 'periodic' が正解です。 'periodical' は「定期刊行物」という名詞です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_039",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The marketing team has come up with several ___ ideas for the new product launch.",
+        "options": {
+          "A": "innovate",
+          "B": "innovative",
+          "C": "innovation",
+          "D": "innovatively"
+        },
+        "answer": "B",
+        "explanation": "名詞 'ideas' を修飾するのは形容詞です。したがって、「革新的な」という意味の (B) 'innovative' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_040",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The survey results will be made public ___ after they are analyzed.",
+        "options": {
+          "A": "short",
+          "B": "shortage",
+          "C": "shorten",
+          "D": "shortly"
+        },
+        "answer": "D",
+        "explanation": "動詞句 'will be made public' を修飾するのは副詞です。したがって、「まもなく、すぐに」という意味の (D) 'shortly' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_041",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "All personnel are expected to adhere ___ the dress code.",
+        "options": {
+          "A": "for",
+          "B": "with",
+          "C": "to",
+          "D": "at"
+        },
+        "answer": "C",
+        "explanation": "'adhere to' は「（規則・主義などを）固く守る、遵守する」という意味の定型表現です。したがって、(C) 'to' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_042",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The museum is seeking to acquire several new ___ for its collection.",
+        "options": {
+          "A": "artworks",
+          "B": "artwork",
+          "C": "artist",
+          "D": "artistic"
+        },
+        "answer": "A",
+        "explanation": "形容詞 'several' の後には可算名詞の複数形が来ます。「芸術作品」を意味する 'artwork' は不可算名詞として使われることもありますが、複数の作品を指す場合は 'artworks' となります。したがって (A) が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_043",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The contract is not valid ___ it is signed by both parties.",
+        "options": {
+          "A": "except",
+          "B": "otherwise",
+          "C": "unless",
+          "D": "without"
+        },
+        "answer": "C",
+        "explanation": "「両者が署名しない限り、契約は有効ではない」という条件を表す文脈です。後ろに節（主語+動詞）が続く接続詞で、「～でない限り」を意味する (C) 'unless' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_044",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "A ___ portion of the company's budget is allocated to research and development.",
+        "options": {
+          "A": "consideration",
+          "B": "considerate",
+          "C": "consider",
+          "D": "considerable"
+        },
+        "answer": "D",
+        "explanation": "名詞 'portion' を修飾するのは形容詞です。したがって、「かなりの、相当な」という意味の (D) 'considerable' が正解です。'considerate' は「思いやりのある」という意味です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_045",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Mr. Chen was promoted to regional manager ___ his outstanding performance.",
+        "options": {
+          "A": "in spite of",
+          "B": "as a result of",
+          "C": "in addition to",
+          "D": "apart from"
+        },
+        "answer": "B",
+        "explanation": "「彼の傑出した業績の結果として」という因果関係を表すため、「～の結果として」を意味する前置詞句 (B) 'as a result of' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_046",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new system is designed to ___ the risk of human error.",
+        "options": {
+          "A": "minimum",
+          "B": "minimal",
+          "C": "minimize",
+          "D": "minimally"
+        },
+        "answer": "C",
+        "explanation": "to不定詞 'to' の後には動詞の原形が続くため、「最小限にする」という意味の (C) 'minimize' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_047",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The financial report must be accurate and ___ with all relevant regulations.",
+        "options": {
+          "A": "compliance",
+          "B": "compliant",
+          "C": "comply",
+          "D": "complied"
+        },
+        "answer": "B",
+        "explanation": "be動詞 'be' の補語となる形容詞 'accurate' と 'and' で結ばれるため、同じく形容詞が必要です。'be compliant with' で「～を遵守している」という意味になるため、(B) 'compliant' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_048",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The city council has approved a ___ to build a new public library.",
+        "options": {
+          "A": "propose",
+          "B": "proposal",
+          "C": "proposed",
+          "D": "proposing"
+        },
+        "answer": "B",
+        "explanation": "冠詞 'a' の後には名詞が必要です。したがって、「提案」という意味の名詞 (B) 'proposal' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_049",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ our records, your subscription will expire next month.",
+        "options": {
+          "A": "According to",
+          "B": "In case of",
+          "C": "Instead of",
+          "D": "As for"
+        },
+        "answer": "A",
+        "explanation": "文脈から「私たちの記録によると」という意味が最も自然です。したがって、「～によると」を意味する前置詞句 (A) 'According to' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_050",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The hotel is ___ located within walking distance of the convention center.",
+        "options": {
+          "A": "convenience",
+          "B": "convene",
+          "C": "convenient",
+          "D": "conveniently"
+        },
+        "answer": "D",
+        "explanation": "動詞句 'is located' を修飾するのは副詞です。したがって、「便利に」という意味の (D) 'conveniently' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_051",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The ___ of the new production line has significantly increased output.",
+        "options": {
+          "A": "install",
+          "B": "installed",
+          "C": "installation",
+          "D": "installing"
+        },
+        "answer": "C",
+        "explanation": "文の主語となる名詞が必要です。定冠詞 'The' の後なので、「設置」という意味の名詞 (C) 'installation' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_052",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The marketing team worked ___ with the sales department on the project.",
+        "options": {
+          "A": "close",
+          "B": "closer",
+          "C": "closely",
+          "D": "closeness"
+        },
+        "answer": "C",
+        "explanation": "動詞 'worked' を修飾するのは副詞です。したがって、「密接に」という意味の (C) 'closely' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_053",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Ms. Davis is ___ for coordinating all international shipments.",
+        "options": {
+          "A": "account",
+          "B": "accountable",
+          "C": "accountant",
+          "D": "accountability"
+        },
+        "answer": "B",
+        "explanation": "be動詞 'is' の補語となる形容詞が必要です。'be accountable for' で「～に対して責任がある」という意味になるため、(B) 'accountable' が正解です。'responsible' とほぼ同義です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_054",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The manual was written with the ___ of being easy for beginners to understand.",
+        "options": {
+          "A": "intent",
+          "B": "intently",
+          "C": "intend",
+          "D": "intended"
+        },
+        "answer": "A",
+        "explanation": "定冠詞 'the' の後、前置詞 'of' の前には名詞が必要です。したがって、「意図」という意味の名詞 (A) 'intent' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_055",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The performance of our new computer is ___ to the previous model.",
+        "options": {
+          "A": "superior",
+          "B": "superiors",
+          "C": "superiorly",
+          "D": "superiority"
+        },
+        "answer": "A",
+        "explanation": "be動詞 'is' の補語となる形容詞が必要です。'superior to' で「～よりも優れている」という比較の意味を表します。'than' ではなく 'to' を使う点に注意が必要です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_056",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "We are seeking a ___ professional with at least five years of experience.",
+        "options": {
+          "A": "high motivation",
+          "B": "highly motivated",
+          "C": "highly motivating",
+          "D": "high and motivated"
+        },
+        "answer": "B",
+        "explanation": "名詞 'professional' を修飾する形容詞句が必要です。「意欲の高い」という意味の (B) 'highly motivated' が正解です。副詞 'highly' が過去分詞形容詞 'motivated' を修飾しています。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_057",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new software is not ___ with our current operating system.",
+        "options": {
+          "A": "compatible",
+          "B": "comparable",
+          "C": "competing",
+          "D": "complying"
+        },
+        "answer": "A",
+        "explanation": "文脈から「その新しいソフトウェアは、私たちの現在のOSと互換性がありません」という意味が最も自然です。'be compatible with' で「～と互換性がある」という意味になるため、(A) 'compatible' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_058",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The client requested a few minor ___ to the design plan.",
+        "options": {
+          "A": "modify",
+          "B": "modifies",
+          "C": "modification",
+          "D": "modifications"
+        },
+        "answer": "D",
+        "explanation": "形容詞 'minor' の後には名詞が必要です。'a few' があるため、可算名詞の複数形が続きます。したがって、「修正」を意味する (D) 'modifications' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_059",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new manager has a more ___ approach to problem-solving.",
+        "options": {
+          "A": "collaboration",
+          "B": "collaboratively",
+          "C": "collaborate",
+          "D": "collaborative"
+        },
+        "answer": "D",
+        "explanation": "名詞 'approach' を修飾するのは形容詞です。したがって、「協力的な、協調的な」という意味の (D) 'collaborative' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_060",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ for the annual conference can be done online.",
+        "options": {
+          "A": "Register",
+          "B": "Registered",
+          "C": "Registration",
+          "D": "Registrant"
+        },
+        "answer": "C",
+        "explanation": "文の主語となる名詞が必要です。したがって、「登録」という意味の名詞 (C) 'Registration' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_061",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company's top ___ is to ensure customer satisfaction.",
+        "options": {
+          "A": "prior",
+          "B": "priority",
+          "C": "prioritize",
+          "D": "prioritization"
+        },
+        "answer": "B",
+        "explanation": "形容詞 'top' の後には、be動詞 'is' の主語となる名詞が必要です。したがって、「優先事項」という意味の名詞 (B) 'priority' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_062",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The research department has made ___ progress in developing a new material.",
+        "options": {
+          "A": "substance",
+          "B": "substantiate",
+          "C": "substantially",
+          "D": "substantial"
+        },
+        "answer": "D",
+        "explanation": "名詞 'progress' を修飾するのは形容詞です。したがって、「かなりの、相当な」という意味の (D) 'substantial' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_063",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The flight from Seoul is ___ to arrive at 3:30 P.M.",
+        "options": {
+          "A": "scheduling",
+          "B": "schedule",
+          "C": "scheduled",
+          "D": "schedules"
+        },
+        "answer": "C",
+        "explanation": "be動詞 'is' の後に続き、「～する予定である」という意味を表す 'be scheduled to do' という受動態の形になります。したがって、過去分詞 (C) 'scheduled' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_064",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The CEO was very ___ of the team's efforts on the project.",
+        "options": {
+          "A": "appreciate",
+          "B": "appreciated",
+          "C": "appreciative",
+          "D": "appreciation"
+        },
+        "answer": "C",
+        "explanation": "be動詞 'was' の補語となる形容詞が必要です。'be appreciative of' で「～に感謝している」という意味になるため、(C) 'appreciative' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_065",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new regulations will have a significant ___ on our business.",
+        "options": {
+          "A": "impact",
+          "B": "impactful",
+          "C": "impacted",
+          "D": "impacting"
+        },
+        "answer": "A",
+        "explanation": "冠詞 'a' と形容詞 'significant' の後には名詞が必要です。したがって、「影響」という意味の名詞 (A) 'impact' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_066",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Participants are advised to book their accommodations well ___ advance.",
+        "options": {
+          "A": "of",
+          "B": "to",
+          "C": "in",
+          "D": "for"
+        },
+        "answer": "C",
+        "explanation": "'in advance' は「前もって、事前に」という意味の定型表現です。したがって、(C) 'in' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_067",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The agreement is ___ on approval from the board of directors.",
+        "options": {
+          "A": "depend",
+          "B": "dependent",
+          "C": "depending",
+          "D": "dependence"
+        },
+        "answer": "B",
+        "explanation": "be動詞 'is' の補語となる形容詞が必要です。'be dependent on' で「～次第である」という意味になるため、(B) 'dependent' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_068",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The terms of this contract are confidential and should not be disclosed to any third ___.",
+        "options": {
+          "A": "part",
+          "B": "parts",
+          "C": "parted",
+          "D": "party"
+        },
+        "answer": "D",
+        "explanation": "形容詞 'third' の後には名詞が必要です。'third party' で「第三者」という意味の定型表現なので、(D) 'party' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_069",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "By ___ the latest technology, we were able to improve our efficiency.",
+        "options": {
+          "A": "adopt",
+          "B": "adopting",
+          "C": "adopted",
+          "D": "adoption"
+        },
+        "answer": "B",
+        "explanation": "前置詞 'By' の後には動名詞が続きます。'by -ing' で「～することによって」という手段を表すため、(B) 'adopting' (採用することによって) が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_070",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The keynote speaker's presentation was both informative and ___.",
+        "options": {
+          "A": "engage",
+          "B": "engaging",
+          "C": "engaged",
+          "D": "engagement"
+        },
+        "answer": "B",
+        "explanation": "'both A and B' の構文で、Aの 'informative' が形容詞なので、Bにも形容詞が入ります。「人を惹きつける、魅力的な」という意味でプレゼンを修飾するのは、現在分詞形容詞の (B) 'engaging' です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_071",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The factory will ___ operations next month after the renovations are complete.",
+        "options": {
+          "A": "resume",
+          "B": "resumes",
+          "C": "resumed",
+          "D": "resuming"
+        },
+        "answer": "A",
+        "explanation": "助動詞 'will' の後には動詞の原形が続くため、「再開する」という意味の (A) 'resume' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_072",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The city is planning to ___ the old bridge with a new one.",
+        "options": {
+          "A": "replace",
+          "B": "replacement",
+          "C": "replaceable",
+          "D": "replaced"
+        },
+        "answer": "A",
+        "explanation": "to不定詞 'to' の後には動詞の原形が続くため、「取り替える」という意味の (A) 'replace' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_073",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The ___ of the two companies is expected to be finalized by the end of the year.",
+        "options": {
+          "A": "merge",
+          "B": "merging",
+          "C": "merger",
+          "D": "merged"
+        },
+        "answer": "C",
+        "explanation": "文の主語となる名詞が必要です。定冠詞 'The' の後なので、「合併」という意味の名詞 (C) 'merger' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_074",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "___ the marketing manager nor the sales director could attend the meeting.",
+        "options": {
+          "A": "Both",
+          "B": "Either",
+          "C": "Neither",
+          "D": "Not only"
+        },
+        "answer": "C",
+        "explanation": "後ろに 'nor' があることから、'neither A nor B' (AもBも～ない) という相関接続詞の構文であると判断できます。したがって、(C) 'Neither' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_075",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The supervisor was impressed by the ___ of the report.",
+        "options": {
+          "A": "accurate",
+          "B": "accurately",
+          "C": "accuracy",
+          "D": "accurateness"
+        },
+        "answer": "C",
+        "explanation": "定冠詞 'the' と前置詞 'of' の間には名詞が入ります。「正確さ」という意味の名詞は (C) 'accuracy' です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_076",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "All employees are entitled ___ a yearly performance review.",
+        "options": {
+          "A": "for",
+          "B": "of",
+          "C": "with",
+          "D": "to"
+        },
+        "answer": "D",
+        "explanation": "'be entitled to' は「～の権利がある、資格がある」という意味の定型表現です。したがって、(D) 'to' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_077",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The sales figures for this quarter are ___ higher than expected.",
+        "options": {
+          "A": "considerably",
+          "B": "considerate",
+          "C": "consideration",
+          "D": "considered"
+        },
+        "answer": "A",
+        "explanation": "比較級 'higher' を修飾するのは副詞です。したがって、「かなり、大幅に」という意味の (A) 'considerably' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_078",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The library expansion project requires ___ planning and resources.",
+        "options": {
+          "A": "extent",
+          "B": "extensive",
+          "C": "extensively",
+          "D": "extend"
+        },
+        "answer": "B",
+        "explanation": "名詞 'planning and resources' を修飾するのは形容詞です。したがって、「広範囲にわたる」という意味の (B) 'extensive' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_079",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company has established a ___ reputation for quality and reliability.",
+        "options": {
+          "A": "solid",
+          "B": "solidly",
+          "C": "solidity",
+          "D": "solidify"
+        },
+        "answer": "A",
+        "explanation": "名詞 'reputation' を修飾するのは形容詞です。したがって、「確固たる、信頼できる」という意味の (A) 'solid' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_080",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The manufacturer provides a two-year ___ against defects.",
+        "options": {
+          "A": "guarantee",
+          "B": "guaranteed",
+          "C": "guaranteeing",
+          "D": "guarantor"
+        },
+        "answer": "A",
+        "explanation": "冠詞 'a' と形容詞句 'two-year' の後には名詞が必要です。したがって、「保証」という意味の名詞 (A) 'guarantee' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_081",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new guidelines were issued to ensure ___ across all departments.",
+        "options": {
+          "A": "consist",
+          "B": "consistent",
+          "C": "consistency",
+          "D": "consistently"
+        },
+        "answer": "C",
+        "explanation": "動詞 'ensure' の目的語となる名詞が必要です。したがって、「一貫性」という意味の名詞 (C) 'consistency' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_082",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The conference was a great success, ___ to the efforts of the organizing committee.",
+        "options": {
+          "A": "largely due",
+          "B": "large and due",
+          "C": "larger due",
+          "D": "due to large"
+        },
+        "answer": "A",
+        "explanation": "「主に～のおかげで」という理由を表す表現です。'due to' を修飾する副詞 'largely' を伴う (A) 'largely due' が最も自然な形です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_083",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The details of the compensation package are still under ___.",
+        "options": {
+          "A": "negotiate",
+          "B": "negotiated",
+          "C": "negotiable",
+          "D": "negotiation"
+        },
+        "answer": "D",
+        "explanation": "前置詞 'under' の後には名詞が必要です。'under negotiation' で「交渉中」という意味の定型表現になるため、(D) 'negotiation' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_084",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "It is ___ that all employees update their contact information annually.",
+        "options": {
+          "A": "imperative",
+          "B": "impartially",
+          "C": "impersonally",
+          "D": "imperfection"
+        },
+        "answer": "A",
+        "explanation": "形式主語 'It' の構文で、be動詞 'is' の補語となる形容詞が必要です。文脈から「必須である、極めて重要である」という意味の (A) 'imperative' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_085",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Our new marketing campaign will be ___ targeted at young adults.",
+        "options": {
+          "A": "specific",
+          "B": "specify",
+          "C": "specifically",
+          "D": "specification"
+        },
+        "answer": "C",
+        "explanation": "過去分詞 'targeted' を修飾するのは副詞です。したがって、「特に、具体的に」という意味の (C) 'specifically' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_086",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The manager decided to ___ the task of organizing the event to her assistant.",
+        "options": {
+          "A": "delegate",
+          "B": "delegation",
+          "C": "delegated",
+          "D": "delegating"
+        },
+        "answer": "A",
+        "explanation": "to不定詞 'to' の後には動詞の原形が続くため、「委任する」という意味の (A) 'delegate' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_087",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The product launch was delayed; ___, the company was able to generate more pre-orders.",
+        "options": {
+          "A": "consequently",
+          "B": "nevertheless",
+          "C": "for instance",
+          "D": "in short"
+        },
+        "answer": "B",
+        "explanation": "「発売は遅れた」というネガティブな事柄と、「より多くの先行予約を生み出せた」というポジティブな事柄をつなぐ逆接の接続副詞が必要です。したがって、「それにもかかわらず」を意味する (B) 'nevertheless' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_088",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company offers its employees a ___ benefits package.",
+        "options": {
+          "A": "compete",
+          "B": "competitive",
+          "C": "competitively",
+          "D": "competition"
+        },
+        "answer": "B",
+        "explanation": "名詞句 'benefits package' を修飾するのは形容詞です。したがって、「競争力のある」という意味の (B) 'competitive' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_089",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The team members collaborated with ___ to complete the project on time.",
+        "options": {
+          "A": "another",
+          "B": "each other",
+          "C": "other",
+          "D": "the other"
+        },
+        "answer": "B",
+        "explanation": "「お互いに」という意味を表す代名詞が必要です。'collaborate with' の目的語として、「お互い」を意味する (B) 'each other' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_090",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "A final decision has not ___ been made regarding the new office location.",
+        "options": {
+          "A": "still",
+          "B": "already",
+          "C": "yet",
+          "D": "ever"
+        },
+        "answer": "C",
+        "explanation": "否定文の現在完了形 'has not been made' と共に使われ、「まだ～ない」という意味を表す副詞は (C) 'yet' です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_091",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The ___ of renewable energy sources is a key part of the government's policy.",
+        "options": {
+          "A": "promote",
+          "B": "promoter",
+          "C": "promotion",
+          "D": "promotional"
+        },
+        "answer": "C",
+        "explanation": "文の主語となる名詞が必要です。定冠詞 'The' の後なので、「促進」という意味の名詞 (C) 'promotion' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_092",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The workshop will provide participants with ___ insights into the latest market trends.",
+        "options": {
+          "A": "value",
+          "B": "valuable",
+          "C": "valuation",
+          "D": "valuably"
+        },
+        "answer": "B",
+        "explanation": "名詞 'insights' を修飾するのは形容詞です。したがって、「貴重な」という意味の (B) 'valuable' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_093",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The survey was conducted to ___ customer satisfaction levels.",
+        "options": {
+          "A": "gauge",
+          "B": "engage",
+          "C": "grant",
+          "D": "guide"
+        },
+        "answer": "A",
+        "explanation": "文脈から「顧客満足度を測定するために調査が行われた」という意味が最も自然です。「測定する、評価する」という意味の動詞 (A) 'gauge' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_094",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "Please ensure that your report is ___ and free of errors before submission.",
+        "options": {
+          "A": "thoroughly",
+          "B": "thorough",
+          "C": "though",
+          "D": "throughout"
+        },
+        "answer": "B",
+        "explanation": "be動詞 'is' の補語となる形容詞が必要です。したがって、「徹底的な、完全な」という意味の (B) 'thorough' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_095",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The architect ___ proposal was selected will lead the project.",
+        "options": {
+          "A": "who",
+          "B": "which",
+          "C": "whose",
+          "D": "that"
+        },
+        "answer": "C",
+        "explanation": "空所の前後（the architect, proposal）の関係を見ると、「その建築家の提案」となるため、所有格の関係代名詞 (C) 'whose' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_096",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The new CEO is expected to ___ several changes to the company's structure.",
+        "options": {
+          "A": "implement",
+          "B": "implication",
+          "C": "implicit",
+          "D": "imply"
+        },
+        "answer": "A",
+        "explanation": "'be expected to do' の to の後なので、動詞の原形が必要です。文脈から「実行する」という意味の (A) 'implement' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_097",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company's performance this year has been ___ with its initial projections.",
+        "options": {
+          "A": "consisted",
+          "B": "consistent",
+          "C": "consistency",
+          "D": "consisting"
+        },
+        "answer": "B",
+        "explanation": "be動詞 'has been' の補語となる形容詞が必要です。'be consistent with' で「～と一致している」という意味になるため、(B) 'consistent' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_098",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The safety inspector identified several areas that require ___ attention.",
+        "options": {
+          "A": "immediate",
+          "B": "immediately",
+          "C": "immediacy",
+          "D": "immediateness"
+        },
+        "answer": "A",
+        "explanation": "名詞 'attention' を修飾するのは形容詞です。したがって、「即時の」という意味の (A) 'immediate' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_099",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "In ___ to the main report, a summary document has also been provided.",
+        "options": {
+          "A": "add",
+          "B": "adding",
+          "C": "addition",
+          "D": "additional"
+        },
+        "answer": "C",
+        "explanation": "'in addition to' は「～に加えて」という意味の定型表現（前置詞句）です。したがって、(C) 'addition' が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "p5_700_100",
+    "content": "",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "The company will not be held ___ for any damages caused by improper use of the equipment.",
+        "options": {
+          "A": "liability",
+          "B": "liable",
+          "C": "reliably",
+          "D": "rely"
+        },
+        "answer": "B",
+        "explanation": "受動態 'be held' の補語となる形容詞が必要です。'be held liable for' で「～に対して法的な責任がある」という意味になるため、(B) 'liable' が正解です。"
+      }
+    ]
+  }
+]

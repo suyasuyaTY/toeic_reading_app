@@ -1,0 +1,152 @@
+[
+  {
+    "id": "p7_700_001",
+    "content": "<strong>From: Human Resources Department</strong><br/><strong>To: All Employees</strong><br/><strong>Date: March 12</strong><br/><strong>Subject: Mandatory Cybersecurity Training</strong><br/><br/>In response to recent cybersecurity threats, our company is implementing a mandatory online training program for all employees. The training will cover password management, phishing awareness, and data protection. All staff must complete the course by March 31. The training takes approximately 90 minutes and can be accessed through the employee portal. Completion will be tracked automatically. Please note that failure to complete the training may result in restricted system access.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "What is the main purpose of this message?",
+        "options": {
+          "A": "To introduce a new employee portal",
+          "B": "To explain consequences of data breaches",
+          "C": "To inform staff about a required training",
+          "D": "To schedule an IT maintenance period"
+        },
+        "answer": "C",
+        "explanation": "本文冒頭に「mandatory online training program」と明記されており、訓練に関する通知である。"
+      },
+      {
+        "id": "q2",
+        "problem": "What might happen if an employee does not complete the training?",
+        "options": {
+          "A": "They will be asked to attend a workshop",
+          "B": "They will lose access to certain systems",
+          "C": "They must write a report on cybersecurity",
+          "D": "They will be fined"
+        },
+        "answer": "B",
+        "explanation": "「failure to complete... may result in restricted system access」と記載されているため。"
+      }
+    ]
+  },
+  {
+    "id": "p7_700_002",
+    "content": "<strong>Online Review – GreenView Hotel</strong><br/>I stayed at GreenView Hotel for three nights during a business trip. The location was perfect—just a short walk from downtown and the convention center. The room was clean and quiet, and the front desk staff were helpful. However, the breakfast options were limited, and the Wi-Fi connection was occasionally slow. Overall, I would stay here again for the convenience and service.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "What did the reviewer like MOST about the hotel?",
+        "options": {
+          "A": "The variety of breakfast foods",
+          "B": "The helpfulness of staff and location",
+          "C": "The fast Wi-Fi service",
+          "D": "The hotel’s low prices"
+        },
+        "answer": "B",
+        "explanation": "レビューの中で「The location was perfect」「the front desk staff were helpful」とあり、肯定的に書かれている。"
+      },
+      {
+        "id": "q2",
+        "problem": "Why might the reviewer hesitate to recommend the hotel to someone else?",
+        "options": {
+          "A": "The hotel is far from the city center",
+          "B": "The rooms were not cleaned daily",
+          "C": "The Wi-Fi and breakfast were not ideal",
+          "D": "The staff was unprofessional"
+        },
+        "answer": "C",
+        "explanation": "「breakfast options were limited」「Wi-Fi connection was occasionally slow」と記載されている。"
+      }
+    ]
+  },
+  {
+    "id": "p7_700_003",
+    "content": "<strong>Event Announcement: Business Networking Luncheon</strong><br/>Join us for our quarterly Business Networking Luncheon on Thursday, May 5, from 12:00 to 2:00 p.m. at the Riverside Convention Center. This event will feature a keynote speech by renowned economist Dr. Marsha Lee, followed by a buffet lunch and open networking session. Space is limited, so please RSVP by April 25 to reserve your spot.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "What is the purpose of the announcement?",
+        "options": {
+          "A": "To sell tickets for a business seminar",
+          "B": "To promote a conference exhibition",
+          "C": "To invite people to a networking event",
+          "D": "To summarize a recent business luncheon"
+        },
+        "answer": "C",
+        "explanation": "「Join us for our quarterly Business Networking Luncheon」と書かれており、参加を促すための告知である。"
+      },
+      {
+        "id": "q2",
+        "problem": "What is likely to happen if someone does not RSVP by the deadline?",
+        "options": {
+          "A": "They will be charged a late fee",
+          "B": "They may not be able to attend",
+          "C": "They must pay extra at the door",
+          "D": "They will receive a reminder email"
+        },
+        "answer": "B",
+        "explanation": "「Space is limited, so please RSVP...」とあるため、期限を過ぎると席がなくなる可能性がある。"
+      }
+    ]
+  },
+  {
+    "id": "p7_700_004",
+    "content": "<strong>To: Marketing Department</strong><br/><strong>From: Joseph Lin, Product Development</strong><br/><strong>Date: September 1</strong><br/><strong>Subject: Delay in Product Release</strong><br/><br/>I wanted to inform you that the launch of the EcoSmart blender has been postponed by two weeks due to unexpected shipping delays of key components. The new release date is September 28. Please adjust the marketing schedule accordingly and hold off on any advertisements until we confirm final inventory arrival. I’ll send an update once we receive confirmation from the supplier.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "What is the main reason for the product delay?",
+        "options": {
+          "A": "A marketing error",
+          "B": "Shipping problems with parts",
+          "C": "Insufficient market research",
+          "D": "Legal approval issues"
+        },
+        "answer": "B",
+        "explanation": "「due to unexpected shipping delays of key components」と原因が記載されている。"
+      },
+      {
+        "id": "q2",
+        "problem": "What should the marketing team do now?",
+        "options": {
+          "A": "Begin social media promotion",
+          "B": "Cancel all promotional plans",
+          "C": "Pause advertisements until further notice",
+          "D": "Send a press release about the delay"
+        },
+        "answer": "C",
+        "explanation": "「hold off on any advertisements until we confirm...」と明確に記されている。"
+      }
+    ]
+  },
+  {
+    "id": "p7_700_005",
+    "content": "<strong>Excerpt from Employee Handbook – Remote Work Policy</strong><br/><br/>Employees approved for remote work must submit a weekly report by Friday at 5:00 p.m. summarizing their tasks and hours. All virtual meetings must be attended unless excused by a manager in advance. Company-provided equipment must be used for security reasons. Failure to follow these guidelines may result in loss of remote work privileges.",
+    "questions": [
+      {
+        "id": "q1",
+        "problem": "What is one requirement for remote employees?",
+        "options": {
+          "A": "They must visit the office weekly",
+          "B": "They must use company-issued equipment",
+          "C": "They must purchase their own software",
+          "D": "They must work from 9 a.m. to 5 p.m."
+        },
+        "answer": "B",
+        "explanation": "「Company-provided equipment must be used」と明記されている。"
+      },
+      {
+        "id": "q2",
+        "problem": "What could happen if an employee does NOT follow the policy?",
+        "options": {
+          "A": "They may be asked to switch departments",
+          "B": "They will receive extra training",
+          "C": "They might lose the ability to work remotely",
+          "D": "They must pay for equipment replacement"
+        },
+        "answer": "C",
+        "explanation": "「Failure to follow... may result in loss of remote work privileges」と記載あり。"
+      }
+    ]
+  }
+]
